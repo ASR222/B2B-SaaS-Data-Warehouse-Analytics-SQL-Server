@@ -1,0 +1,2001 @@
+account_id,company_name,industry,company_size,country,region,acquisition_channel,signup_date,account_owner,is_active
+1,Stellar Innovations,Non-Profit,201-1000,India,Asia-Pacific,organic,2023/11/28,Linda Jones,Y
+2,Vanguard Consulting,Legal,1000+,France,Europe,partner,2025-05-21,Charles Rodriguez,Y
+3,Flux Consulting,Technology,51-200,SG,Asia-Pacific,organic,01/11/2024,Linda Jones,Y
+4,Elevate Group,Education,201-1000,Brazil,South America,referral,2025-07-25,James Mueller,Y
+5,Stellar Analytics,Hospitality,51-200,germany,Europe,referral,2022-12-01,Robert Jackson,N
+6,Apex Digital,Hospitality,201-1000,France,Europe,partner,2024/04/01,Arun Chen,Y
+7,Quantum Group,Legal,1000+,canada,North America,partner,21-May-2023,Robert Jackson,N
+8,Quantum Analytics,Finance,51-200,BR,South America,organic,2022/07/06,James Moore,Y
+9,Helios Dynamics,Consulting,1-50,JP,Asia-Pacific,referral,2023-05-30,James Williams,Y
+10,Forge Systems,Logistics,51-200,Brazil,South America,referral,01-07-2022,James Mueller,N
+11,Pulse Systems,Energy,201-1000,FR,Europe,organic,2022-11-27,Thomas Martin,Y
+12,Flux Labs,Healthcare,1000+,US,North America,paid,05/09/2023,Sarah Wilson,Y
+13,Ignite Systems,Manufacturing,51-200,australia,Asia-Pacific,referral,2024/12/16,Thomas Martin,N
+14,Beacon Software,Healthcare,201-1000,Japan,Asia-Pacific,paid,07-13-2024,Robert Jackson,no
+15,Nova Technologies,Government,201-1000,US,North America,paid,14-Apr-2023,Sarah Wilson,Y
+16,Pulse Analytics,Non-Profit,1000+,CA,North America,paid,2025-03-15,Linda Jones,Y
+17,Forge Corp,Consulting,1-50,India,Asia-Pacific,partner,21-Apr-2024,Linda Jones,Y
+18,Zenith Labs,Finance,201-1000,DE,Europe,paid,2025-01-03,Arun Chen,N
+19,Ignite Technologies,Healthcare,51-200,United States,North America,partner,2025/08/28,Sarah Wilson,Y
+20,Pulse Consulting,Media,201-1000,IN,Asia-Pacific,referral,2022/05/01,Charles Rodriguez,Y
+21,Summit Systems,Energy,1-50,germany,Europe,referral,2023-08-31,James Tanaka,Y
+22,Nimbus Dynamics,Government,51-200,Japan,Asia-Pacific,organic,12/23/2024,James Moore,Y
+23,Nexus Software,Energy,1-50,SG,Asia-Pacific,referral,20-May-2023,Omar Moore,Y
+24,Catalyst Labs,Real Estate,201-1000,Australia,Asia-Pacific,organic,2024/03/21,James Mueller,1
+25,Nimbus Technologies,Finance,201-1000,UK,Europe,paid,06-Jan-2025,James Williams,N
+26,Stellar Dynamics,Consulting,201-1000,Japan,Asia-Pacific,paid,12-Sep-2023,Linda Jones,Y
+27,Nexus Innovations,Legal,201-1000,Japan,Asia-Pacific,referral,11-15-2022,Sarah Wilson,Y
+28,Orbit Software,Technology,1-50,USA,North America,paid,09-Jul-2022,Priya Tanaka,N
+29,Beacon Analytics,Hospitality,51-200,India,Asia-Pacific,referral,02-22-2025,Charles Rodriguez,N
+30,Quantum Industries,Hospitality,201-1000,Canada,North America,paid,2022-03-27,Thomas Martin,Y
+31,Ignite Software,Government,51-200,India,Asia-Pacific,partner,2025-06-25,Priya Tanaka,Y
+32,Catalyst Digital,Media,1-50,IN,Asia-Pacific,paid,05/24/2023,Arun Chen,Y
+33,Vanguard Group,Media,201-1000,DE,Europe,organic,02-Apr-2023,Thomas Martin,no
+34,Stratos Industries,Hospitality,201-1000,Japan,Asia-Pacific,referral,2023-11-10,Linda Jones,Y
+35,Helios Industries,Media,51-200,FR,Europe,organic,2023/10/05,Arun Brown,Y
+36,Stratos Software,Consulting,201-1000,JP,Asia-Pacific,organic,08-Feb-2023,Linda Anderson,Y
+37,Flux Ventures,Logistics,51-200,India,Asia-Pacific,partner,2023/10/31,Priya Tanaka,N
+38,Helios Partners,Retail,201-1000,Australia,Asia-Pacific,partner,04-11-2024,James Mueller,Y
+39,Catalyst Dynamics,Non-Profit,51-200,Brazil,South America,referral,06-24-2024,James Mueller,N
+40,Catalyst Technologies,Finance,1-50,Germany,Europe,paid,2023/09/28,James Mueller,Y
+41,Vertex Dynamics,Real Estate,1000+,India,Asia-Pacific,paid,2025-07-13,Linda Jones,N
+42,Forge Labs,Hospitality,1-50,CA,North America,paid,2024/11/26,Linda Anderson,Y
+43,Ignite Partners,Government,1000+,France,Europe,partner,2024/06/25,Susan Johnson,N
+44,Zenith Consulting,Retail,1000+,Australia,Asia-Pacific,referral,12/03/2024,Susan Johnson,Y
+45,Catalyst Corp,Media,51-200,Japan,Asia-Pacific,organic,2022/06/15,Michael Chen,no
+46,Catalyst Analytics,Media,1-50,BR,South America,partner,2024-05-01,Thomas Martin,true
+47,Flux Digital,Real Estate,51-200,IN,Asia-Pacific,partner,2024/05/08,Arun Brown,Y
+48,Elevate Corp,Energy,1-50,IN,Asia-Pacific,organic,2022-12-05,Michael Chen,Y
+49,Quantum Consulting,Education,51-200,BR,South America,referral,08-Jan-2023,James Moore,true
+50,Orbit Digital,Technology,1-50,IN,Asia-Pacific,paid,2023-06-01,James Tanaka,N
+51,Nova Labs,Finance,1000+,germany,Europe,organic,02-11-2022,Omar Moore,Y
+52,Beacon Innovations,Non-Profit,51-200,AU,Asia-Pacific,organic,01-26-2024,Arun Brown,Y
+53,Flux Partners,Healthcare,51-200,India,Asia-Pacific,referral,03-23-2024,Linda Jones,Y
+54,Nimbus Digital,Healthcare,201-1000,US,North America,partner,2023/12/13,Linda Jones,N
+55,Stratos Ventures,Real Estate,1000+,australia,Asia-Pacific,referral,15-Jun-2025,Robert Jackson,N
+56,Vertex Group,Education,1-50,BR,South America,referral,05/15/2023,Sarah Wilson,N
+57,Pulse Corp,Logistics,1-50,australia,Asia-Pacific,paid,2023-11-29,Robert Jackson,N
+58,Forge Dynamics,Real Estate,1-50,Japan,Asia-Pacific,referral,05/08/2023,James Moore,N
+59,Zenith Group,Media,201-1000,SG,Asia-Pacific,partner,26-Jan-2024,James Williams,N
+60,Orbit Labs,Manufacturing,51-200,united kingdom,Europe,referral,01-30-2023,Linda Anderson,Y
+61,Helios Group,Finance,201-1000,UK,Europe,paid,02-Feb-2023,James Tanaka,N
+62,Apex Analytics,Healthcare,1-50,australia,Asia-Pacific,referral,2022/09/16,Sarah Wilson,N
+63,Beacon Corp,Healthcare,1-50,CA,North America,partner,2022-04-16,Sophie Ahmed,N
+64,Apex Systems,Manufacturing,1-50,canada,North America,partner,02-26-2025,James Mueller,Y
+65,Helios Labs,Retail,1000+,JP,Asia-Pacific,organic,02-19-2024,Linda Jones,N
+66,Pulse Ventures,Manufacturing,51-200,germany,Europe,organic,06/26/2023,Arun Brown,Y
+67,Flux Solutions,Healthcare,51-200,DE,Europe,paid,2023/08/14,Linda Jones,N
+68,Ignite Labs,Technology,51-200,CA,North America,referral,2023/06/29,Linda Jones,Y
+69,Flux Innovations,Real Estate,1-50,India,Asia-Pacific,partner,12-Jul-2023,James Mueller,N
+70,Orbit Solutions,Non-Profit,201-1000,UK,Europe,paid,2023/04/14,Linda Anderson,Y
+71,Orbit Systems,Healthcare,1000+,SG,Asia-Pacific,partner,11-Jun-2024,Michael Davis,N
+72,Nexus Consulting,Retail,1000+,canada,North America,organic,2023/11/07,David Davis,N
+73,,Government,1-50,FR,Europe,partner,2022-08-26,Omar Moore,N
+74,Stratos Corp,Manufacturing,201-1000,Singapore,Asia-Pacific,referral,2024/10/17,Sarah Wilson,Y
+75,Nexus Solutions,Logistics,1-50,SG,Asia-Pacific,organic,05/06/2023,Linda Jones,N
+76,Beacon Technologies,Logistics,201-1000,CA,North America,partner,2024/10/17,Robert Jackson,N
+77,Pulse Software,Government,1-50,SG,Asia-Pacific,partner,06-Nov-2024,Linda Anderson,Y
+78,Orbit Consulting,Government,51-200,united states,North America,partner,03-Aug-2023,Michael Davis,N
+79,Ignite Digital,Government,51-200,Japan,Asia-Pacific,partner,02/12/2024,Michael Chen,N
+80,Apex Corp,Real Estate,1-50,Brazil,South America,referral,2024-02-20,Arun Chen,Y
+81,Nexus Analytics,Government,51-200,Brazil,South America,partner,01-Feb-2022,Michael Davis,N
+82,Helios Innovations,Government,1000+,IN,Asia-Pacific,partner,08-23-2025,James Tanaka,0
+83,Helios Technologies,Manufacturing,1-50,DE,Europe,organic,2025-07-16,Arun Chen,N
+84,Flux Software,Retail,201-1000,USA,North America,partner,04/05/2022,Robert Jackson,Y
+85,Nimbus Ventures,Energy,51-200,CA,North America,paid,12/15/2022,Arun Chen,N
+86,Orbit Dynamics,Hospitality,201-1000,australia,Asia-Pacific,paid,2025-09-27,Arun Chen,false
+87,Vanguard Partners,Real Estate,201-1000,Australia,Asia-Pacific,partner,2025/08/01,Linda Jones,N
+88,Zenith Industries,Technology,1000+,SG,Asia-Pacific,organic,01-06-2024,James Tanaka,N
+89,Summit Consulting,Manufacturing,51-200,australia,Asia-Pacific,referral,04/17/2023,Linda Jones,N
+90,Apex Group,Healthcare,201-1000,BR,South America,partner,03/10/2022,Omar Moore,Y
+91,Quantum Digital,Government,51-200,JP,Asia-Pacific,partner,20-Jan-2024,Michael Davis,N
+92,Nexus Dynamics,Government,1000+,GB,Europe,organic,2022/10/16,Arun Brown,Y
+93,Orbit Analytics,Energy,1000+,GB,Europe,organic,07/20/2024,Sarah Wilson,N
+94,Nova Partners,Consulting,1-50,JP,Asia-Pacific,referral,2023/11/03,Linda Jones,Y
+95,Quantum Solutions,Healthcare,51-200,U.S.A.,North America,paid,2023/09/16,Arun Chen,Y
+96,Vanguard Ventures,Hospitality,1000+,Japan,Asia-Pacific,partner,05-08-2024,Michael Chen,Y
+97,Vanguard Labs,Healthcare,201-1000,BR,South America,organic,2024/06/29,Susan Johnson,N
+98,Pulse Technologies,Technology,201-1000,Brazil,South America,paid,07-07-2022,Omar Moore,Y
+99,Vertex Consulting,Education,51-200,Japan,Asia-Pacific,referral,03/01/2023,Yuki Brown,Y
+100,Ignite Group,Finance,1-50,CA,North America,paid,08-14-2022,Michael Davis,Y
+101,Nova Systems,Logistics,1-50,australia,Asia-Pacific,organic,2022/04/18,Arun Chen,true
+102,Vanguard Analytics,Energy,1-50,SG,Asia-Pacific,partner,2022-08-12,James Tanaka,Y
+103,Elevate Industries,Healthcare,1-50,GB,Europe,paid,2024-10-01,Yuki Brown,N
+104,Orbit Partners,Energy,201-1000,SG,Asia-Pacific,partner,2025-01-28,Linda Jones,N
+105,Ignite Innovations,Media,201-1000,DE,Europe,partner,2024/05/30,Linda Jones,Y
+106,Catalyst Industries,Consulting,1000+,France,Europe,organic,2025-09-24,David Davis,Y
+107,Forge Technologies,Consulting,1-50,FR,Europe,referral,2022/09/24,James Tanaka,N
+108,Flux Corp,Consulting,1000+,United Kingdom,Europe,organic,29-Mar-2025,Charles Rodriguez,Y
+109,Vanguard Technologies,Government,1-50,australia,Asia-Pacific,referral,2025-03-21,Priya Tanaka,N
+110,Orbit Innovations,Government,51-200,australia,Asia-Pacific,partner,2023-11-27,Yuki Brown,Y
+111,Stratos Labs,Education,201-1000,IN,Asia-Pacific,organic,2024-05-09,Yuki Brown,Y
+112,Stellar Digital,Real Estate,1000+,SG,Asia-Pacific,partner,2022/04/12,Susan Johnson,N
+113,Pulse Digital,Retail,1000+,JP,Asia-Pacific,organic,08/22/2022,James Moore,Y
+114,Helios Solutions,Non-Profit,51-200,USA,North America,referral,23-Feb-2023,Linda Jones,Y
+115,Nova Dynamics,Legal,51-200,IN,Asia-Pacific,organic,2022/12/26,James Tanaka,Yes
+116,Forge Solutions,Energy,1000+,BR,South America,referral,2022-06-09,James Moore,N
+117,Nova Corp,Healthcare,1000+,Canada,North America,paid,2025/06/19,Sophie Ahmed,N
+118,Elevate Analytics,Manufacturing,201-1000,United Kingdom,Europe,organic,03-21-2024,Linda Jones,N
+119,Stratos Analytics,Manufacturing,1-50,Germany,Europe,referral,12/17/2023,Priya Tanaka,Y
+120,Helios Systems,Real Estate,1000+,GB,Europe,referral,12/29/2022,Arun Chen,N
+121,Beacon Ventures,Logistics,1-50,AU,Asia-Pacific,partner,2023/07/17,James Tanaka,N
+122,Flux Technologies,Real Estate,1-50,united kingdom,Europe,paid,13-Jun-2025,James Mueller,N
+123,Summit Analytics,Legal,1-50,canada,North America,paid,2022-05-07,Robert Jackson,N
+124,Beacon Dynamics,Education,201-1000,JP,Asia-Pacific,partner,06-Dec-2024,James Mueller,N
+125,Ignite Ventures,Education,1-50,India,Asia-Pacific,referral,05-Aug-2023,James Moore,Y
+126,Quantum Partners,Government,51-200,UK,Europe,partner,09-27-2023,Thomas Martin,N
+127,Flux Systems,Manufacturing,51-200,Germany,Europe,paid,2023-12-01,James Williams,N
+128,Ignite Consulting,Energy,1000+,Japan,Asia-Pacific,paid,03/19/2022,James Mueller,Y
+129,,Real Estate,201-1000,IN,Asia-Pacific,paid,01-17-2024,Robert Jackson,Y
+130,Summit Software,Real Estate,201-1000,DE,Europe,partner,01/24/2024,Omar Moore,N
+131,Stratos Consulting,Retail,1000+,United Kingdom,Europe,partner,2023-08-07,Robert Jackson,yes
+132,Vanguard Software,Education,51-200,united states,North America,organic,29-Apr-2024,Robert Jackson,Yes
+133,Quantum Systems,Legal,51-200,united states,North America,partner,08-11-2023,Arun Brown,N
+134,Vertex Solutions,Healthcare,201-1000,Australia,Asia-Pacific,referral,2023-03-18,James Tanaka,N
+135,Vertex Technologies,Legal,51-200,BR,South America,partner,2025-05-07,James Mueller,Y
+136,Nimbus Industries,Healthcare,1-50,CA,North America,partner,2025-09-22,James Moore,N
+137,Vertex Corp,Finance,1-50,DE,Europe,referral,09/07/2025,Arun Chen,N
+138,Summit Ventures,Technology,201-1000,Canada,North America,organic,10/04/2022,James Tanaka,false
+139,Catalyst Software,Retail,1-50,australia,Asia-Pacific,paid,21-Nov-2024,Thomas Martin,N
+140,Apex Consulting,Media,1000+,FR,Europe,partner,14-Jul-2023,Priya Tanaka,0
+141,Summit Innovations,Non-Profit,1-50,BR,South America,organic,2024/01/23,James Mueller,N
+142,Nexus Technologies,Energy,1000+,France,Europe,partner,15-Sep-2025,Arun Chen,N
+143,Apex Innovations,Consulting,1-50,France,Europe,partner,13-Jun-2025,Linda Anderson,N
+144,Stellar Solutions,Technology,51-200,Canada,North America,paid,29-May-2025,Thomas Martin,N
+145,Elevate Partners,Education,201-1000,united states,North America,organic,05-24-2025,Yuki Brown,N
+146,Beacon Labs,Manufacturing,1-50,Singapore,Asia-Pacific,organic,2023/08/08,Priya Tanaka,N
+147,Catalyst Ventures,Hospitality,201-1000,France,Europe,paid,13-May-2022,Linda Anderson,N
+148,Zenith Technologies,Technology,201-1000,germany,Europe,referral,2022/10/12,Charles Rodriguez,N
+149,Flux Industries,Government,1-50,Brazil,South America,referral,2024-12-12,Arun Chen,N
+150,Quantum Software,Media,1-50,Japan,Asia-Pacific,paid,03-Aug-2025,Priya Tanaka,Y
+151,Stellar Corp,Government,1-50,DE,Europe,paid,12-10-2023,Susan Johnson,N
+152,Quantum Ventures,Energy,51-200,Australia,Asia-Pacific,referral,06-12-2025,James Tanaka,Y
+153,Apex Ventures,Energy,1-50,SG,Asia-Pacific,referral,27-Jun-2023,Sarah Wilson,N
+154,Zenith Digital,Finance,1000+,IN,Asia-Pacific,partner,2023/09/02,Omar Moore,Y
+155,Catalyst Partners,Legal,201-1000,CA,North America,paid,03-Oct-2023,Linda Anderson,N
+156,Zenith Systems,Government,1000+,United Kingdom,Europe,paid,14-Apr-2022,Sophie Ahmed,N
+157,Stratos Dynamics,Media,1000+,Brazil,South America,paid,09-24-2023,Thomas Martin,Y
+158,Apex Solutions,Retail,1-50,Australia,Asia-Pacific,partner,10/10/2024,Susan Johnson,N
+159,Vanguard Digital,Energy,51-200,IN,Asia-Pacific,referral,2024-01-20,James Moore,Y
+160,Helios Ventures,Media,201-1000,SG,Asia-Pacific,referral,09/01/2022,Omar Moore,N
+161,Helios Analytics,Finance,201-1000,IN,Asia-Pacific,partner,10/21/2024,James Mueller,Y
+162,Stratos Systems,Energy,201-1000,FR,Europe,partner,06-09-2025,James Williams,N
+163,Nexus Industries,Energy,1000+,SG,Asia-Pacific,paid,2023-09-23,Sophie Ahmed,Y
+164,Helios Digital,Technology,1-50,India,Asia-Pacific,organic,2022/10/30,Michael Davis,Y
+165,Forge Innovations,Government,1-50,germany,Europe,paid,04-20-2024,Omar Moore,N
+166,Ignite Corp,Real Estate,201-1000,BR,South America,referral,12-12-2024,Sarah Wilson,Y
+167,Pulse Labs,Non-Profit,201-1000,australia,Asia-Pacific,paid,2025/02/16,Michael Davis,N
+168,Summit Corp,Hospitality,1000+,JP,Asia-Pacific,paid,15-Jul-2023,James Tanaka,N
+169,Summit Labs,Finance,1-50,germany,Europe,paid,01/08/2025,James Tanaka,N
+170,Zenith Solutions,Healthcare,51-200,UK,Europe,paid,2024/04/26,Sarah Wilson,N
+171,Apex Software,Hospitality,51-200,united kingdom,Europe,paid,2025-08-28,James Moore,Y
+172,,Retail,51-200,Brazil,South America,referral,10/02/2022,Arun Chen,N
+173,Helios Consulting,Media,1-50,India,Asia-Pacific,paid,2024/05/25,Michael Davis,Y
+174,Orbit Industries,Retail,1-50,DE,Europe,referral,07/03/2024,James Tanaka,N
+175,Elevate Ventures,Education,51-200,Japan,Asia-Pacific,paid,2023/09/29,Yuki Brown,N
+176,Helios Corp,Non-Profit,51-200,India,Asia-Pacific,partner,01-29-2025,Thomas Martin,Y
+177,Vertex Software,Hospitality,51-200,Singapore,Asia-Pacific,paid,18-Aug-2022,Linda Anderson,Yes
+178,Pulse Innovations,Real Estate,1-50,SG,Asia-Pacific,paid,09-28-2024,Michael Chen,Yes
+179,Beacon Partners,Legal,1-50,united states,North America,referral,2025-02-18,Omar Moore,N
+180,Apex Industries,Hospitality,1-50,FR,Europe,organic,11-May-2022,Michael Chen,Y
+181,Elevate Dynamics,Finance,201-1000,India,Asia-Pacific,paid,02-09-2024,James Moore,Yes
+182,Nova Digital,Logistics,1000+,United States,North America,paid,2023/09/04,Thomas Martin,N
+183,Forge Partners,Energy,1-50,united states,North America,organic,05/08/2023,James Tanaka,Y
+184,Zenith Analytics,Manufacturing,201-1000,germany,Europe,referral,04/26/2022,James Williams,1
+185,Forge Group,Consulting,1000+,australia,Asia-Pacific,partner,2022-05-05,Thomas Martin,Y
+186,Elevate Digital,Finance,201-1000,JP,Asia-Pacific,paid,10-15-2023,Sarah Wilson,N
+187,Forge Industries,Retail,51-200,JP,Asia-Pacific,organic,2024/12/21,Thomas Martin,no
+188,Vertex Analytics,Government,1-50,Germany,Europe,paid,2022/04/16,Omar Moore,Y
+189,Zenith Innovations,Logistics,201-1000,SG,Asia-Pacific,partner,2023/02/23,Charles Rodriguez,Y
+190,Orbit Corp,Non-Profit,201-1000,Japan,Asia-Pacific,referral,15-Oct-2024,Michael Chen,N
+191,Apex Partners,Hospitality,1000+,DE,Europe,paid,10/26/2022,Michael Davis,Yes
+192,Nimbus Consulting,Retail,1000+,germany,Europe,partner,2024/10/19,Priya Tanaka,N
+193,Vanguard Systems,Logistics,1-50,Canada,North America,organic,2025-01-24,Michael Chen,Y
+194,Helios Software,Logistics,1000+,Brazil,South America,organic,09-12-2025,Susan Johnson,Y
+195,Nova Analytics,Logistics,51-200,India,Asia-Pacific,paid,01-03-2023,Linda Anderson,N
+196,Elevate Technologies,Legal,51-200,FR,Europe,organic,2024-04-11,David Davis,Y
+197,Summit Solutions,Consulting,201-1000,U.S.A.,North America,organic,12-17-2022,James Tanaka,true
+198,Vertex Ventures,Finance,201-1000,Australia,Asia-Pacific,paid,01-17-2025,Yuki Brown,Y
+199,Elevate Software,Energy,1000+,GB,Europe,partner,09/05/2023,David Davis,Y
+200,Stratos Innovations,Government,1-50,FR,Europe,partner,20-Apr-2022,Arun Brown,no
+201,Orbit Digital 462,Media,51-200,BR,South America,organic,04-13-2023,James Williams,N
+202,Zenith Innovations 76,Legal,1000+,GB,Europe,referral,2023-07-03,David Davis,Y
+203,Nova Group 456,Finance,1000+,FR,Europe,partner,2023-07-07,Arun Brown,N
+204,Vertex Corp 568,Government,1000+,UK,Europe,referral,2025/05/07,James Moore,N
+205,Vertex Innovations 923,Consulting,1000+,Japan,Asia-Pacific,paid,13-May-2023,James Williams,Y
+206,,Retail,1000+,UK,Europe,referral,09-Dec-2022,Robert Jackson,N
+207,Summit Partners 632,Technology,1000+,DE,Europe,partner,26-Jul-2024,Arun Chen,1
+208,Catalyst Industries 836,Real Estate,201-1000,Singapore,Asia-Pacific,partner,06-Oct-2022,James Williams,Y
+209,,Education,1-50,germany,Europe,paid,10-30-2023,Charles Rodriguez,N
+210,Stellar Ventures 787,Legal,51-200,JP,Asia-Pacific,referral,2022-02-25,Michael Chen,N
+211,Summit Systems 649,Legal,1000+,AU,Asia-Pacific,organic,2023/05/11,James Mueller,Y
+212,Summit Partners 411,Logistics,1-50,JP,Asia-Pacific,organic,2024-11-03,Robert Jackson,N
+213,Vanguard Systems 663,Non-Profit,201-1000,SG,Asia-Pacific,organic,2022-04-01,Linda Jones,N
+214,Orbit Labs 523,Real Estate,201-1000,JP,Asia-Pacific,partner,02-16-2025,Linda Anderson,Y
+215,Quantum Corp 26,Healthcare,51-200,BR,South America,referral,03-Aug-2022,Arun Chen,Y
+216,Pulse Analytics 495,Education,1-50,FR,Europe,organic,2024-09-02,Arun Brown,false
+217,Catalyst Ventures 112,Education,1000+,CA,North America,paid,2023/05/15,Priya Tanaka,Y
+218,Stellar Ventures 674,Hospitality,51-200,IN,Asia-Pacific,partner,2024/03/21,Arun Brown,No
+219,Pulse Labs 286,Finance,201-1000,GB,Europe,paid,2025/03/28,Linda Jones,Yes
+220,Orbit Ventures 884,Energy,1000+,BR,South America,organic,16-Dec-2024,Thomas Martin,N
+221,Beacon Partners 177,Education,1-50,Australia,Asia-Pacific,referral,2025-06-12,Priya Tanaka,Y
+222,Vanguard Innovations 145,Energy,1000+,JP,Asia-Pacific,paid,2024/03/06,Charles Rodriguez,Y
+223,Stellar Analytics 171,Government,1000+,Brazil,South America,referral,2023-08-15,Sarah Wilson,0
+224,Quantum Labs 835,Media,1000+,IN,Asia-Pacific,partner,2025/02/24,Priya Tanaka,N
+225,Vertex Partners 32,Logistics,201-1000,Germany,Europe,partner,08-22-2023,Sarah Wilson,no
+226,Ignite Analytics 116,Logistics,1-50,SG,Asia-Pacific,paid,2022/08/22,Linda Jones,N
+227,Zenith Group 896,Real Estate,1-50,United States,North America,paid,07-10-2024,Thomas Martin,Y
+228,Helios Ventures 439,Government,51-200,Canada,North America,referral,06-15-2025,Susan Johnson,no
+229,Helios Analytics 173,Government,1-50,France,Europe,partner,2023-08-23,Susan Johnson,N
+230,Quantum Innovations 887,Government,51-200,canada,North America,partner,2023/05/27,Yuki Brown,0
+231,Nimbus Ventures 276,Media,201-1000,IN,Asia-Pacific,partner,2024/02/08,Michael Davis,Y
+232,Nimbus Solutions 890,Government,1-50,united kingdom,Europe,paid,2024/07/27,Omar Moore,N
+233,Summit Group 331,Energy,1000+,AU,Asia-Pacific,organic,2023-11-23,Linda Jones,Y
+234,Beacon Solutions 128,Manufacturing,51-200,canada,North America,referral,06/22/2024,Susan Johnson,N
+235,Vertex Ventures 370,Technology,1000+,australia,Asia-Pacific,referral,06/18/2022,Michael Chen,Y
+236,Vertex Innovations 98,Energy,51-200,U.S.A.,North America,partner,2023-03-14,Arun Brown,Y
+237,Catalyst Consulting 124,Media,1-50,India,Asia-Pacific,organic,28-Sep-2022,Thomas Martin,Y
+238,Flux Systems 392,Healthcare,1-50,canada,North America,paid,2025/08/06,Thomas Martin,Y
+239,Pulse Ventures 767,Government,51-200,Canada,North America,organic,04/23/2024,Linda Jones,N
+240,Nimbus Innovations 394,Manufacturing,201-1000,France,Europe,paid,05-29-2024,James Mueller,Y
+241,Helios Innovations 623,Manufacturing,51-200,australia,Asia-Pacific,partner,24-Feb-2022,James Tanaka,N
+242,Zenith Dynamics 396,Logistics,1-50,GB,Europe,referral,05/09/2023,James Moore,Y
+243,Nimbus Industries 375,Technology,1-50,Japan,Asia-Pacific,referral,12/20/2022,James Tanaka,Y
+244,Apex Digital 408,Media,1000+,Japan,Asia-Pacific,paid,10-Aug-2023,David Davis,N
+245,,Energy,1-50,DE,Europe,partner,11/15/2022,James Tanaka,N
+246,Zenith Technologies 947,Retail,51-200,India,Asia-Pacific,organic,08/26/2022,Arun Brown,Y
+247,Stellar Dynamics 976,Finance,201-1000,France,Europe,referral,2024-12-07,Arun Brown,N
+248,Catalyst Digital 440,Consulting,1-50,AU,Asia-Pacific,partner,12-08-2024,Thomas Martin,No
+249,Apex Dynamics 880,Non-Profit,1-50,Singapore,Asia-Pacific,paid,12-08-2022,Arun Brown,N
+250,Apex Consulting 884,Media,51-200,United States,North America,organic,05-16-2023,Michael Chen,0
+251,Zenith Corp 255,Energy,201-1000,India,Asia-Pacific,organic,10/18/2023,Robert Jackson,Y
+252,Stratos Solutions 977,Non-Profit,201-1000,IN,Asia-Pacific,organic,05-22-2022,Arun Chen,N
+253,Nova Corp 206,Real Estate,201-1000,australia,Asia-Pacific,partner,02/28/2025,Charles Rodriguez,Y
+254,Zenith Systems 7,Consulting,1-50,IN,Asia-Pacific,organic,2022/02/18,James Williams,N
+255,Nexus Labs 543,Finance,201-1000,Germany,Europe,organic,05/09/2024,Linda Anderson,Y
+256,Forge Innovations 918,Energy,1-50,France,Europe,partner,2024-07-27,Sophie Ahmed,Y
+257,Nimbus Solutions 446,Hospitality,1000+,canada,North America,referral,30-Apr-2023,Arun Chen,N
+258,Orbit Labs 77,Finance,1-50,Germany,Europe,partner,2022/10/06,Michael Davis,Y
+259,Forge Technologies 549,Retail,1-50,France,Europe,paid,02-Mar-2023,James Mueller,N
+260,Apex Labs 856,Education,1000+,France,Europe,referral,31-Oct-2022,Priya Tanaka,no
+261,Nova Industries 876,Healthcare,1000+,Brazil,South America,paid,2025-02-12,Arun Brown,Y
+262,Apex Consulting 800,Education,1-50,germany,Europe,referral,2022-09-25,Arun Brown,N
+263,Vertex Labs 925,Healthcare,1-50,BR,South America,organic,09/21/2022,Sophie Ahmed,0
+264,Forge Consulting 742,Finance,201-1000,India,Asia-Pacific,paid,13-Oct-2024,Susan Johnson,true
+265,Beacon Software 153,Consulting,201-1000,united states,North America,partner,06-11-2025,Sarah Wilson,Y
+266,Apex Technologies 287,Consulting,1-50,IN,Asia-Pacific,referral,2022/10/09,Charles Rodriguez,Y
+267,Summit Corp 935,Finance,1-50,SG,Asia-Pacific,paid,2024-10-25,Susan Johnson,N
+268,Apex Digital 484,Finance,1-50,Japan,Asia-Pacific,paid,03-Jan-2024,Charles Rodriguez,Y
+269,Apex Digital 971,Education,51-200,Germany,Europe,paid,03-25-2025,Michael Davis,N
+270,Vanguard Software 606,Energy,51-200,united states,North America,referral,12/22/2023,Sarah Wilson,Y
+271,Apex Technologies 58,Technology,201-1000,germany,Europe,paid,05/17/2025,Michael Davis,N
+272,Stellar Software 822,Legal,51-200,France,Europe,referral,2022-05-02,Thomas Martin,No
+273,Elevate Partners 104,Legal,1000+,FR,Europe,referral,09/11/2023,Charles Rodriguez,Y
+274,Helios Digital 366,Media,201-1000,germany,Europe,referral,09/25/2025,Priya Tanaka,Y
+275,Nova Innovations 972,Finance,201-1000,Singapore,Asia-Pacific,organic,2024/03/12,Yuki Brown,Y
+276,Catalyst Innovations 80,Consulting,1-50,germany,Europe,referral,2023/12/12,Arun Brown,Y
+277,Orbit Labs 256,Legal,1-50,UK,Europe,partner,2023/12/19,Michael Chen,Y
+278,Stellar Software 424,Healthcare,1000+,Brazil,South America,paid,2024/02/15,David Davis,N
+279,Apex Group 21,Education,51-200,FR,Europe,paid,2023-06-19,Charles Rodriguez,Y
+280,Vertex Corp 609,Consulting,51-200,SG,Asia-Pacific,paid,2024-09-15,Linda Jones,N
+281,Catalyst Labs 998,Consulting,201-1000,DE,Europe,paid,2024-04-18,James Tanaka,N
+282,Elevate Partners 563,Media,1-50,BR,South America,partner,11/11/2022,Linda Jones,Y
+283,Nova Labs 175,Retail,1000+,AU,Asia-Pacific,partner,17-Jun-2022,David Davis,Y
+284,Ignite Industries 190,Technology,201-1000,FR,Europe,partner,21-Feb-2024,Robert Jackson,N
+285,Orbit Partners 64,Non-Profit,1000+,canada,North America,paid,09-28-2025,James Tanaka,0
+286,Elevate Consulting 536,Energy,51-200,IN,Asia-Pacific,referral,2025-01-01,James Moore,N
+287,Apex Analytics 585,Healthcare,1000+,Japan,Asia-Pacific,paid,03/16/2025,Omar Moore,Y
+288,Quantum Solutions 434,Government,201-1000,GB,Europe,organic,2024-06-10,James Moore,Y
+289,Ignite Industries 566,Non-Profit,1000+,France,Europe,partner,07/20/2023,Yuki Brown,Y
+290,Nimbus Partners 597,Non-Profit,201-1000,GB,Europe,partner,05-Aug-2022,James Moore,Y
+291,Summit Partners 624,Finance,1000+,Brazil,South America,partner,18-Mar-2022,Robert Jackson,N
+292,Apex Innovations 487,Retail,201-1000,AU,Asia-Pacific,organic,02/02/2024,Yuki Brown,1
+293,Flux Innovations 454,Manufacturing,1000+,France,Europe,partner,2023/07/06,Linda Anderson,Y
+294,Vanguard Consulting 58,Media,51-200,Japan,Asia-Pacific,paid,11/22/2022,Omar Moore,Yes
+295,Apex Labs 34,Retail,201-1000,BR,South America,partner,2022-04-14,Arun Brown,Y
+296,Zenith Corp 501,Energy,201-1000,SG,Asia-Pacific,paid,02-Jul-2024,David Davis,N
+297,Flux Solutions 396,Government,51-200,United States,North America,paid,30-Nov-2022,Michael Chen,Y
+298,Stratos Solutions 886,Energy,1-50,United States,North America,referral,08-28-2024,James Williams,Y
+299,Orbit Industries 917,Real Estate,201-1000,IN,Asia-Pacific,organic,2023-12-16,Linda Anderson,Y
+300,Vanguard Analytics 663,Real Estate,1-50,SG,Asia-Pacific,referral,01-Jun-2025,Susan Johnson,Y
+301,Orbit Ventures 729,Hospitality,1-50,australia,Asia-Pacific,partner,21-Jan-2023,Yuki Brown,no
+302,Nova Ventures 510,Media,1-50,australia,Asia-Pacific,paid,16-Jun-2023,Robert Jackson,N
+303,Ignite Ventures 804,Government,51-200,BR,South America,organic,2024/01/05,Yuki Brown,Y
+304,Orbit Innovations 828,Consulting,1-50,Japan,Asia-Pacific,referral,01/10/2023,James Williams,N
+305,Forge Digital 909,Real Estate,1-50,FR,Europe,organic,02-01-2024,Sophie Ahmed,N
+306,Helios Technologies 484,Logistics,201-1000,DE,Europe,organic,10/21/2024,Yuki Brown,true
+307,Pulse Corp 420,Non-Profit,1-50,SG,Asia-Pacific,referral,07/26/2024,Michael Davis,yes
+308,Apex Solutions 463,Energy,51-200,AU,Asia-Pacific,organic,03/05/2023,James Mueller,Y
+309,Forge Ventures 440,Technology,1-50,India,Asia-Pacific,referral,2024-05-28,Michael Davis,N
+310,Stratos Labs 19,Legal,201-1000,USA,North America,paid,2025-07-07,James Moore,Y
+311,Stratos Partners 314,Retail,1000+,canada,North America,referral,2022/05/14,Yuki Brown,N
+312,Catalyst Software 502,Technology,51-200,France,Europe,paid,01/21/2023,Arun Brown,N
+313,Nimbus Analytics 174,Media,201-1000,UK,Europe,organic,2024-01-21,Arun Brown,Y
+314,Apex Innovations 119,Real Estate,51-200,India,Asia-Pacific,organic,28-Jun-2024,Michael Chen,N
+315,Nexus Ventures 533,Media,1-50,australia,Asia-Pacific,organic,29-Jun-2025,Linda Jones,Y
+316,Nexus Dynamics 204,Education,1000+,SG,Asia-Pacific,paid,2023-02-14,Charles Rodriguez,Y
+317,Summit Software 213,Consulting,1-50,Brazil,South America,partner,11/09/2023,David Davis,Y
+318,Stratos Technologies 741,Retail,201-1000,united kingdom,Europe,organic,2023-06-09,Priya Tanaka,N
+319,Apex Consulting 298,Healthcare,1-50,France,Europe,paid,10/03/2023,Michael Davis,Y
+320,Vanguard Software 449,Education,201-1000,Singapore,Asia-Pacific,organic,2023/07/04,James Moore,Y
+321,Beacon Group 856,Healthcare,51-200,India,Asia-Pacific,paid,2024-09-06,Michael Chen,Y
+322,Nimbus Dynamics 822,Non-Profit,201-1000,Singapore,Asia-Pacific,paid,2024/06/16,Sarah Wilson,N
+323,Nexus Software 422,Technology,51-200,BR,South America,organic,2022/04/05,Robert Jackson,0
+324,Summit Corp 680,Technology,51-200,IN,Asia-Pacific,partner,11/01/2022,David Davis,Y
+325,Summit Corp 247,Logistics,1000+,FR,Europe,paid,2023-07-24,Arun Chen,no
+326,Beacon Digital 587,Education,1-50,BR,South America,organic,2022-06-30,James Moore,N
+327,Forge Solutions 571,Hospitality,51-200,JP,Asia-Pacific,referral,01-Jan-2022,James Tanaka,N
+328,Zenith Consulting 466,Legal,201-1000,FR,Europe,organic,2025-02-21,Robert Jackson,N
+329,Nova Corp 364,Technology,51-200,AU,Asia-Pacific,paid,2025/01/26,Linda Jones,Y
+330,Orbit Partners 201,Manufacturing,1000+,Germany,Europe,referral,2022-09-05,Michael Chen,N
+331,Apex Software 649,Real Estate,51-200,SG,Asia-Pacific,organic,09-10-2022,James Tanaka,N
+332,Ignite Software 444,Legal,51-200,Singapore,Asia-Pacific,organic,2024/09/16,James Mueller,Y
+333,,Retail,1000+,JP,Asia-Pacific,referral,2024/02/27,Yuki Brown,Y
+334,Quantum Industries 617,Legal,51-200,Japan,Asia-Pacific,paid,09-05-2023,James Williams,N
+335,Vanguard Software 689,Logistics,201-1000,canada,North America,organic,24-Aug-2025,Charles Rodriguez,Y
+336,Summit Partners 585,Non-Profit,1-50,India,Asia-Pacific,organic,2024/12/29,Yuki Brown,N
+337,Apex Ventures 58,Retail,201-1000,Germany,Europe,organic,01-Jul-2023,Omar Moore,Y
+338,Ignite Solutions 368,Legal,1000+,Brazil,South America,referral,2022-07-29,James Moore,Y
+339,Elevate Industries 980,Manufacturing,1000+,France,Europe,referral,02-04-2025,Charles Rodriguez,1
+340,Helios Labs 795,Finance,51-200,germany,Europe,organic,2023/08/26,James Tanaka,Y
+341,Forge Group 570,Technology,201-1000,AU,Asia-Pacific,paid,2022-09-24,Yuki Brown,N
+342,Catalyst Partners 53,Healthcare,201-1000,Singapore,Asia-Pacific,paid,09-17-2025,David Davis,N
+343,Stratos Systems 426,Manufacturing,51-200,JP,Asia-Pacific,referral,04-Jan-2025,James Williams,N
+344,Pulse Digital 634,Healthcare,201-1000,JP,Asia-Pacific,paid,08-30-2024,James Mueller,Y
+345,Zenith Solutions 699,Media,201-1000,FR,Europe,organic,02-21-2024,Thomas Martin,Y
+346,Stratos Digital 521,Education,1-50,Brazil,South America,paid,09-23-2024,Charles Rodriguez,no
+347,Nova Ventures 68,Government,1-50,Germany,Europe,partner,2025-07-13,Yuki Brown,N
+348,Nova Dynamics 735,Finance,201-1000,France,Europe,paid,19-Mar-2022,Michael Chen,Y
+349,Elevate Dynamics 646,Consulting,1-50,India,Asia-Pacific,organic,06-05-2024,James Tanaka,N
+350,Vertex Corp 951,Energy,1-50,JP,Asia-Pacific,partner,2022/08/06,James Moore,N
+351,Nova Dynamics 161,Non-Profit,201-1000,Japan,Asia-Pacific,referral,27-Mar-2023,Arun Brown,true
+352,Ignite Consulting 569,Energy,1000+,canada,North America,organic,10-Sep-2022,Omar Moore,No
+353,Vanguard Labs 423,Energy,201-1000,Japan,Asia-Pacific,organic,10/19/2022,Sophie Ahmed,Y
+354,Apex Consulting 770,Retail,1-50,JP,Asia-Pacific,organic,08/02/2024,Sophie Ahmed,Y
+355,Summit Corp 366,Energy,1-50,Canada,North America,referral,2025/09/04,Arun Chen,N
+356,Catalyst Partners 676,Non-Profit,201-1000,AU,Asia-Pacific,paid,2025-04-11,Michael Davis,N
+357,Zenith Digital 227,Consulting,201-1000,IN,Asia-Pacific,partner,2023/07/21,Thomas Martin,Y
+358,Flux Dynamics 565,Government,201-1000,United Kingdom,Europe,paid,26-Dec-2022,David Davis,Y
+359,Vertex Software 20,Energy,1000+,Japan,Asia-Pacific,organic,07-17-2025,Susan Johnson,No
+360,Ignite Software 553,Media,51-200,BR,South America,paid,2025/09/01,Linda Anderson,N
+361,Stratos Technologies 407,Government,51-200,France,Europe,partner,10/25/2024,Priya Tanaka,no
+362,Nimbus Partners 676,Manufacturing,1000+,Canada,North America,organic,17-Sep-2024,Thomas Martin,Y
+363,Zenith Solutions 685,Media,1000+,DE,Europe,organic,2024-11-26,Michael Davis,N
+364,Nexus Innovations 992,Energy,51-200,JP,Asia-Pacific,partner,21-Jul-2025,Sophie Ahmed,N
+365,Vertex Analytics 258,Government,201-1000,IN,Asia-Pacific,partner,04-02-2023,Arun Brown,N
+366,Stratos Software 143,Manufacturing,51-200,Brazil,South America,paid,06-Dec-2022,James Mueller,N
+367,Nexus Ventures 236,Consulting,1000+,IN,Asia-Pacific,paid,11-08-2023,Priya Tanaka,N
+368,Forge Solutions 250,Finance,1-50,U.S.A.,North America,paid,2022-09-19,Priya Tanaka,Y
+369,Orbit Software 185,Hospitality,201-1000,Japan,Asia-Pacific,paid,2024/04/10,James Mueller,Y
+370,Summit Consulting 494,Non-Profit,51-200,canada,North America,referral,03/26/2023,Michael Davis,Y
+371,Beacon Partners 605,Healthcare,1-50,United Kingdom,Europe,partner,04/16/2023,James Mueller,Y
+372,,Logistics,1-50,Singapore,Asia-Pacific,partner,05/13/2025,James Mueller,Yes
+373,Ignite Consulting 2,Legal,1000+,India,Asia-Pacific,partner,2024/12/05,Thomas Martin,Y
+374,Nimbus Digital 760,Real Estate,51-200,Singapore,Asia-Pacific,referral,07-20-2022,Charles Rodriguez,N
+375,Forge Group 194,Logistics,1-50,united states,North America,paid,15-Jan-2022,Michael Chen,Y
+376,Vanguard Technologies 159,Government,1000+,IN,Asia-Pacific,referral,2025/08/27,Omar Moore,N
+377,Forge Analytics 803,Retail,201-1000,JP,Asia-Pacific,partner,09/15/2024,Linda Jones,N
+378,Zenith Dynamics 802,Non-Profit,201-1000,canada,North America,organic,07/25/2022,James Moore,N
+379,Nova Digital 94,Healthcare,1-50,CA,North America,paid,23-Aug-2024,David Davis,N
+380,Helios Solutions 742,Legal,1-50,India,Asia-Pacific,partner,2024/03/31,Arun Brown,N
+381,Pulse Consulting 673,Energy,51-200,Japan,Asia-Pacific,referral,08/09/2023,Arun Brown,Y
+382,Stellar Technologies 283,Energy,51-200,India,Asia-Pacific,organic,2023-12-25,Charles Rodriguez,N
+383,Flux Innovations 850,Manufacturing,51-200,JP,Asia-Pacific,partner,04-08-2025,Arun Brown,N
+384,Orbit Systems 417,Education,1-50,JP,Asia-Pacific,referral,2022/08/07,James Moore,N
+385,Nimbus Dynamics 789,Consulting,1000+,germany,Europe,organic,2023/11/27,Linda Jones,N
+386,Orbit Technologies 392,Education,1-50,germany,Europe,referral,04/16/2023,James Williams,N
+387,Vertex Industries 690,Real Estate,201-1000,FR,Europe,paid,06-05-2022,Susan Johnson,Y
+388,Stellar Innovations 700,Legal,51-200,DE,Europe,paid,10/18/2024,Omar Moore,Y
+389,Zenith Consulting 634,Hospitality,1-50,FR,Europe,organic,11-16-2022,James Tanaka,Y
+390,Summit Corp 636,Real Estate,51-200,FR,Europe,partner,10/05/2024,Sophie Ahmed,N
+391,Quantum Solutions 539,Logistics,201-1000,IN,Asia-Pacific,paid,2024/09/06,Linda Jones,Y
+392,Stratos Dynamics 324,Energy,1-50,USA,North America,referral,01-25-2022,Susan Johnson,N
+393,Stellar Analytics 270,Education,51-200,DE,Europe,partner,07/06/2023,Michael Chen,N
+394,Vanguard Corp 875,Energy,51-200,India,Asia-Pacific,referral,07/27/2023,Charles Rodriguez,Y
+395,Forge Consulting 391,Real Estate,1-50,Germany,Europe,partner,2022/10/26,Yuki Brown,Y
+396,Stratos Analytics 738,Media,1-50,France,Europe,organic,09/23/2024,Susan Johnson,Y
+397,Summit Consulting 645,Education,201-1000,GB,Europe,referral,2024-07-10,Michael Chen,N
+398,Nexus Corp 889,Non-Profit,201-1000,SG,Asia-Pacific,referral,02-12-2023,Sarah Wilson,Y
+399,Beacon Software 81,Government,51-200,IN,Asia-Pacific,partner,06-10-2025,Sophie Ahmed,Y
+400,Elevate Consulting 929,Education,201-1000,GB,Europe,referral,06-12-2022,James Moore,Y
+401,Orbit Software 456,Media,51-200,France,Europe,organic,04/17/2025,Robert Jackson,N
+402,Orbit Innovations 718,Healthcare,1-50,united kingdom,Europe,organic,2023-03-08,James Moore,Y
+403,Stratos Digital 86,Consulting,1000+,GB,Europe,paid,06/22/2023,James Williams,Y
+404,Beacon Ventures 130,Technology,201-1000,CA,North America,partner,2024/12/14,Charles Rodriguez,Y
+405,Orbit Analytics 456,Consulting,1000+,canada,North America,referral,09-Jan-2025,Sarah Wilson,N
+406,Ignite Labs 825,Retail,51-200,GB,Europe,organic,2024-06-23,Linda Anderson,N
+407,Quantum Corp 294,Non-Profit,1000+,BR,South America,organic,2024/12/31,James Williams,false
+408,,Hospitality,1000+,united states,North America,paid,01/27/2025,James Moore,N
+409,Elevate Labs 270,Retail,201-1000,united kingdom,Europe,paid,2024-05-14,Priya Tanaka,N
+410,Quantum Group 114,Manufacturing,201-1000,Brazil,South America,paid,2025-06-19,Charles Rodriguez,N
+411,Nova Systems 996,Legal,1-50,United Kingdom,Europe,organic,08/01/2023,Arun Brown,N
+412,Summit Labs 351,Education,1000+,India,Asia-Pacific,referral,2023-10-01,Yuki Brown,N
+413,Apex Group 795,Manufacturing,201-1000,IN,Asia-Pacific,organic,2022-05-27,Robert Jackson,Y
+414,Elevate Digital 999,Manufacturing,1000+,Brazil,South America,paid,2023/05/22,James Moore,Y
+415,Flux Software 331,Retail,1000+,canada,North America,referral,07/12/2025,Thomas Martin,Y
+416,Apex Consulting 683,Education,1-50,Germany,Europe,referral,08-20-2022,Linda Jones,N
+417,Elevate Digital 249,Legal,51-200,USA,North America,organic,03/28/2022,Priya Tanaka,N
+418,Summit Technologies 703,Technology,201-1000,Singapore,Asia-Pacific,organic,11/25/2023,Sarah Wilson,Y
+419,Zenith Corp 572,Legal,1000+,FR,Europe,paid,17-Jun-2024,James Tanaka,Y
+420,Summit Innovations 449,Manufacturing,51-200,JP,Asia-Pacific,referral,2023/08/27,Susan Johnson,N
+421,Helios Software 882,Real Estate,201-1000,JP,Asia-Pacific,referral,2022/11/25,Arun Brown,yes
+422,Stratos Industries 752,Non-Profit,51-200,CA,North America,organic,02-08-2022,James Moore,N
+423,Pulse Analytics 700,Education,1000+,BR,South America,organic,2025-02-03,Linda Anderson,N
+424,Vertex Solutions 856,Healthcare,1000+,Canada,North America,organic,2023-01-01,Sophie Ahmed,Y
+425,Elevate Ventures 502,Technology,201-1000,Japan,Asia-Pacific,organic,2025-07-01,Omar Moore,N
+426,Summit Software 912,Education,1000+,GB,Europe,organic,08-16-2024,Susan Johnson,Y
+427,Stratos Solutions 752,Logistics,1-50,UK,Europe,paid,09-15-2023,James Moore,no
+428,Pulse Labs 539,Logistics,1000+,germany,Europe,organic,03-13-2025,Thomas Martin,Y
+429,Beacon Innovations 682,Logistics,1000+,IN,Asia-Pacific,paid,08-02-2022,James Mueller,Y
+430,Beacon Software 361,Government,201-1000,FR,Europe,partner,31-Jan-2025,James Mueller,N
+431,Zenith Partners 559,Education,1000+,DE,Europe,partner,2024-02-08,James Tanaka,N
+432,Flux Partners 17,Technology,201-1000,Japan,Asia-Pacific,paid,04-Oct-2022,Arun Brown,N
+433,Orbit Software 567,Healthcare,1-50,JP,Asia-Pacific,referral,02/13/2025,Yuki Brown,Y
+434,Orbit Corp 911,Healthcare,1000+,Singapore,Asia-Pacific,organic,27-May-2023,Sarah Wilson,N
+435,Stellar Dynamics 846,Technology,1000+,Singapore,Asia-Pacific,organic,15-Jul-2022,Thomas Martin,N
+436,Forge Industries 953,Consulting,1000+,UK,Europe,referral,04-10-2023,James Tanaka,Y
+437,Catalyst Analytics 579,Finance,1-50,canada,North America,partner,2023/11/01,James Mueller,Y
+438,Nimbus Analytics 93,Finance,51-200,DE,Europe,organic,2024/06/03,Sophie Ahmed,N
+439,Apex Analytics 409,Non-Profit,51-200,Australia,Asia-Pacific,partner,06-24-2022,Omar Moore,N
+440,Summit Industries 668,Manufacturing,1-50,SG,Asia-Pacific,partner,06-Feb-2023,Sophie Ahmed,Y
+441,Vertex Technologies 688,Education,201-1000,India,Asia-Pacific,referral,05/17/2024,Thomas Martin,Y
+442,Helios Consulting 823,Hospitality,51-200,Brazil,South America,referral,06/30/2025,David Davis,Y
+443,Nexus Innovations 56,Technology,201-1000,germany,Europe,organic,25-Jun-2025,Arun Chen,N
+444,Summit Solutions 340,Logistics,1000+,germany,Europe,paid,2025-01-06,James Moore,N
+445,Nimbus Software 680,Retail,51-200,JP,Asia-Pacific,organic,2022/03/31,Arun Brown,Y
+446,Vertex Industries 677,Government,1-50,Australia,Asia-Pacific,referral,2025/09/19,Robert Jackson,N
+447,Elevate Analytics 727,Finance,51-200,united kingdom,Europe,organic,2023-10-09,Robert Jackson,Y
+448,Stratos Group 342,Education,201-1000,BR,South America,referral,03/16/2024,Linda Anderson,Y
+449,Orbit Digital 64,Logistics,201-1000,Australia,Asia-Pacific,paid,03-Mar-2024,James Moore,Y
+450,Quantum Technologies 748,Media,51-200,India,Asia-Pacific,partner,02-Dec-2024,James Mueller,Y
+451,Catalyst Dynamics 556,Government,51-200,CA,North America,paid,2023/02/28,Yuki Brown,Y
+452,Nimbus Software 162,Finance,201-1000,France,Europe,organic,19-May-2022,Michael Chen,Y
+453,Forge Group 454,Finance,51-200,Australia,Asia-Pacific,referral,11-08-2022,Sophie Ahmed,Y
+454,Helios Labs 611,Healthcare,1000+,Germany,Europe,partner,18-Apr-2023,Priya Tanaka,N
+455,Elevate Dynamics 486,Media,1-50,CA,North America,partner,12/02/2022,Omar Moore,Y
+456,Pulse Technologies 182,Government,1000+,Brazil,South America,partner,2025/06/17,James Tanaka,N
+457,,Logistics,1-50,IN,Asia-Pacific,partner,2023-10-03,Robert Jackson,Y
+458,Stratos Analytics 406,Manufacturing,201-1000,united states,North America,partner,16-Feb-2025,James Williams,Y
+459,Beacon Systems 433,Real Estate,1000+,Australia,Asia-Pacific,organic,06/09/2025,Sophie Ahmed,Y
+460,Ignite Systems 403,Real Estate,51-200,IN,Asia-Pacific,organic,25-Oct-2023,Michael Davis,Y
+461,Stellar Innovations 751,Consulting,201-1000,UK,Europe,partner,07-06-2022,James Mueller,false
+462,Stellar Industries 564,Energy,51-200,India,Asia-Pacific,paid,03/31/2022,James Tanaka,N
+463,Forge Group 317,Hospitality,51-200,Brazil,South America,organic,08-15-2023,Susan Johnson,Y
+464,Nova Dynamics 510,Manufacturing,51-200,BR,South America,partner,2025/01/18,Arun Chen,N
+465,Vertex Partners 615,Energy,51-200,US,North America,paid,05/17/2023,James Tanaka,N
+466,Vanguard Solutions 149,Education,1-50,US,North America,organic,2025/09/28,Priya Tanaka,N
+467,Stellar Ventures 292,Real Estate,201-1000,Singapore,Asia-Pacific,organic,15-Sep-2025,Michael Davis,Y
+468,Vanguard Software 389,Retail,1000+,United Kingdom,Europe,organic,25-May-2024,Michael Davis,Y
+469,Stratos Industries 538,Energy,1-50,DE,Europe,referral,2023/03/05,James Mueller,Y
+470,Catalyst Group 539,Energy,1000+,SG,Asia-Pacific,partner,06/30/2025,James Mueller,Y
+471,,Consulting,1-50,germany,Europe,paid,01-04-2022,Michael Chen,false
+472,Forge Solutions 342,Technology,51-200,FR,Europe,referral,2025-02-21,James Williams,Y
+473,Flux Analytics 564,Education,1000+,France,Europe,paid,01/13/2022,Michael Davis,0
+474,Catalyst Software 689,Real Estate,51-200,BR,South America,referral,2024/08/29,Michael Chen,Y
+475,Apex Consulting 534,Logistics,1-50,Australia,Asia-Pacific,referral,03-Mar-2025,David Davis,N
+476,Quantum Group 861,Energy,1000+,United States,North America,organic,26-Nov-2023,Michael Davis,Y
+477,Apex Group 424,Real Estate,201-1000,United Kingdom,Europe,referral,10/14/2024,Linda Jones,N
+478,Vanguard Digital 39,Non-Profit,1000+,germany,Europe,paid,07/09/2022,Michael Davis,Y
+479,Summit Innovations 895,Non-Profit,1-50,Japan,Asia-Pacific,paid,2023-09-28,Arun Chen,Y
+480,Elevate Innovations 886,Consulting,1-50,JP,Asia-Pacific,partner,2022-08-26,Linda Jones,Y
+481,Stratos Digital 675,Consulting,51-200,AU,Asia-Pacific,paid,02/16/2022,James Williams,N
+482,Orbit Analytics 327,Retail,1-50,Brazil,South America,organic,08/29/2022,Charles Rodriguez,Y
+483,Vanguard Analytics 327,Energy,51-200,Australia,Asia-Pacific,organic,17-Oct-2022,James Mueller,N
+484,Catalyst Analytics 455,Healthcare,1000+,US,North America,organic,2022/09/24,James Moore,Y
+485,Stellar Innovations 611,Energy,201-1000,SG,Asia-Pacific,referral,07/13/2025,Charles Rodriguez,N
+486,Vertex Software 774,Healthcare,1000+,BR,South America,partner,2025/03/08,Robert Jackson,false
+487,Zenith Systems 882,Finance,201-1000,SG,Asia-Pacific,partner,2023/06/13,Arun Brown,N
+488,Vertex Dynamics 116,Retail,201-1000,France,Europe,organic,2024/09/07,Linda Jones,Y
+489,Catalyst Analytics 666,Energy,1000+,United Kingdom,Europe,paid,09-11-2023,Priya Tanaka,N
+490,Summit Industries 68,Non-Profit,1000+,FR,Europe,paid,03/03/2023,David Davis,N
+491,Nimbus Consulting 499,Logistics,1-50,united kingdom,Europe,paid,27-Apr-2025,James Moore,N
+492,Vertex Partners 112,Healthcare,51-200,Singapore,Asia-Pacific,organic,02/16/2024,Yuki Brown,Y
+493,Beacon Analytics 299,Manufacturing,201-1000,IN,Asia-Pacific,referral,2025/06/14,Thomas Martin,Y
+494,Vertex Partners 9,Government,201-1000,Singapore,Asia-Pacific,referral,11-11-2024,James Tanaka,Y
+495,Nova Innovations 574,Manufacturing,1000+,FR,Europe,referral,2022/08/13,James Moore,Y
+496,Elevate Industries 559,Manufacturing,1000+,DE,Europe,partner,09/18/2025,James Williams,Y
+497,Quantum Systems 12,Consulting,1000+,United Kingdom,Europe,organic,08/20/2025,Michael Chen,false
+498,Beacon Software 808,Logistics,1000+,SG,Asia-Pacific,partner,21-May-2024,Robert Jackson,N
+499,Stellar Industries 620,Legal,201-1000,united states,North America,referral,2025-03-29,James Tanaka,Y
+500,Nimbus Dynamics 722,Finance,201-1000,FR,Europe,organic,08-20-2022,James Mueller,Y
+501,Vertex Labs 484,Energy,1-50,GB,Europe,organic,2025/07/21,Arun Chen,N
+502,Stratos Software 481,Retail,51-200,Singapore,Asia-Pacific,referral,11-10-2023,Susan Johnson,N
+503,Apex Ventures 485,Non-Profit,1-50,SG,Asia-Pacific,partner,2022-12-13,Yuki Brown,N
+504,Stratos Technologies 872,Retail,201-1000,Australia,Asia-Pacific,organic,06-01-2023,Priya Tanaka,1
+505,Nimbus Innovations 155,Non-Profit,51-200,BR,South America,paid,01-28-2024,James Tanaka,N
+506,Catalyst Technologies 991,Government,1000+,CA,North America,partner,05/04/2025,Arun Chen,Y
+507,Stellar Labs 592,Technology,51-200,FR,Europe,partner,2022/04/22,James Williams,Y
+508,Summit Innovations 972,Real Estate,201-1000,Japan,Asia-Pacific,partner,2023-04-24,James Williams,N
+509,Beacon Industries 695,Healthcare,201-1000,FR,Europe,referral,21-Dec-2024,Susan Johnson,Y
+510,Orbit Digital 101,Non-Profit,51-200,australia,Asia-Pacific,paid,09-02-2025,Michael Davis,N
+511,Stellar Corp 561,Media,1-50,U.S.A.,North America,organic,2022/01/18,Thomas Martin,Y
+512,Zenith Innovations 291,Healthcare,1-50,australia,Asia-Pacific,paid,01-31-2023,Linda Jones,No
+513,Nexus Technologies 877,Hospitality,1-50,Singapore,Asia-Pacific,referral,24-Sep-2022,Arun Chen,Y
+514,Vertex Ventures 465,Retail,51-200,Australia,Asia-Pacific,referral,2024-05-24,James Moore,N
+515,Elevate Corp 62,Real Estate,51-200,australia,Asia-Pacific,partner,06/27/2023,Sarah Wilson,Y
+516,Nexus Systems 554,Hospitality,1000+,IN,Asia-Pacific,organic,2023-03-24,David Davis,Y
+517,Vertex Partners 746,Finance,1-50,Australia,Asia-Pacific,partner,02-Jul-2024,Yuki Brown,false
+518,Catalyst Software 401,Real Estate,1000+,SG,Asia-Pacific,organic,01-08-2022,Robert Jackson,N
+519,Nova Industries 978,Education,201-1000,BR,South America,organic,2022-09-06,Thomas Martin,N
+520,Ignite Consulting 984,Consulting,51-200,France,Europe,organic,2022/06/14,Omar Moore,N
+521,Flux Innovations 400,Healthcare,1000+,United Kingdom,Europe,paid,2025-07-15,Omar Moore,N
+522,Nova Innovations 608,Real Estate,1000+,Germany,Europe,organic,28-Sep-2024,James Tanaka,N
+523,Catalyst Digital 739,Real Estate,51-200,U.S.A.,North America,paid,2024-04-10,James Tanaka,Yes
+524,Quantum Dynamics 670,Manufacturing,51-200,US,North America,paid,2024-08-23,James Williams,Y
+525,Nexus Dynamics 626,Healthcare,1000+,canada,North America,paid,2025-04-25,Omar Moore,N
+526,Forge Corp 831,Logistics,51-200,IN,Asia-Pacific,paid,2023-10-27,Sophie Ahmed,No
+527,Stellar Corp 65,Finance,201-1000,United Kingdom,Europe,partner,07/15/2023,Sophie Ahmed,true
+528,Apex Systems 103,Hospitality,1000+,Singapore,Asia-Pacific,organic,2024-02-10,Priya Tanaka,Y
+529,Vertex Innovations 668,Legal,51-200,Singapore,Asia-Pacific,paid,05-Aug-2023,Linda Anderson,N
+530,Beacon Industries 245,Legal,1000+,canada,North America,organic,04-Jun-2025,Thomas Martin,Y
+531,Forge Solutions 572,Healthcare,201-1000,germany,Europe,paid,2023/01/29,Omar Moore,Yes
+532,Orbit Solutions 199,Real Estate,51-200,United Kingdom,Europe,organic,2022-11-02,Thomas Martin,N
+533,Flux Labs 446,Technology,1-50,australia,Asia-Pacific,organic,11-16-2023,Priya Tanaka,N
+534,Stellar Digital 30,Legal,1000+,BR,South America,partner,11/20/2024,Michael Davis,no
+535,Zenith Digital 113,Government,51-200,FR,Europe,paid,2023-04-12,Sarah Wilson,true
+536,Nimbus Dynamics 56,Finance,1000+,IN,Asia-Pacific,paid,2022/10/24,Omar Moore,N
+537,Vanguard Group 208,Technology,201-1000,France,Europe,organic,2022/09/18,Arun Chen,No
+538,Forge Systems 779,Non-Profit,51-200,France,Europe,organic,2023/03/27,Linda Anderson,Y
+539,Summit Consulting 222,Technology,1000+,Singapore,Asia-Pacific,paid,27-Aug-2024,Michael Chen,N
+540,Nimbus Labs 914,Media,1-50,Singapore,Asia-Pacific,partner,11-02-2022,James Tanaka,Y
+541,Forge Analytics 404,Healthcare,1-50,BR,South America,paid,07/20/2022,Thomas Martin,Y
+542,Flux Labs 664,Finance,1000+,UK,Europe,partner,2022/02/02,Yuki Brown,N
+543,Elevate Systems 809,Government,1-50,FR,Europe,referral,07-07-2025,James Tanaka,Y
+544,Flux Industries 771,Non-Profit,1-50,australia,Asia-Pacific,referral,2025-06-08,Linda Anderson,Y
+545,Vanguard Software 53,Education,201-1000,United Kingdom,Europe,organic,02-24-2024,Omar Moore,Y
+546,Quantum Corp 245,Non-Profit,51-200,JP,Asia-Pacific,referral,21-Aug-2022,Linda Anderson,Y
+547,Forge Group 56,Logistics,1-50,united kingdom,Europe,referral,2024/02/03,James Mueller,N
+548,Vanguard Digital 690,Healthcare,1-50,united kingdom,Europe,paid,21-Jan-2023,David Davis,N
+549,Nexus Systems 283,Logistics,1-50,GB,Europe,partner,10-31-2022,Yuki Brown,Y
+550,Summit Corp 431,Healthcare,1-50,Brazil,South America,referral,2025/08/13,Sophie Ahmed,no
+551,Catalyst Ventures 662,Real Estate,201-1000,France,Europe,referral,09/22/2024,Susan Johnson,N
+552,Zenith Dynamics 381,Real Estate,51-200,australia,Asia-Pacific,paid,04-07-2022,James Williams,1
+553,Stellar Systems 860,Education,51-200,CA,North America,referral,27-Nov-2022,Priya Tanaka,Y
+554,Pulse Analytics 725,Finance,201-1000,united states,North America,paid,09-25-2025,James Williams,N
+555,Nexus Software 26,Hospitality,201-1000,India,Asia-Pacific,organic,10-19-2024,Linda Anderson,N
+556,Catalyst Ventures 723,Non-Profit,1000+,AU,Asia-Pacific,organic,2024/08/28,James Tanaka,Y
+557,Quantum Ventures 565,Government,51-200,united kingdom,Europe,referral,2023-09-23,Michael Davis,No
+558,Apex Partners 657,Manufacturing,1-50,Germany,Europe,partner,2025-04-09,Linda Anderson,N
+559,Elevate Labs 503,Hospitality,201-1000,FR,Europe,paid,2025/05/20,Thomas Martin,Y
+560,Elevate Corp 13,Government,1-50,Australia,Asia-Pacific,partner,2023/12/08,Arun Chen,N
+561,Flux Systems 826,Energy,1-50,India,Asia-Pacific,paid,28-Apr-2024,Sarah Wilson,No
+562,Stratos Corp 68,Consulting,201-1000,SG,Asia-Pacific,paid,02-09-2024,Arun Chen,true
+563,Nimbus Digital 937,Retail,1000+,Canada,North America,referral,02-13-2023,James Williams,N
+564,,Finance,201-1000,BR,South America,partner,2023-04-05,James Williams,Y
+565,Forge Systems 504,Real Estate,1-50,germany,Europe,referral,02-28-2022,Sarah Wilson,1
+566,Nimbus Industries 890,Education,1-50,AU,Asia-Pacific,paid,07-10-2025,James Tanaka,Y
+567,Quantum Corp 473,Education,1000+,canada,North America,referral,2024-01-02,James Williams,N
+568,Flux Analytics 655,Non-Profit,1-50,United Kingdom,Europe,referral,18-Nov-2024,James Williams,Y
+569,Orbit Ventures 715,Government,51-200,France,Europe,paid,07-16-2022,James Williams,N
+570,Vanguard Digital 497,Healthcare,51-200,India,Asia-Pacific,paid,11/28/2023,Charles Rodriguez,Y
+571,Helios Innovations 852,Media,1000+,Japan,Asia-Pacific,organic,12/25/2024,Arun Brown,Y
+572,Summit Corp 320,Finance,201-1000,France,Europe,organic,10/12/2022,Yuki Brown,N
+573,Quantum Innovations 233,Media,1-50,Australia,Asia-Pacific,organic,2022/09/14,Michael Chen,Y
+574,Apex Labs 111,Real Estate,1-50,USA,North America,organic,2025-09-13,James Williams,Y
+575,Nova Digital 99,Finance,201-1000,UK,Europe,organic,05/17/2025,Susan Johnson,Y
+576,Nimbus Corp 361,Logistics,1-50,Canada,North America,organic,10-22-2024,Omar Moore,Y
+577,Pulse Group 176,Hospitality,51-200,JP,Asia-Pacific,referral,01-09-2022,Priya Tanaka,Y
+578,Beacon Ventures 981,Media,51-200,United Kingdom,Europe,partner,2023-01-06,Michael Davis,N
+579,Nexus Dynamics 113,Legal,201-1000,Japan,Asia-Pacific,organic,06-Oct-2022,Sarah Wilson,N
+580,Nexus Industries 291,Manufacturing,1000+,BR,South America,partner,05/14/2025,David Davis,N
+581,Summit Ventures 377,Consulting,1-50,CA,North America,partner,01-27-2022,David Davis,N
+582,Nexus Systems 405,Healthcare,201-1000,India,Asia-Pacific,referral,04/24/2025,James Mueller,Y
+583,Elevate Technologies 239,Non-Profit,1000+,IN,Asia-Pacific,partner,10-19-2024,James Moore,N
+584,Summit Analytics 286,Real Estate,1000+,Canada,North America,paid,2024-07-20,Linda Jones,1
+585,Apex Consulting 70,Energy,201-1000,Brazil,South America,referral,02-24-2022,James Mueller,N
+586,Nexus Digital 79,Retail,1000+,JP,Asia-Pacific,referral,10-05-2024,Michael Davis,Y
+587,Ignite Analytics 19,Media,1000+,USA,North America,partner,2024/05/31,Arun Chen,Y
+588,Apex Solutions 182,Hospitality,51-200,JP,Asia-Pacific,partner,09/12/2025,James Williams,N
+589,Elevate Dynamics 783,Real Estate,51-200,UK,Europe,partner,11-Mar-2025,Sarah Wilson,N
+590,Nimbus Industries 632,Energy,1-50,France,Europe,referral,06-Aug-2023,Sophie Ahmed,Y
+591,Nova Digital 913,Education,1000+,FR,Europe,organic,02/19/2024,Robert Jackson,0
+592,Zenith Ventures 320,Government,201-1000,Singapore,Asia-Pacific,referral,06/23/2022,Arun Brown,Y
+593,Ignite Corp 39,Retail,1-50,BR,South America,organic,09-Sep-2025,James Moore,N
+594,Nimbus Industries 331,Legal,51-200,SG,Asia-Pacific,partner,07-20-2022,Michael Davis,Y
+595,Stellar Partners 307,Government,51-200,FR,Europe,referral,2024-06-11,James Williams,Y
+596,Nimbus Industries 824,Legal,1-50,germany,Europe,referral,03-Jul-2025,David Davis,Y
+597,Nimbus Digital 544,Consulting,201-1000,BR,South America,partner,05-24-2024,Michael Davis,Y
+598,Pulse Industries 412,Hospitality,1-50,australia,Asia-Pacific,paid,07-03-2025,Sarah Wilson,Y
+599,Pulse Ventures 986,Hospitality,1-50,Brazil,South America,referral,2023/07/03,Yuki Brown,N
+600,Zenith Systems 765,Consulting,51-200,AU,Asia-Pacific,referral,10-Jun-2024,Priya Tanaka,Y
+601,Orbit Ventures 616,Manufacturing,1-50,Germany,Europe,referral,2024/04/11,Sarah Wilson,Y
+602,Ignite Industries 433,Technology,201-1000,USA,North America,paid,2023-02-18,Sarah Wilson,Y
+603,Nova Solutions 881,Hospitality,1000+,GB,Europe,organic,2023/10/05,Yuki Brown,Y
+604,Zenith Technologies 585,Real Estate,1-50,Japan,Asia-Pacific,organic,05-Sep-2022,Michael Davis,N
+605,Nimbus Innovations 400,Finance,51-200,DE,Europe,partner,2024/05/16,Susan Johnson,Y
+606,Nimbus Solutions 503,Education,1000+,JP,Asia-Pacific,paid,07-Feb-2024,Yuki Brown,Y
+607,Vanguard Dynamics 733,Technology,1-50,France,Europe,referral,09-24-2023,James Moore,No
+608,Flux Ventures 982,Government,1000+,FR,Europe,organic,2022/09/07,Susan Johnson,Y
+609,Flux Technologies 959,Hospitality,1000+,germany,Europe,referral,2023/09/02,James Tanaka,Y
+610,Orbit Consulting 83,Legal,1000+,Brazil,South America,paid,22-Aug-2024,Linda Anderson,N
+611,Vertex Corp 431,Legal,1-50,Singapore,Asia-Pacific,paid,2025/01/26,Yuki Brown,N
+612,Nova Industries 205,Finance,51-200,australia,Asia-Pacific,paid,10-05-2023,Michael Chen,Y
+613,Catalyst Dynamics 490,Non-Profit,201-1000,Canada,North America,organic,2023/06/18,Thomas Martin,N
+614,Stellar Industries 898,Hospitality,51-200,India,Asia-Pacific,partner,03/14/2025,Susan Johnson,Y
+615,Stellar Solutions 411,Healthcare,201-1000,Singapore,Asia-Pacific,organic,2024-05-28,Linda Anderson,Y
+616,Forge Digital 943,Manufacturing,201-1000,BR,South America,partner,2024/10/09,Yuki Brown,no
+617,Forge Consulting 212,Legal,51-200,SG,Asia-Pacific,paid,2023/03/18,Yuki Brown,N
+618,Nova Group 269,Education,1000+,Germany,Europe,organic,2025/06/19,Yuki Brown,Y
+619,Catalyst Innovations 408,Healthcare,1-50,germany,Europe,organic,2024-02-25,Michael Davis,N
+620,Zenith Dynamics 931,Technology,201-1000,FR,Europe,referral,2025/05/26,Thomas Martin,Y
+621,Quantum Software 573,Logistics,1000+,USA,North America,partner,04/03/2025,David Davis,Y
+622,Catalyst Innovations 544,Technology,51-200,IN,Asia-Pacific,referral,18-Oct-2022,Michael Chen,N
+623,Flux Software 898,Logistics,201-1000,AU,Asia-Pacific,paid,09-Jun-2025,Sarah Wilson,N
+624,Quantum Analytics 874,Manufacturing,51-200,Brazil,South America,partner,19-Apr-2022,Priya Tanaka,Y
+625,Beacon Industries 119,Real Estate,1000+,Brazil,South America,paid,2022-03-25,Thomas Martin,N
+626,Vertex Labs 890,Energy,51-200,australia,Asia-Pacific,organic,01-05-2023,Sophie Ahmed,N
+627,Stellar Industries 943,Hospitality,201-1000,UK,Europe,referral,2023-05-20,James Moore,Y
+628,Vanguard Partners 952,Real Estate,1000+,united kingdom,Europe,referral,10-25-2023,Arun Brown,Y
+629,Catalyst Solutions 672,Manufacturing,1-50,SG,Asia-Pacific,referral,2024-07-16,David Davis,Y
+630,Ignite Partners 391,Non-Profit,1000+,UK,Europe,organic,03/27/2024,Priya Tanaka,Y
+631,Elevate Digital 413,Healthcare,201-1000,AU,Asia-Pacific,partner,18-Aug-2025,James Mueller,Y
+632,Quantum Corp 682,Real Estate,1000+,united kingdom,Europe,referral,01-23-2024,James Mueller,N
+633,Forge Technologies 775,Consulting,1000+,India,Asia-Pacific,organic,01-25-2024,Michael Davis,N
+634,Beacon Ventures 230,Retail,1000+,CA,North America,organic,2024/10/11,James Williams,Y
+635,Quantum Systems 701,Energy,1-50,australia,Asia-Pacific,organic,2023-05-25,Linda Anderson,N
+636,Nexus Analytics 436,Education,201-1000,India,Asia-Pacific,organic,2022-07-13,Arun Chen,N
+637,Stellar Digital 187,Education,1000+,IN,Asia-Pacific,referral,03-Apr-2022,Priya Tanaka,1
+638,Pulse Systems 81,Media,1-50,Singapore,Asia-Pacific,partner,2023-06-16,Arun Brown,Y
+639,Stellar Ventures 489,Retail,201-1000,BR,South America,referral,2024-04-09,Yuki Brown,N
+640,Quantum Solutions 196,Government,1-50,United Kingdom,Europe,partner,02/02/2022,Robert Jackson,Y
+641,Forge Consulting 642,Finance,1000+,JP,Asia-Pacific,organic,2023-01-26,Priya Tanaka,false
+642,Quantum Innovations 720,Energy,51-200,Brazil,South America,referral,09-20-2024,James Moore,N
+643,Apex Corp 9,Media,1000+,GB,Europe,organic,2025/07/15,James Moore,N
+644,Summit Analytics 606,Logistics,1-50,SG,Asia-Pacific,referral,09-26-2024,David Davis,Y
+645,Orbit Software 664,Consulting,201-1000,IN,Asia-Pacific,partner,2024-08-27,Priya Tanaka,No
+646,Flux Innovations 197,Energy,201-1000,BR,South America,paid,06-Dec-2023,James Moore,Y
+647,Forge Consulting 964,Energy,51-200,FR,Europe,organic,2024/08/25,Yuki Brown,Y
+648,Stellar Labs 161,Real Estate,201-1000,Singapore,Asia-Pacific,paid,10-04-2024,James Tanaka,true
+649,Nova Corp 903,Government,1-50,Australia,Asia-Pacific,referral,2024/01/02,Linda Jones,Y
+650,Helios Labs 124,Non-Profit,201-1000,Japan,Asia-Pacific,referral,04/04/2023,Linda Anderson,N
+651,Helios Ventures 107,Healthcare,1-50,U.S.A.,North America,organic,06-15-2024,Linda Jones,Y
+652,Stellar Ventures 121,Legal,1000+,germany,Europe,partner,2024-01-11,Yuki Brown,N
+653,Vanguard Corp 839,Media,1-50,Canada,North America,partner,09-Sep-2022,James Williams,N
+654,Stratos Systems 88,Education,51-200,Australia,Asia-Pacific,partner,02/02/2024,Yuki Brown,N
+655,Forge Industries 941,Technology,1000+,India,Asia-Pacific,organic,07-28-2024,David Davis,N
+656,Vertex Corp 323,Non-Profit,1-50,India,Asia-Pacific,organic,12-03-2022,James Williams,N
+657,Forge Industries 908,Hospitality,201-1000,Japan,Asia-Pacific,referral,09-16-2023,James Mueller,N
+658,Quantum Innovations 414,Legal,201-1000,BR,South America,paid,11-Aug-2025,David Davis,N
+659,Apex Analytics 343,Manufacturing,1-50,IN,Asia-Pacific,referral,09/16/2022,Arun Brown,N
+660,Nova Software 816,Legal,1000+,Japan,Asia-Pacific,organic,28-Apr-2025,Susan Johnson,N
+661,Stratos Corp 127,Retail,1-50,united states,North America,referral,08/26/2025,Sophie Ahmed,N
+662,Nimbus Innovations 916,Retail,51-200,JP,Asia-Pacific,paid,2025-05-04,Michael Davis,N
+663,Stratos Partners 198,Government,1000+,France,Europe,organic,2024-07-19,Michael Chen,true
+664,Quantum Dynamics 220,Energy,1000+,BR,South America,partner,2022/06/09,Arun Chen,N
+665,Summit Innovations 997,Real Estate,1000+,India,Asia-Pacific,organic,11/30/2022,Arun Chen,yes
+666,Summit Solutions 765,Energy,1000+,Canada,North America,organic,18-Feb-2025,Sophie Ahmed,Y
+667,Flux Solutions 536,Retail,201-1000,CA,North America,organic,08/30/2022,Yuki Brown,N
+668,Nimbus Industries 50,Technology,1-50,australia,Asia-Pacific,referral,2023-08-04,James Tanaka,N
+669,Forge Dynamics 587,Non-Profit,1000+,AU,Asia-Pacific,paid,03/04/2025,Linda Anderson,N
+670,Beacon Digital 461,Healthcare,1000+,BR,South America,paid,2022/11/02,Michael Davis,N
+671,Ignite Solutions 982,Legal,1-50,BR,South America,organic,07-23-2023,David Davis,Y
+672,Pulse Partners 555,Non-Profit,1000+,Singapore,Asia-Pacific,organic,04-19-2022,Priya Tanaka,Y
+673,Nova Group 806,Healthcare,201-1000,DE,Europe,organic,2023/05/18,Arun Brown,N
+674,Catalyst Industries 185,Media,201-1000,India,Asia-Pacific,organic,2022-02-19,Charles Rodriguez,N
+675,Stellar Group 148,Retail,1000+,canada,North America,paid,2023-06-08,James Mueller,Y
+676,Catalyst Systems 28,Finance,1000+,USA,North America,referral,2023/09/03,Linda Jones,N
+677,Apex Labs 246,Healthcare,201-1000,Singapore,Asia-Pacific,referral,2025/04/15,Charles Rodriguez,N
+678,Forge Technologies 496,Retail,1-50,United States,North America,paid,14-Apr-2024,Sophie Ahmed,Y
+679,Forge Dynamics 86,Education,51-200,Japan,Asia-Pacific,partner,02-21-2023,Arun Chen,Y
+680,Apex Solutions 833,Technology,1-50,BR,South America,referral,06-25-2025,Susan Johnson,Y
+681,Elevate Corp 863,Technology,51-200,germany,Europe,organic,13-Apr-2025,David Davis,N
+682,Elevate Innovations 126,Manufacturing,201-1000,canada,North America,referral,13-Feb-2025,Arun Chen,N
+683,Orbit Labs 679,Technology,51-200,France,Europe,partner,2023-12-01,Arun Brown,N
+684,Stellar Industries 570,Logistics,1-50,BR,South America,organic,15-Mar-2024,James Moore,Y
+685,Helios Corp 397,Hospitality,51-200,CA,North America,organic,01/18/2022,Arun Brown,0
+686,Orbit Ventures 944,Consulting,201-1000,France,Europe,paid,2023/01/28,Thomas Martin,No
+687,Apex Group 505,Healthcare,201-1000,SG,Asia-Pacific,paid,03-05-2023,Omar Moore,true
+688,Nimbus Ventures 699,Legal,1-50,Singapore,Asia-Pacific,referral,03-03-2025,Robert Jackson,Y
+689,Stratos Innovations 802,Legal,201-1000,australia,Asia-Pacific,partner,2023-01-28,Michael Chen,Y
+690,Apex Consulting 962,Retail,1-50,FR,Europe,partner,04-Jun-2024,Linda Anderson,N
+691,Apex Software 739,Logistics,1000+,DE,Europe,organic,2022/04/07,Omar Moore,N
+692,Catalyst Technologies 902,Legal,1000+,Singapore,Asia-Pacific,paid,02/21/2022,Priya Tanaka,Y
+693,Catalyst Group 65,Energy,201-1000,GB,Europe,paid,2022-02-27,Sarah Wilson,Y
+694,Zenith Corp 853,Healthcare,1000+,US,North America,partner,11-15-2023,Linda Jones,Y
+695,Vertex Solutions 939,Non-Profit,51-200,US,North America,partner,2024-02-12,James Williams,Y
+696,Helios Ventures 443,Retail,1000+,united kingdom,Europe,organic,07-28-2022,Michael Chen,Y
+697,Zenith Consulting 614,Non-Profit,1000+,Singapore,Asia-Pacific,referral,2022-01-22,Arun Chen,N
+698,Stratos Corp 602,Legal,1-50,germany,Europe,paid,08-10-2022,Yuki Brown,No
+699,Stratos Group 364,Finance,51-200,India,Asia-Pacific,organic,2024-09-12,Yuki Brown,N
+700,Flux Partners 447,Energy,51-200,Japan,Asia-Pacific,partner,27-Aug-2025,James Mueller,N
+701,Catalyst Group 378,Technology,51-200,U.S.A.,North America,organic,2024/11/26,Thomas Martin,Y
+702,Pulse Labs 656,Legal,1000+,germany,Europe,referral,05-21-2022,Sophie Ahmed,N
+703,Catalyst Partners 307,Hospitality,1-50,IN,Asia-Pacific,paid,2023-11-05,Robert Jackson,N
+704,Zenith Dynamics 639,Non-Profit,1000+,Germany,Europe,partner,05/05/2023,Arun Brown,N
+705,Vanguard Solutions 76,Retail,1000+,France,Europe,referral,2022-03-03,Arun Brown,Y
+706,Pulse Labs 291,Education,51-200,Canada,North America,paid,2023-03-25,Priya Tanaka,Y
+707,Orbit Software 104,Education,51-200,USA,North America,partner,10/09/2022,Thomas Martin,Y
+708,Vanguard Ventures 176,Healthcare,51-200,Japan,Asia-Pacific,paid,06/30/2025,Charles Rodriguez,Y
+709,Elevate Innovations 384,Hospitality,1-50,France,Europe,referral,05/12/2025,Michael Davis,Y
+710,Zenith Solutions 645,Manufacturing,1-50,AU,Asia-Pacific,organic,09/16/2022,Linda Anderson,N
+711,Elevate Digital 904,Finance,201-1000,JP,Asia-Pacific,partner,2024/02/06,Sarah Wilson,N
+712,Orbit Partners 411,Hospitality,51-200,SG,Asia-Pacific,paid,2025/08/23,Omar Moore,no
+713,Flux Industries 911,Retail,1-50,India,Asia-Pacific,organic,16-Mar-2025,Arun Chen,N
+714,Stratos Corp 236,Media,1000+,SG,Asia-Pacific,partner,2022/03/26,Thomas Martin,N
+715,Summit Corp 280,Retail,1-50,IN,Asia-Pacific,organic,20-Feb-2022,Linda Anderson,Y
+716,Stratos Analytics 660,Healthcare,1-50,GB,Europe,organic,07-21-2023,Omar Moore,Y
+717,Catalyst Labs 692,Manufacturing,51-200,FR,Europe,organic,28-May-2023,James Williams,N
+718,Vanguard Digital 414,Real Estate,51-200,IN,Asia-Pacific,paid,04/02/2025,Omar Moore,Y
+719,Summit Labs 529,Education,1-50,SG,Asia-Pacific,paid,2025/02/05,Michael Chen,N
+720,Pulse Dynamics 461,Retail,1-50,JP,Asia-Pacific,referral,03-Mar-2022,Robert Jackson,Y
+721,Forge Industries 703,Energy,1-50,India,Asia-Pacific,paid,06-Jan-2025,Sophie Ahmed,Y
+722,Helios Software 623,Media,1-50,SG,Asia-Pacific,paid,2024/03/11,Linda Jones,Y
+723,Catalyst Partners 986,Finance,1-50,Brazil,South America,organic,08-01-2025,Sarah Wilson,Y
+724,Nova Systems 204,Retail,1-50,united kingdom,Europe,organic,01-Mar-2024,Linda Anderson,Y
+725,Nova Systems 335,Finance,1000+,IN,Asia-Pacific,organic,2024/03/11,Omar Moore,Y
+726,Quantum Consulting 211,Finance,201-1000,australia,Asia-Pacific,paid,06-04-2024,Arun Chen,N
+727,Orbit Labs 8,Energy,51-200,canada,North America,referral,07-01-2024,Sarah Wilson,true
+728,Beacon Dynamics 590,Education,201-1000,united states,North America,paid,2022/07/06,Robert Jackson,N
+729,Stellar Software 633,Legal,1-50,IN,Asia-Pacific,organic,07/26/2024,Priya Tanaka,Y
+730,Orbit Software 644,Legal,51-200,JP,Asia-Pacific,partner,08-21-2023,Linda Jones,Y
+731,Vanguard Technologies 774,Media,1000+,United Kingdom,Europe,referral,10/30/2024,Linda Anderson,N
+732,Apex Dynamics 28,Media,201-1000,united kingdom,Europe,paid,2025/08/01,James Tanaka,N
+733,Nova Group 118,Real Estate,1000+,Canada,North America,organic,11-01-2023,Robert Jackson,N
+734,Beacon Systems 483,Energy,1-50,Australia,Asia-Pacific,referral,2022-11-27,Charles Rodriguez,Y
+735,Elevate Systems 80,Finance,51-200,US,North America,paid,2023/07/14,James Tanaka,N
+736,Stratos Ventures 679,Technology,1-50,UK,Europe,partner,03/10/2024,Robert Jackson,N
+737,Vanguard Software 245,Technology,201-1000,Germany,Europe,organic,07/07/2022,Linda Jones,Y
+738,Stellar Innovations 172,Education,51-200,U.S.A.,North America,paid,05-01-2024,James Moore,N
+739,Forge Technologies 238,Technology,1000+,germany,Europe,referral,2022-08-05,James Moore,Y
+740,Pulse Dynamics 226,Technology,1-50,United Kingdom,Europe,partner,09-Sep-2025,James Mueller,N
+741,Summit Technologies 730,Energy,201-1000,JP,Asia-Pacific,paid,11-Mar-2025,Priya Tanaka,Y
+742,Catalyst Consulting 683,Media,51-200,Brazil,South America,paid,2022-05-19,James Mueller,N
+743,Nexus Group 243,Finance,201-1000,IN,Asia-Pacific,referral,05/14/2023,Yuki Brown,Y
+744,Elevate Labs 658,Legal,201-1000,United States,North America,referral,03-May-2023,James Tanaka,N
+745,Stratos Digital 425,Education,51-200,Australia,Asia-Pacific,organic,02/18/2022,Robert Jackson,N
+746,Helios Consulting 391,Healthcare,1000+,Japan,Asia-Pacific,paid,2023-10-21,Yuki Brown,Y
+747,Pulse Systems 94,Manufacturing,1-50,CA,North America,partner,28-Apr-2025,Priya Tanaka,Y
+748,Pulse Labs 435,Energy,1000+,canada,North America,paid,25-May-2025,Sarah Wilson,N
+749,Vertex Corp 408,Logistics,1000+,India,Asia-Pacific,partner,2022-12-10,James Moore,N
+750,Forge Consulting 86,Retail,1000+,AU,Asia-Pacific,referral,2025/05/03,James Williams,Y
+751,Elevate Analytics 621,Manufacturing,51-200,Brazil,South America,organic,2022-05-28,Linda Anderson,N
+752,Vanguard Dynamics 415,Media,1000+,IN,Asia-Pacific,organic,2024/03/19,James Tanaka,N
+753,Nexus Industries 955,Retail,201-1000,SG,Asia-Pacific,referral,2022-11-29,James Moore,N
+754,Forge Innovations 253,Consulting,1-50,germany,Europe,paid,05-Sep-2024,James Mueller,0
+755,Beacon Ventures 151,Technology,1-50,Australia,Asia-Pacific,partner,2023/05/22,Sophie Ahmed,Y
+756,Vertex Analytics 932,Retail,201-1000,germany,Europe,partner,05-16-2024,James Williams,N
+757,Forge Digital 898,Government,51-200,GB,Europe,paid,2022/08/12,James Williams,N
+758,Nova Systems 836,Logistics,1000+,BR,South America,partner,01/04/2022,Priya Tanaka,true
+759,Vanguard Systems 721,Real Estate,51-200,Canada,North America,paid,2023-02-10,Priya Tanaka,Y
+760,Pulse Group 924,Government,51-200,India,Asia-Pacific,referral,2024-06-21,James Moore,Y
+761,Nexus Group 66,Real Estate,1-50,France,Europe,organic,02-Mar-2022,Arun Brown,N
+762,Nimbus Digital 43,Media,201-1000,united kingdom,Europe,partner,09-Mar-2023,James Mueller,Y
+763,Forge Corp 380,Consulting,1000+,FR,Europe,organic,08-Oct-2023,Michael Davis,N
+764,Nexus Solutions 468,Government,201-1000,India,Asia-Pacific,referral,2022/10/12,James Mueller,N
+765,Summit Analytics 424,Technology,201-1000,Germany,Europe,referral,2022/01/07,Robert Jackson,N
+766,Helios Dynamics 410,Consulting,1-50,SG,Asia-Pacific,referral,06-16-2022,Omar Moore,N
+767,Quantum Consulting 533,Non-Profit,1-50,SG,Asia-Pacific,partner,10/30/2024,Arun Chen,false
+768,Nexus Dynamics 679,Non-Profit,1-50,Japan,Asia-Pacific,partner,2023-05-09,Priya Tanaka,Y
+769,Catalyst Software 393,Hospitality,1-50,australia,Asia-Pacific,paid,03-28-2023,Sarah Wilson,N
+770,Vertex Digital 709,Consulting,201-1000,FR,Europe,partner,04-04-2023,Michael Chen,Y
+771,Zenith Labs 266,Education,51-200,UK,Europe,referral,08/19/2023,Michael Davis,N
+772,Elevate Partners 755,Manufacturing,1000+,united states,North America,referral,29-Sep-2023,Yuki Brown,Yes
+773,Stratos Ventures 617,Logistics,1000+,SG,Asia-Pacific,paid,31-Mar-2023,Robert Jackson,Y
+774,Summit Ventures 467,Energy,201-1000,CA,North America,organic,16-May-2025,Sophie Ahmed,Y
+775,Summit Ventures 849,Technology,201-1000,Germany,Europe,paid,10/10/2024,James Tanaka,N
+776,Stellar Consulting 500,Technology,1000+,IN,Asia-Pacific,partner,2023/09/05,Thomas Martin,Y
+777,Elevate Industries 74,Legal,1000+,Japan,Asia-Pacific,paid,03-Aug-2023,Sophie Ahmed,Y
+778,Apex Consulting 958,Real Estate,1000+,AU,Asia-Pacific,paid,07/26/2024,Omar Moore,Y
+779,Pulse Innovations 667,Consulting,51-200,united states,North America,partner,01/12/2024,James Tanaka,Y
+780,Nexus Corp 998,Logistics,201-1000,BR,South America,paid,2023/01/03,Robert Jackson,Y
+781,Apex Technologies 247,Consulting,1000+,India,Asia-Pacific,partner,2024/09/27,Susan Johnson,Y
+782,Beacon Corp 12,Consulting,51-200,UK,Europe,partner,27-Aug-2022,Linda Jones,false
+783,Nimbus Systems 394,Energy,51-200,Brazil,South America,referral,2025-08-13,Charles Rodriguez,N
+784,Stellar Industries 833,Healthcare,1-50,United States,North America,organic,03/17/2024,James Mueller,N
+785,Stellar Solutions 569,Energy,51-200,Brazil,South America,organic,10-06-2023,Susan Johnson,yes
+786,Apex Technologies 128,Media,1-50,Japan,Asia-Pacific,referral,2023-09-04,Linda Anderson,Y
+787,Flux Ventures 547,Logistics,201-1000,Brazil,South America,organic,2022-10-14,Robert Jackson,N
+788,Apex Labs 146,Energy,201-1000,AU,Asia-Pacific,paid,03-17-2023,Michael Chen,Y
+789,Vertex Analytics 262,Media,1000+,Australia,Asia-Pacific,referral,2024/02/21,Yuki Brown,Y
+790,Ignite Labs 73,Legal,201-1000,australia,Asia-Pacific,paid,2025/07/20,Yuki Brown,Y
+791,Catalyst Digital 445,Healthcare,201-1000,India,Asia-Pacific,organic,02-23-2022,Michael Chen,Y
+792,Vertex Corp 656,Finance,51-200,GB,Europe,organic,2024-01-14,James Moore,N
+793,Zenith Industries 975,Energy,1000+,UK,Europe,referral,09-10-2022,James Williams,N
+794,Ignite Group 623,Finance,201-1000,united kingdom,Europe,partner,04-09-2022,Yuki Brown,N
+795,,Media,201-1000,Japan,Asia-Pacific,referral,11/15/2022,James Mueller,Y
+796,Forge Innovations 469,Logistics,201-1000,CA,North America,partner,06-17-2024,Robert Jackson,N
+797,Flux Ventures 879,Government,1-50,UK,Europe,organic,09/18/2023,David Davis,N
+798,Stellar Partners 59,Non-Profit,1-50,united kingdom,Europe,paid,2023/08/09,Sarah Wilson,N
+799,Stratos Ventures 694,Hospitality,1-50,JP,Asia-Pacific,referral,09/13/2022,Linda Anderson,Y
+800,Helios Solutions 622,Finance,1-50,BR,South America,paid,12-12-2022,Thomas Martin,Y
+801,Apex Industries 508,Education,51-200,India,Asia-Pacific,referral,16-Dec-2022,Sarah Wilson,Y
+802,Flux Group 219,Hospitality,201-1000,U.S.A.,North America,organic,2025/07/16,James Mueller,Y
+803,Summit Solutions 365,Education,1-50,US,North America,referral,06/14/2025,James Moore,N
+804,Vanguard Solutions 104,Media,1-50,IN,Asia-Pacific,organic,10/04/2024,Susan Johnson,Y
+805,Zenith Dynamics 405,Logistics,201-1000,France,Europe,partner,2023/09/05,Priya Tanaka,Y
+806,Quantum Corp 766,Healthcare,51-200,IN,Asia-Pacific,organic,01/12/2022,James Moore,Y
+807,Forge Innovations 340,Consulting,201-1000,US,North America,partner,2022/11/25,Charles Rodriguez,N
+808,Summit Digital 699,Logistics,1000+,Canada,North America,organic,2023-10-28,Arun Brown,N
+809,Quantum Systems 353,Technology,201-1000,JP,Asia-Pacific,organic,2022/01/28,Sarah Wilson,Y
+810,Flux Group 498,Legal,51-200,United Kingdom,Europe,referral,2024-05-28,Susan Johnson,Y
+811,Zenith Ventures 841,Legal,51-200,India,Asia-Pacific,paid,02/11/2023,Linda Jones,Y
+812,Quantum Industries 40,Technology,51-200,Australia,Asia-Pacific,organic,2023/01/29,Michael Chen,N
+813,Stratos Group 717,Technology,1000+,germany,Europe,organic,31-Mar-2023,Linda Jones,N
+814,Orbit Corp 288,Finance,1-50,France,Europe,organic,06-May-2024,Omar Moore,Y
+815,Flux Dynamics 287,Real Estate,201-1000,SG,Asia-Pacific,referral,2022-07-26,Linda Jones,N
+816,Nova Ventures 566,Legal,201-1000,Canada,North America,referral,11/10/2023,Sophie Ahmed,N
+817,Elevate Technologies 909,Technology,51-200,United Kingdom,Europe,partner,2022-09-25,David Davis,Y
+818,Ignite Partners 352,Logistics,51-200,Australia,Asia-Pacific,paid,08/29/2024,Michael Chen,Y
+819,Ignite Innovations 259,Consulting,1-50,JP,Asia-Pacific,organic,2023/12/13,Michael Chen,N
+820,Stratos Software 976,Legal,51-200,JP,Asia-Pacific,organic,02-14-2022,James Tanaka,N
+821,Pulse Innovations 835,Finance,1000+,IN,Asia-Pacific,partner,2024/10/10,James Mueller,Y
+822,,Hospitality,1000+,U.S.A.,North America,referral,24-Nov-2022,Robert Jackson,Y
+823,Flux Innovations 275,Logistics,51-200,JP,Asia-Pacific,organic,09/01/2022,Susan Johnson,Y
+824,Quantum Group 895,Logistics,1-50,US,North America,referral,08-08-2025,Thomas Martin,Y
+825,Catalyst Technologies 970,Hospitality,201-1000,JP,Asia-Pacific,organic,2023-06-25,Thomas Martin,N
+826,Zenith Innovations 989,Logistics,1-50,australia,Asia-Pacific,partner,28-Dec-2022,James Mueller,Y
+827,Ignite Labs 837,Energy,1000+,Brazil,South America,partner,03/28/2023,Michael Chen,Y
+828,Vanguard Systems 924,Finance,51-200,Brazil,South America,partner,07/11/2022,James Williams,N
+829,Nova Group 167,Healthcare,51-200,Canada,North America,partner,03/18/2024,Arun Chen,Y
+830,Elevate Technologies 742,Energy,1-50,JP,Asia-Pacific,partner,2022-10-09,Linda Jones,Y
+831,Nova Digital 851,Retail,51-200,U.S.A.,North America,organic,2022-09-28,Linda Jones,Y
+832,Ignite Innovations 838,Non-Profit,1000+,France,Europe,referral,24-Jun-2022,Sarah Wilson,N
+833,Quantum Labs 58,Technology,1-50,Japan,Asia-Pacific,referral,2023-07-02,Linda Anderson,Y
+834,Forge Systems 2,Finance,201-1000,germany,Europe,referral,02/19/2022,James Moore,N
+835,Nexus Dynamics 174,Education,1-50,GB,Europe,organic,05-Apr-2023,David Davis,1
+836,Apex Partners 155,Consulting,1000+,Canada,North America,referral,05-27-2024,James Williams,Y
+837,Vanguard Software 107,Non-Profit,1-50,Australia,Asia-Pacific,paid,10/19/2024,Michael Davis,N
+838,Quantum Industries 458,Legal,201-1000,Brazil,South America,organic,18-May-2022,Yuki Brown,true
+839,Stellar Digital 395,Legal,1000+,FR,Europe,paid,10/16/2023,James Moore,N
+840,Forge Analytics 510,Media,1-50,JP,Asia-Pacific,paid,2024-12-29,Robert Jackson,Y
+841,,Hospitality,1-50,US,North America,referral,13-Jan-2024,Yuki Brown,Y
+842,Flux Dynamics 148,Technology,51-200,Japan,Asia-Pacific,paid,2024/05/12,Arun Brown,Y
+843,Forge Corp 56,Government,51-200,UK,Europe,paid,19-Sep-2025,Yuki Brown,N
+844,Vertex Labs 79,Finance,51-200,united states,North America,paid,03-11-2025,James Williams,N
+845,Summit Industries 740,Retail,1-50,France,Europe,organic,2024-06-28,James Mueller,Y
+846,Stellar Analytics 165,Logistics,201-1000,U.S.A.,North America,referral,03/22/2024,Michael Chen,N
+847,Stellar Group 997,Legal,51-200,united kingdom,Europe,organic,12/04/2024,James Moore,Y
+848,Stellar Consulting 764,Real Estate,201-1000,JP,Asia-Pacific,partner,05/24/2025,James Tanaka,N
+849,Vanguard Ventures 435,Education,201-1000,Germany,Europe,paid,07-Jul-2023,Priya Tanaka,N
+850,Ignite Technologies 67,Manufacturing,51-200,germany,Europe,organic,05/07/2025,Susan Johnson,1
+851,Vertex Partners 579,Technology,1-50,USA,North America,organic,28-Feb-2025,Arun Brown,N
+852,Vanguard Digital 290,Legal,201-1000,India,Asia-Pacific,organic,21-Oct-2024,Michael Chen,N
+853,Stratos Technologies 515,Real Estate,1-50,CA,North America,paid,02/18/2022,Arun Chen,N
+854,Vertex Software 641,Non-Profit,51-200,GB,Europe,partner,04/20/2023,Michael Davis,Y
+855,Flux Corp 639,Manufacturing,51-200,India,Asia-Pacific,paid,03-23-2022,Sarah Wilson,N
+856,Nexus Digital 16,Real Estate,1-50,CA,North America,referral,09/26/2023,James Williams,Y
+857,Stellar Technologies 287,Finance,1000+,SG,Asia-Pacific,partner,15-Jan-2024,Arun Chen,Y
+858,Quantum Technologies 996,Media,1000+,Singapore,Asia-Pacific,partner,26-Sep-2024,Linda Anderson,1
+859,Helios Corp 383,Hospitality,1-50,UK,Europe,paid,04-26-2024,Arun Brown,N
+860,Quantum Consulting 108,Government,1-50,Australia,Asia-Pacific,partner,2024/02/09,David Davis,N
+861,Vanguard Dynamics 480,Legal,1-50,JP,Asia-Pacific,partner,08/10/2024,James Moore,yes
+862,Catalyst Technologies 325,Healthcare,201-1000,FR,Europe,organic,05-22-2025,Yuki Brown,N
+863,Summit Systems 656,Technology,201-1000,DE,Europe,partner,10/18/2023,James Tanaka,N
+864,Pulse Consulting 24,Healthcare,51-200,India,Asia-Pacific,referral,2023/07/07,David Davis,Y
+865,Flux Consulting 730,Finance,1-50,Brazil,South America,partner,09-May-2024,James Williams,N
+866,Stellar Labs 358,Legal,1000+,IN,Asia-Pacific,partner,2024-09-13,Charles Rodriguez,Y
+867,Helios Labs 80,Technology,51-200,SG,Asia-Pacific,paid,2025/06/16,Michael Davis,0
+868,Nexus Digital 994,Real Estate,51-200,IN,Asia-Pacific,organic,2023-06-23,Omar Moore,Y
+869,Pulse Industries 714,Education,51-200,Japan,Asia-Pacific,organic,07-Dec-2022,Thomas Martin,Y
+870,Nova Group 919,Legal,1000+,australia,Asia-Pacific,partner,2024/10/25,Michael Chen,Y
+871,Vanguard Corp 849,Healthcare,51-200,JP,Asia-Pacific,partner,22-May-2024,Priya Tanaka,N
+872,Ignite Partners 167,Consulting,201-1000,Japan,Asia-Pacific,organic,2024-06-11,David Davis,N
+873,Nova Partners 955,Consulting,1000+,India,Asia-Pacific,referral,2022/08/01,Omar Moore,Y
+874,Zenith Digital 466,Healthcare,201-1000,JP,Asia-Pacific,partner,2024/02/20,Arun Brown,false
+875,Vanguard Digital 230,Retail,1000+,Japan,Asia-Pacific,organic,2023/08/04,James Tanaka,N
+876,Nova Solutions 158,Education,51-200,FR,Europe,paid,11-28-2024,James Moore,N
+877,Pulse Partners 660,Finance,1000+,India,Asia-Pacific,partner,16-Apr-2022,Linda Anderson,N
+878,Stellar Industries 237,Government,201-1000,United Kingdom,Europe,referral,09/16/2022,David Davis,N
+879,Vertex Solutions 448,Technology,1-50,U.S.A.,North America,partner,2025-07-11,Yuki Brown,Y
+880,Beacon Ventures 647,Retail,51-200,France,Europe,partner,18-Jan-2023,James Tanaka,Y
+881,Orbit Technologies 958,Government,1-50,Canada,North America,partner,07-08-2025,Linda Jones,No
+882,Nexus Systems 290,Government,201-1000,Australia,Asia-Pacific,partner,2023-01-05,Sarah Wilson,false
+883,,Media,201-1000,BR,South America,paid,07/05/2025,James Williams,true
+884,Nova Software 183,Healthcare,201-1000,SG,Asia-Pacific,partner,07-16-2025,James Mueller,Y
+885,Ignite Solutions 163,Energy,1-50,Japan,Asia-Pacific,paid,06/06/2023,Thomas Martin,Y
+886,Nexus Software 223,Legal,51-200,USA,North America,referral,2023/11/02,Omar Moore,N
+887,Vertex Corp 726,Media,1000+,Japan,Asia-Pacific,referral,08/28/2025,Omar Moore,N
+888,Orbit Industries 106,Legal,1000+,SG,Asia-Pacific,partner,2025/04/18,James Mueller,Y
+889,Orbit Consulting 327,Manufacturing,201-1000,SG,Asia-Pacific,organic,2022/08/09,Priya Tanaka,N
+890,Apex Analytics 260,Media,1-50,Singapore,Asia-Pacific,paid,19-Apr-2024,Michael Chen,N
+891,Stellar Corp 252,Finance,201-1000,UK,Europe,organic,17-Mar-2023,Arun Brown,N
+892,Catalyst Labs 477,Media,201-1000,Singapore,Asia-Pacific,paid,2023-10-21,Charles Rodriguez,Y
+893,Orbit Innovations 623,Consulting,1000+,GB,Europe,referral,03/21/2025,Omar Moore,N
+894,Apex Digital 506,Healthcare,1-50,BR,South America,paid,04-06-2022,Michael Davis,N
+895,Nimbus Industries 243,Hospitality,1000+,SG,Asia-Pacific,paid,2022/02/13,James Tanaka,Y
+896,Ignite Software 541,Real Estate,1-50,united states,North America,referral,22-Nov-2023,Michael Davis,Y
+897,Vanguard Industries 82,Media,201-1000,JP,Asia-Pacific,partner,2023-10-04,Thomas Martin,Y
+898,Helios Technologies 30,Healthcare,201-1000,germany,Europe,partner,04/08/2022,Priya Tanaka,Y
+899,,Retail,1-50,France,Europe,organic,05-Jan-2025,David Davis,Y
+900,Orbit Corp 705,Hospitality,51-200,SG,Asia-Pacific,organic,02/17/2024,Michael Davis,Y
+901,Quantum Digital 599,Logistics,51-200,IN,Asia-Pacific,partner,28-Jul-2025,Michael Davis,Y
+902,Summit Labs 95,Logistics,51-200,australia,Asia-Pacific,paid,2023-08-30,David Davis,N
+903,Summit Solutions 218,Manufacturing,1000+,US,North America,referral,03/19/2023,Sophie Ahmed,N
+904,Stratos Analytics 880,Government,1-50,France,Europe,paid,01-Oct-2023,James Moore,Y
+905,Beacon Consulting 636,Healthcare,201-1000,JP,Asia-Pacific,paid,20-Feb-2023,Sophie Ahmed,Y
+906,Nexus Systems 473,Finance,201-1000,UK,Europe,partner,08-14-2022,Arun Chen,N
+907,Vanguard Group 122,Finance,1000+,JP,Asia-Pacific,referral,2022-06-22,Arun Chen,Y
+908,Orbit Corp 101,Manufacturing,201-1000,United States,North America,partner,08/21/2025,James Mueller,N
+909,Orbit Analytics 623,Consulting,51-200,Brazil,South America,paid,2024-11-28,James Tanaka,Y
+910,Apex Partners 273,Manufacturing,1000+,DE,Europe,partner,2022-05-15,Robert Jackson,N
+911,Orbit Dynamics 211,Legal,201-1000,canada,North America,organic,2023-02-21,Priya Tanaka,N
+912,Stratos Software 718,Finance,201-1000,Singapore,Asia-Pacific,paid,09/03/2024,Michael Davis,Y
+913,Beacon Systems 986,Technology,51-200,USA,North America,organic,09/26/2025,Arun Brown,N
+914,Helios Corp 993,Real Estate,1-50,Brazil,South America,organic,04-09-2025,James Williams,no
+915,Zenith Analytics 516,Retail,201-1000,CA,North America,partner,28-Oct-2022,Charles Rodriguez,Y
+916,Orbit Ventures 499,Retail,201-1000,australia,Asia-Pacific,partner,2024-01-17,Susan Johnson,N
+917,Stratos Innovations 656,Consulting,51-200,USA,North America,partner,2022-10-30,Robert Jackson,Y
+918,Nimbus Innovations 713,Manufacturing,1000+,India,Asia-Pacific,referral,01-07-2024,Arun Chen,Y
+919,Stratos Systems 272,Retail,201-1000,France,Europe,organic,11-10-2023,Linda Anderson,N
+920,Catalyst Consulting 628,Retail,1-50,UK,Europe,partner,06/06/2024,Arun Chen,N
+921,Quantum Analytics 990,Retail,1000+,AU,Asia-Pacific,organic,01-Jul-2025,Arun Brown,Y
+922,Beacon Solutions 223,Retail,1-50,AU,Asia-Pacific,referral,2025-04-29,James Tanaka,false
+923,Orbit Systems 359,Healthcare,201-1000,Australia,Asia-Pacific,paid,2024/10/25,Sophie Ahmed,Y
+924,Vertex Group 225,Non-Profit,1000+,united states,North America,partner,2024-08-27,Susan Johnson,Y
+925,Flux Partners 319,Non-Profit,51-200,canada,North America,paid,28-Feb-2025,Yuki Brown,N
+926,Forge Analytics 205,Hospitality,1000+,australia,Asia-Pacific,paid,2023/09/17,Michael Chen,No
+927,Nexus Systems 540,Real Estate,201-1000,BR,South America,partner,2023/10/04,Michael Chen,N
+928,Beacon Solutions 935,Healthcare,51-200,JP,Asia-Pacific,paid,02-24-2022,Linda Anderson,N
+929,Vanguard Systems 636,Non-Profit,1000+,Japan,Asia-Pacific,partner,2025-03-04,Arun Chen,Y
+930,Stratos Dynamics 860,Education,1-50,USA,North America,partner,23-Jun-2022,James Tanaka,N
+931,Nexus Innovations 599,Logistics,1000+,Japan,Asia-Pacific,paid,04/19/2022,James Williams,Y
+932,Flux Innovations 960,Healthcare,1-50,US,North America,paid,09-20-2024,Linda Jones,Y
+933,Stratos Technologies 254,Media,1-50,Germany,Europe,referral,2022/08/01,Sarah Wilson,N
+934,Stellar Consulting 241,Government,1-50,JP,Asia-Pacific,paid,2023-06-18,Priya Tanaka,N
+935,Quantum Consulting 763,Real Estate,1000+,DE,Europe,referral,2022-12-16,Sophie Ahmed,Y
+936,Summit Corp 684,Real Estate,1000+,AU,Asia-Pacific,paid,2024-03-12,James Williams,Y
+937,,Consulting,1000+,India,Asia-Pacific,referral,01/23/2022,Arun Chen,Y
+938,Beacon Group 10,Education,1000+,canada,North America,organic,01/03/2024,Yuki Brown,Y
+939,Vanguard Ventures 737,Retail,201-1000,SG,Asia-Pacific,organic,2023/11/26,James Moore,Y
+940,Summit Partners 675,Finance,201-1000,canada,North America,referral,03-25-2025,James Mueller,N
+941,Elevate Technologies 47,Real Estate,1000+,USA,North America,paid,11/22/2022,Linda Jones,Y
+942,Stellar Innovations 914,Energy,201-1000,India,Asia-Pacific,organic,2024-05-10,Arun Chen,Y
+943,Vanguard Partners 647,Media,51-200,U.S.A.,North America,paid,12/23/2022,Susan Johnson,N
+944,Summit Dynamics 696,Media,51-200,Australia,Asia-Pacific,organic,2023-04-07,Omar Moore,Y
+945,Apex Digital 144,Education,51-200,U.S.A.,North America,partner,01/07/2024,Omar Moore,Y
+946,,Non-Profit,1-50,JP,Asia-Pacific,partner,2023/12/23,David Davis,Y
+947,Nimbus Technologies 131,Manufacturing,1-50,JP,Asia-Pacific,organic,09/03/2023,James Williams,false
+948,Orbit Industries 721,Retail,1-50,France,Europe,referral,2022/05/20,James Mueller,Y
+949,Apex Analytics 715,Consulting,1-50,UK,Europe,referral,2025/04/08,Susan Johnson,N
+950,Pulse Corp 910,Hospitality,1-50,United States,North America,partner,2022-10-13,Sophie Ahmed,N
+951,Helios Innovations 856,Energy,1-50,U.S.A.,North America,partner,12/10/2023,Susan Johnson,N
+952,Apex Technologies 37,Media,1000+,BR,South America,paid,2024-11-05,James Tanaka,N
+953,Nova Digital 801,Consulting,1-50,germany,Europe,partner,2024-12-30,James Moore,N
+954,Elevate Innovations 129,Real Estate,1-50,IN,Asia-Pacific,referral,05/24/2024,Michael Davis,Y
+955,Forge Software 60,Manufacturing,1000+,germany,Europe,organic,2023-04-21,Robert Jackson,Y
+956,Apex Technologies 59,Education,201-1000,canada,North America,paid,17-Jun-2024,Yuki Brown,Y
+957,Helios Industries 491,Logistics,51-200,united kingdom,Europe,referral,09/06/2025,Arun Chen,1
+958,Flux Corp 799,Logistics,201-1000,JP,Asia-Pacific,organic,2023-08-23,Thomas Martin,Y
+959,Forge Innovations 974,Hospitality,51-200,Singapore,Asia-Pacific,referral,09-22-2024,Omar Moore,Y
+960,Nexus Corp 743,Consulting,1000+,Canada,North America,organic,2022/03/15,James Tanaka,N
+961,Orbit Group 603,Technology,201-1000,IN,Asia-Pacific,partner,2023-09-08,James Moore,Y
+962,Elevate Dynamics 46,Logistics,1-50,germany,Europe,referral,2023-02-26,Charles Rodriguez,N
+963,Vanguard Software 27,Non-Profit,51-200,Singapore,Asia-Pacific,referral,11-20-2023,Michael Chen,N
+964,Forge Digital 747,Government,1000+,united states,North America,referral,08/12/2022,James Moore,N
+965,Beacon Innovations 947,Non-Profit,201-1000,Germany,Europe,paid,09-28-2022,James Williams,N
+966,Catalyst Partners 405,Consulting,201-1000,U.S.A.,North America,organic,2025-06-14,James Williams,N
+967,Nimbus Ventures 329,Real Estate,1-50,AU,Asia-Pacific,organic,02-Jan-2023,Sarah Wilson,Y
+968,Ignite Labs 419,Hospitality,201-1000,US,North America,partner,04/01/2025,Susan Johnson,N
+969,Orbit Group 890,Finance,1-50,Brazil,South America,organic,2022-09-18,Priya Tanaka,Y
+970,Stratos Consulting 451,Technology,201-1000,SG,Asia-Pacific,organic,12-Oct-2023,Charles Rodriguez,no
+971,Apex Partners 241,Healthcare,1-50,France,Europe,paid,12-Aug-2022,Sophie Ahmed,false
+972,Vanguard Consulting 843,Finance,1-50,IN,Asia-Pacific,referral,27-May-2022,Michael Chen,N
+973,Vanguard Dynamics 966,Technology,201-1000,Australia,Asia-Pacific,organic,2025-06-27,James Mueller,0
+974,Pulse Digital 321,Manufacturing,1000+,Japan,Asia-Pacific,paid,2024/11/06,David Davis,N
+975,Vertex Software 230,Logistics,1-50,Singapore,Asia-Pacific,partner,10-28-2024,Linda Anderson,N
+976,Beacon Corp 276,Education,51-200,DE,Europe,paid,2025/03/24,Michael Davis,Y
+977,Nexus Innovations 247,Logistics,1-50,BR,South America,partner,04-19-2024,Robert Jackson,N
+978,Beacon Digital 429,Hospitality,51-200,DE,Europe,paid,03-12-2025,Susan Johnson,Y
+979,Flux Corp 322,Energy,1000+,United Kingdom,Europe,paid,2022/06/16,Arun Brown,Y
+980,Stellar Technologies 429,Legal,1-50,Australia,Asia-Pacific,organic,2025/02/09,Arun Brown,N
+981,Stellar Technologies 136,Education,51-200,JP,Asia-Pacific,paid,20-Dec-2024,Linda Jones,N
+982,Catalyst Software 845,Legal,1-50,France,Europe,referral,2025/04/26,Michael Chen,Y
+983,Beacon Innovations 855,Legal,51-200,India,Asia-Pacific,paid,2023-08-16,Sophie Ahmed,Y
+984,Nimbus Corp 691,Logistics,201-1000,Brazil,South America,paid,16-Feb-2024,Sarah Wilson,Y
+985,Catalyst Solutions 578,Retail,201-1000,JP,Asia-Pacific,referral,12/11/2024,Yuki Brown,N
+986,Apex Consulting 968,Healthcare,201-1000,DE,Europe,paid,2024-05-31,James Williams,N
+987,Orbit Dynamics 450,Energy,1-50,Germany,Europe,referral,12/13/2022,Linda Jones,N
+988,Pulse Analytics 859,Hospitality,51-200,Japan,Asia-Pacific,partner,2022-12-12,Thomas Martin,Y
+989,Pulse Group 965,Government,1000+,SG,Asia-Pacific,organic,2024-05-23,Arun Chen,Y
+990,Forge Dynamics 270,Education,1-50,United Kingdom,Europe,organic,08-Oct-2022,Priya Tanaka,Y
+991,Stratos Corp 283,Legal,201-1000,Brazil,South America,partner,2025-07-15,Linda Anderson,Y
+992,Catalyst Labs 862,Consulting,1-50,Japan,Asia-Pacific,paid,09-15-2025,James Moore,Y
+993,Zenith Ventures 201,Legal,1000+,AU,Asia-Pacific,paid,08/20/2024,David Davis,Y
+994,Stratos Consulting 741,Logistics,51-200,germany,Europe,paid,2022-01-07,Michael Chen,N
+995,Orbit Partners 390,Logistics,51-200,SG,Asia-Pacific,paid,26-Apr-2023,Sarah Wilson,N
+996,Summit Digital 646,Retail,1-50,India,Asia-Pacific,organic,09-May-2025,Michael Chen,N
+997,Beacon Corp 254,Consulting,1-50,IN,Asia-Pacific,partner,08/26/2022,Sarah Wilson,N
+998,Summit Partners 422,Hospitality,1000+,Germany,Europe,referral,01-Mar-2022,Michael Davis,Y
+999,Forge Industries 829,Retail,1000+,Brazil,South America,referral,2024-05-20,James Williams,Y
+1000,Beacon Industries 227,Energy,201-1000,Singapore,Asia-Pacific,organic,2022-12-08,James Moore,Y
+1001,Vertex Digital 722,Consulting,1-50,France,Europe,referral,12-24-2023,Omar Moore,Y
+1002,Stellar Consulting 549,Hospitality,201-1000,IN,Asia-Pacific,partner,04/15/2023,Charles Rodriguez,Y
+1003,Zenith Solutions 37,Non-Profit,1000+,US,North America,paid,14-Dec-2024,James Williams,true
+1004,Nova Labs 647,Government,1000+,germany,Europe,partner,03/11/2022,Susan Johnson,Y
+1005,Vertex Technologies 76,Energy,51-200,Japan,Asia-Pacific,partner,04/30/2024,James Mueller,Yes
+1006,Flux Digital 332,Retail,1000+,India,Asia-Pacific,organic,15-Nov-2024,Sophie Ahmed,N
+1007,Summit Industries 299,Logistics,201-1000,IN,Asia-Pacific,referral,07-10-2022,Linda Anderson,N
+1008,Zenith Industries 18,Real Estate,51-200,Brazil,South America,partner,03/17/2024,Arun Chen,Y
+1009,Vanguard Dynamics 577,Non-Profit,1-50,UK,Europe,paid,08/09/2025,Sarah Wilson,Y
+1010,Nimbus Labs 86,Logistics,51-200,Canada,North America,partner,05-Apr-2024,Michael Chen,N
+1011,Flux Innovations 346,Government,1-50,CA,North America,paid,03-16-2022,Sarah Wilson,N
+1012,Ignite Dynamics 321,Logistics,1-50,Germany,Europe,partner,2023-10-22,James Moore,N
+1013,Quantum Digital 14,Manufacturing,1000+,Canada,North America,organic,2024/11/30,Sarah Wilson,Y
+1014,Stellar Ventures 823,Media,1000+,Japan,Asia-Pacific,referral,2024-09-24,Michael Chen,Yes
+1015,Flux Innovations 945,Energy,51-200,Australia,Asia-Pacific,referral,12-06-2024,Omar Moore,N
+1016,Helios Innovations 381,Manufacturing,201-1000,Japan,Asia-Pacific,paid,05-23-2025,Sarah Wilson,N
+1017,Nova Corp 427,Retail,51-200,Canada,North America,organic,11-04-2022,Arun Chen,Y
+1018,Catalyst Technologies 63,Education,51-200,SG,Asia-Pacific,organic,08/17/2024,Susan Johnson,Y
+1019,Flux Consulting 934,Energy,1000+,IN,Asia-Pacific,paid,2025-04-11,Sophie Ahmed,N
+1020,Quantum Technologies 749,Finance,1000+,DE,Europe,referral,07-28-2023,Sarah Wilson,Y
+1021,Pulse Systems 3,Finance,51-200,Germany,Europe,partner,2023-03-20,Michael Davis,No
+1022,Vertex Software 994,Media,1000+,USA,North America,referral,10-08-2022,Linda Jones,N
+1023,Zenith Analytics 403,Retail,201-1000,India,Asia-Pacific,paid,02/29/2024,Susan Johnson,N
+1024,Quantum Consulting 448,Consulting,1-50,JP,Asia-Pacific,referral,06/23/2024,Arun Brown,N
+1025,Vanguard Consulting 478,Media,201-1000,France,Europe,organic,05/18/2024,Arun Chen,Y
+1026,Vanguard Analytics 200,Hospitality,201-1000,USA,North America,organic,04-15-2025,Susan Johnson,Y
+1027,Apex Ventures 282,Retail,1-50,Brazil,South America,partner,03-26-2024,Arun Chen,1
+1028,Summit Systems 485,Energy,51-200,Japan,Asia-Pacific,paid,2022-08-01,Michael Chen,Y
+1029,Nexus Solutions 455,Retail,51-200,U.S.A.,North America,organic,06-Oct-2023,Michael Davis,Yes
+1030,Stellar Software 601,Media,1-50,France,Europe,paid,11-23-2024,Yuki Brown,true
+1031,Orbit Technologies 177,Legal,1000+,Brazil,South America,organic,02-Apr-2022,Susan Johnson,Y
+1032,Ignite Corp 121,Energy,1000+,France,Europe,organic,2024-08-12,Priya Tanaka,Y
+1033,Vertex Systems 326,Non-Profit,1-50,Singapore,Asia-Pacific,referral,2025/07/07,David Davis,Y
+1034,Zenith Group 858,Legal,201-1000,Germany,Europe,referral,09/29/2022,Sophie Ahmed,N
+1035,Catalyst Industries 232,Retail,201-1000,germany,Europe,partner,13-Jul-2023,David Davis,Y
+1036,Summit Corp 593,Government,51-200,France,Europe,partner,12/16/2023,Charles Rodriguez,N
+1037,Nimbus Labs 720,Manufacturing,201-1000,IN,Asia-Pacific,organic,12-12-2023,Omar Moore,N
+1038,Orbit Labs 479,Real Estate,51-200,AU,Asia-Pacific,referral,06-Mar-2022,Sophie Ahmed,Y
+1039,Elevate Ventures 603,Government,1-50,United States,North America,partner,2023/10/23,Michael Davis,N
+1040,Catalyst Ventures 925,Finance,1000+,United Kingdom,Europe,organic,2023/01/19,James Mueller,N
+1041,Beacon Partners 590,Retail,201-1000,IN,Asia-Pacific,partner,2024/03/28,James Williams,Y
+1042,Apex Software 899,Non-Profit,201-1000,germany,Europe,partner,11-04-2024,Arun Brown,true
+1043,Flux Software 612,Finance,201-1000,Japan,Asia-Pacific,organic,11-Feb-2023,Yuki Brown,Y
+1044,Vanguard Dynamics 406,Manufacturing,51-200,CA,North America,referral,2024-08-01,Priya Tanaka,yes
+1045,Zenith Consulting 209,Consulting,201-1000,India,Asia-Pacific,partner,07/04/2022,Thomas Martin,Y
+1046,Nexus Dynamics 564,Government,1000+,India,Asia-Pacific,organic,2023/03/12,Yuki Brown,N
+1047,Catalyst Digital 958,Government,1000+,canada,North America,partner,03-29-2024,David Davis,N
+1048,Vanguard Dynamics 686,Non-Profit,51-200,SG,Asia-Pacific,referral,25-Feb-2022,Linda Anderson,Y
+1049,Nova Partners 614,Real Estate,51-200,India,Asia-Pacific,paid,08-Jun-2022,Michael Chen,Y
+1050,Vertex Corp 394,Media,1000+,Canada,North America,referral,2024/05/21,Priya Tanaka,N
+1051,Stellar Industries 699,Education,1-50,JP,Asia-Pacific,organic,08/06/2022,Michael Davis,Y
+1052,Quantum Partners 520,Media,1-50,IN,Asia-Pacific,partner,20-Jul-2024,Linda Jones,true
+1053,Helios Digital 822,Legal,201-1000,BR,South America,organic,10/25/2024,Michael Chen,N
+1054,Ignite Digital 393,Retail,51-200,united kingdom,Europe,partner,2022-11-04,Arun Chen,No
+1055,Flux Solutions 125,Retail,1000+,BR,South America,referral,2024-07-31,Charles Rodriguez,N
+1056,Orbit Systems 301,Retail,1-50,France,Europe,referral,2024-05-04,Charles Rodriguez,0
+1057,Elevate Labs 180,Consulting,1000+,united kingdom,Europe,referral,31-Dec-2024,Arun Chen,yes
+1058,Helios Labs 941,Education,201-1000,Japan,Asia-Pacific,paid,03-11-2025,Linda Jones,Y
+1059,Elevate Analytics 743,Media,1000+,UK,Europe,paid,23-Nov-2023,David Davis,N
+1060,Forge Technologies 813,Energy,51-200,germany,Europe,organic,15-Mar-2025,Sophie Ahmed,N
+1061,Summit Labs 779,Retail,1-50,IN,Asia-Pacific,paid,17-Jul-2023,Susan Johnson,Y
+1062,Nova Industries 213,Retail,1000+,U.S.A.,North America,referral,2024-04-28,Robert Jackson,N
+1063,Zenith Solutions 727,Legal,1000+,FR,Europe,referral,03-29-2023,James Moore,1
+1064,Summit Software 572,Government,1000+,United States,North America,partner,2023/12/04,Omar Moore,N
+1065,Ignite Innovations 175,Consulting,1000+,IN,Asia-Pacific,organic,06/08/2023,Linda Anderson,Y
+1066,Vanguard Group 299,Finance,51-200,FR,Europe,partner,2024/07/13,Arun Brown,Y
+1067,Flux Analytics 762,Media,1-50,Brazil,South America,partner,04/26/2023,Omar Moore,Y
+1068,Nexus Partners 297,Logistics,1000+,CA,North America,paid,2022/11/22,James Mueller,N
+1069,Orbit Corp 789,Logistics,1000+,France,Europe,partner,2025/07/14,Arun Chen,0
+1070,Flux Consulting 947,Media,201-1000,Brazil,South America,referral,2022/11/18,Priya Tanaka,Y
+1071,Nexus Industries 595,Energy,51-200,India,Asia-Pacific,organic,05-06-2024,Sophie Ahmed,Y
+1072,Forge Solutions 333,Consulting,1-50,SG,Asia-Pacific,organic,05-27-2023,James Moore,N
+1073,Ignite Analytics 885,Finance,1000+,germany,Europe,paid,27-Nov-2022,Yuki Brown,Y
+1074,,Manufacturing,1000+,United States,North America,paid,2023/02/28,Linda Anderson,N
+1075,Nexus Digital 619,Technology,1-50,FR,Europe,partner,2022/11/23,David Davis,Y
+1076,Forge Group 905,Real Estate,1000+,Japan,Asia-Pacific,referral,2022/09/05,James Tanaka,Y
+1077,Vanguard Industries 734,Non-Profit,1-50,Japan,Asia-Pacific,paid,12-Jul-2025,Sophie Ahmed,N
+1078,Nexus Innovations 174,Hospitality,51-200,FR,Europe,paid,25-Apr-2024,Linda Jones,Y
+1079,Catalyst Ventures 711,Non-Profit,51-200,GB,Europe,referral,27-Jul-2024,Arun Chen,N
+1080,Catalyst Digital 462,Non-Profit,51-200,Australia,Asia-Pacific,referral,2025-03-09,Robert Jackson,Y
+1081,Vanguard Partners 372,Energy,201-1000,AU,Asia-Pacific,partner,21-Sep-2023,Yuki Brown,Y
+1082,Quantum Systems 623,Technology,51-200,australia,Asia-Pacific,referral,02/26/2024,Sophie Ahmed,Y
+1083,Nova Group 373,Education,51-200,JP,Asia-Pacific,referral,2024/11/24,Sarah Wilson,Y
+1084,Stellar Consulting 538,Technology,1-50,BR,South America,paid,26-Dec-2022,Omar Moore,N
+1085,Zenith Systems 285,Real Estate,1000+,Singapore,Asia-Pacific,paid,09/02/2022,Thomas Martin,N
+1086,Apex Industries 642,Logistics,1-50,UK,Europe,partner,11-06-2023,Linda Anderson,N
+1087,Zenith Labs 263,Legal,1000+,Canada,North America,organic,08-25-2025,Susan Johnson,Y
+1088,Ignite Group 94,Logistics,201-1000,Germany,Europe,paid,05/11/2022,Robert Jackson,Y
+1089,Nimbus Digital 596,Education,1-50,Brazil,South America,partner,2024-08-08,Arun Chen,Y
+1090,Vertex Dynamics 203,Retail,1-50,united kingdom,Europe,organic,2025/01/15,Omar Moore,N
+1091,Nimbus Digital 651,Non-Profit,1000+,SG,Asia-Pacific,partner,07/23/2024,Michael Davis,N
+1092,Stratos Dynamics 527,Education,201-1000,australia,Asia-Pacific,referral,2025/08/14,Linda Jones,Y
+1093,Stellar Dynamics 7,Finance,1-50,FR,Europe,referral,2024-11-09,Arun Chen,Y
+1094,Catalyst Ventures 704,Non-Profit,51-200,Japan,Asia-Pacific,referral,01-10-2023,James Williams,Y
+1095,Catalyst Digital 544,Energy,51-200,BR,South America,paid,07/30/2022,James Moore,Y
+1096,Stellar Consulting 162,Consulting,1000+,SG,Asia-Pacific,paid,18-Sep-2025,Sarah Wilson,N
+1097,Flux Corp 149,Real Estate,201-1000,AU,Asia-Pacific,partner,2023/11/15,Arun Brown,N
+1098,Elevate Solutions 992,Real Estate,201-1000,India,Asia-Pacific,paid,12/26/2023,Susan Johnson,Y
+1099,Flux Consulting 383,Education,51-200,United States,North America,partner,22-Oct-2023,Linda Jones,N
+1100,Vertex Labs 165,Technology,1000+,FR,Europe,paid,09-Sep-2024,James Mueller,N
+1101,Nimbus Industries 61,Logistics,201-1000,united kingdom,Europe,referral,2022-04-25,Sarah Wilson,N
+1102,Quantum Software 768,Government,51-200,United Kingdom,Europe,referral,10-27-2023,Omar Moore,N
+1103,Ignite Technologies 449,Logistics,201-1000,germany,Europe,organic,11/03/2023,David Davis,N
+1104,Catalyst Consulting 370,Manufacturing,1000+,BR,South America,referral,03/16/2023,Susan Johnson,N
+1105,Orbit Partners 766,Media,1000+,united states,North America,organic,10-15-2022,James Tanaka,true
+1106,Stratos Corp 17,Non-Profit,1000+,SG,Asia-Pacific,referral,2024-06-14,David Davis,N
+1107,Nimbus Technologies 998,Energy,1000+,Japan,Asia-Pacific,organic,2022/08/19,Susan Johnson,Y
+1108,Beacon Dynamics 911,Consulting,201-1000,CA,North America,partner,2025-08-25,James Moore,Y
+1109,Nimbus Group 7,Education,1000+,Singapore,Asia-Pacific,referral,03/09/2024,Sophie Ahmed,no
+1110,Catalyst Analytics 469,Manufacturing,51-200,Germany,Europe,referral,03/22/2025,Linda Jones,Y
+1111,Nova Analytics 617,Education,201-1000,United States,North America,paid,09/18/2022,James Williams,Y
+1112,Stellar Industries 278,Finance,1000+,Germany,Europe,partner,2023-03-21,Arun Chen,Y
+1113,Pulse Industries 51,Non-Profit,1000+,Brazil,South America,organic,06/17/2024,Linda Anderson,Y
+1114,Nimbus Innovations 529,Real Estate,201-1000,GB,Europe,partner,11/30/2022,Omar Moore,Y
+1115,Vertex Digital 520,Real Estate,1-50,France,Europe,partner,2024/09/05,James Moore,Y
+1116,Nexus Corp 370,Manufacturing,1-50,australia,Asia-Pacific,partner,2022/05/14,Arun Brown,N
+1117,Orbit Innovations 663,Finance,1-50,France,Europe,paid,04/03/2022,Sarah Wilson,no
+1118,Apex Solutions 611,Government,51-200,DE,Europe,paid,09/15/2025,Linda Anderson,N
+1119,Quantum Innovations 829,Non-Profit,51-200,Canada,North America,partner,01/18/2024,James Williams,Y
+1120,Elevate Ventures 383,Education,1-50,AU,Asia-Pacific,organic,06/27/2025,Michael Chen,Y
+1121,Apex Analytics 387,Technology,201-1000,Singapore,Asia-Pacific,organic,2024/12/11,David Davis,Y
+1122,Nexus Dynamics 476,Retail,1000+,IN,Asia-Pacific,referral,01/04/2025,Michael Davis,Y
+1123,Ignite Corp 980,Real Estate,51-200,Singapore,Asia-Pacific,paid,09-30-2025,Yuki Brown,N
+1124,Quantum Labs 676,Hospitality,1-50,United Kingdom,Europe,paid,14-Jul-2022,Priya Tanaka,N
+1125,Flux Corp 728,Non-Profit,51-200,BR,South America,partner,30-Sep-2025,Yuki Brown,N
+1126,Nimbus Innovations 958,Finance,1-50,United States,North America,organic,02/28/2024,Priya Tanaka,Y
+1127,Elevate Corp 12,Manufacturing,1000+,SG,Asia-Pacific,paid,2024/09/11,James Mueller,N
+1128,Orbit Analytics 451,Education,51-200,GB,Europe,referral,2023/07/27,Charles Rodriguez,N
+1129,Beacon Ventures 99,Media,1-50,France,Europe,organic,11/29/2024,Arun Chen,N
+1130,Nexus Technologies 564,Real Estate,1000+,australia,Asia-Pacific,organic,09-16-2022,Priya Tanaka,N
+1131,Elevate Consulting 964,Non-Profit,1-50,Japan,Asia-Pacific,referral,02-04-2023,James Mueller,no
+1132,Quantum Partners 881,Education,51-200,Japan,Asia-Pacific,referral,12/11/2024,Linda Jones,Yes
+1133,Stellar Ventures 650,Logistics,1000+,Singapore,Asia-Pacific,referral,2023-04-09,James Moore,Y
+1134,Flux Industries 923,Education,51-200,JP,Asia-Pacific,organic,2024-05-12,Susan Johnson,N
+1135,Ignite Ventures 320,Technology,1000+,Germany,Europe,paid,2025/06/09,Priya Tanaka,Y
+1136,Zenith Industries 806,Manufacturing,201-1000,Canada,North America,paid,16-Aug-2025,Yuki Brown,Y
+1137,Elevate Technologies 744,Consulting,201-1000,SG,Asia-Pacific,organic,2022-11-07,Linda Anderson,Y
+1138,Flux Analytics 106,Retail,1-50,SG,Asia-Pacific,paid,2024-08-22,Michael Davis,N
+1139,Orbit Solutions 391,Energy,51-200,australia,Asia-Pacific,partner,20-Aug-2022,Robert Jackson,N
+1140,Stratos Technologies 91,Government,1000+,SG,Asia-Pacific,partner,2025-05-11,Linda Jones,Y
+1141,Orbit Consulting 742,Media,201-1000,AU,Asia-Pacific,organic,2023-05-31,Linda Jones,N
+1142,Summit Labs 600,Healthcare,1000+,BR,South America,partner,2023-03-30,James Mueller,N
+1143,Nexus Partners 859,Education,1000+,united kingdom,Europe,organic,24-Mar-2025,Arun Chen,no
+1144,Beacon Partners 885,Consulting,1-50,Japan,Asia-Pacific,paid,2022-03-18,Michael Davis,N
+1145,Nexus Group 943,Education,201-1000,IN,Asia-Pacific,paid,28-Feb-2022,Arun Chen,N
+1146,Apex Corp 470,Legal,1000+,AU,Asia-Pacific,paid,2022/11/25,David Davis,N
+1147,Catalyst Corp 632,Healthcare,1-50,JP,Asia-Pacific,referral,04-12-2023,Sarah Wilson,N
+1148,Stellar Digital 392,Education,201-1000,DE,Europe,referral,06/27/2023,Priya Tanaka,N
+1149,Catalyst Solutions 115,Non-Profit,51-200,DE,Europe,organic,04/06/2025,David Davis,N
+1150,Vertex Innovations 613,Logistics,201-1000,IN,Asia-Pacific,paid,2023/06/24,Linda Jones,0
+1151,Flux Partners 584,Government,1-50,United Kingdom,Europe,paid,26-Oct-2023,Arun Brown,N
+1152,Summit Labs 854,Consulting,51-200,Germany,Europe,organic,18-May-2023,Robert Jackson,N
+1153,Nova Consulting 627,Media,51-200,BR,South America,partner,17-Jun-2024,Thomas Martin,Y
+1154,Orbit Industries 380,Healthcare,51-200,FR,Europe,paid,04-26-2023,Sophie Ahmed,N
+1155,Quantum Technologies 940,Non-Profit,51-200,JP,Asia-Pacific,paid,2024/09/01,Susan Johnson,Y
+1156,Nimbus Consulting 55,Healthcare,51-200,Brazil,South America,partner,06-21-2025,James Tanaka,N
+1157,Vanguard Dynamics 889,Legal,201-1000,canada,North America,referral,2022-05-11,James Mueller,Y
+1158,Summit Industries 722,Retail,201-1000,CA,North America,paid,03-22-2024,Linda Anderson,N
+1159,Forge Systems 785,Energy,1-50,JP,Asia-Pacific,organic,2025-04-16,James Mueller,Y
+1160,Vertex Analytics 424,Government,51-200,Canada,North America,partner,2023-02-03,Michael Davis,Y
+1161,Vertex Technologies 969,Non-Profit,1000+,IN,Asia-Pacific,partner,03/21/2025,Michael Davis,N
+1162,Stellar Technologies 319,Real Estate,1-50,France,Europe,referral,2022/12/30,Omar Moore,N
+1163,Zenith Corp 663,Logistics,201-1000,UK,Europe,organic,11-27-2023,James Tanaka,Y
+1164,Vanguard Technologies 173,Media,201-1000,US,North America,referral,2024-12-19,Priya Tanaka,0
+1165,Pulse Ventures 636,Healthcare,51-200,BR,South America,paid,2023/01/08,Priya Tanaka,N
+1166,Stratos Systems 834,Non-Profit,201-1000,BR,South America,organic,04-Mar-2022,Priya Tanaka,Y
+1167,Nimbus Analytics 172,Energy,201-1000,united kingdom,Europe,partner,2024/10/16,Linda Jones,Y
+1168,Ignite Technologies 347,Manufacturing,1000+,Germany,Europe,referral,2024-01-19,Sarah Wilson,false
+1169,,Hospitality,1000+,Japan,Asia-Pacific,referral,06-Jul-2022,Yuki Brown,N
+1170,Beacon Digital 203,Media,1-50,AU,Asia-Pacific,organic,2025/07/06,Linda Jones,N
+1171,Catalyst Analytics 496,Non-Profit,1-50,Singapore,Asia-Pacific,paid,2024-03-07,James Williams,N
+1172,Nimbus Innovations 922,Legal,1-50,Singapore,Asia-Pacific,organic,16-Jan-2025,James Moore,N
+1173,Pulse Corp 988,Legal,51-200,JP,Asia-Pacific,organic,04/18/2022,Linda Jones,N
+1174,Beacon Systems 914,Real Estate,51-200,germany,Europe,organic,2023-10-18,James Moore,no
+1175,Pulse Software 706,Consulting,201-1000,United Kingdom,Europe,partner,08/18/2023,Thomas Martin,no
+1176,Elevate Solutions 160,Hospitality,1000+,canada,North America,referral,05/11/2025,Susan Johnson,N
+1177,Forge Innovations 11,Government,1000+,IN,Asia-Pacific,organic,2024/04/27,James Tanaka,Y
+1178,Beacon Systems 679,Finance,1000+,Germany,Europe,paid,05-25-2022,Michael Davis,Y
+1179,Stellar Innovations 263,Government,201-1000,India,Asia-Pacific,organic,2023/08/07,Omar Moore,N
+1180,Vertex Analytics 867,Real Estate,1000+,Brazil,South America,organic,02/16/2023,James Tanaka,Y
+1181,Elevate Systems 86,Real Estate,51-200,united kingdom,Europe,organic,05-11-2023,Omar Moore,N
+1182,Pulse Innovations 326,Education,201-1000,United States,North America,referral,2025/03/10,Omar Moore,yes
+1183,Apex Industries 390,Finance,51-200,CA,North America,partner,2023-08-21,Arun Chen,Y
+1184,Vertex Consulting 252,Finance,201-1000,Singapore,Asia-Pacific,organic,2024-12-18,Michael Chen,Y
+1185,Stratos Analytics 18,Education,1-50,Singapore,Asia-Pacific,organic,12/14/2022,Arun Brown,N
+1186,Elevate Solutions 577,Government,51-200,US,North America,organic,2024-03-04,Sarah Wilson,Y
+1187,Nimbus Ventures 396,Consulting,1000+,australia,Asia-Pacific,referral,15-Jun-2025,Arun Chen,Y
+1188,Summit Software 921,Manufacturing,51-200,CA,North America,paid,2024/07/19,Susan Johnson,N
+1189,Stellar Corp 758,Technology,1000+,united states,North America,paid,2024/06/03,Yuki Brown,Y
+1190,Vanguard Labs 965,Legal,1000+,IN,Asia-Pacific,partner,2024/05/12,Thomas Martin,N
+1191,Catalyst Corp 682,Manufacturing,51-200,India,Asia-Pacific,paid,09-30-2022,Thomas Martin,Y
+1192,Beacon Analytics 884,Media,51-200,IN,Asia-Pacific,organic,02-07-2024,Arun Chen,Y
+1193,Flux Software 853,Education,51-200,SG,Asia-Pacific,partner,04/24/2024,Arun Chen,no
+1194,Nova Innovations 212,Legal,51-200,IN,Asia-Pacific,paid,03/08/2025,Michael Chen,N
+1195,Catalyst Dynamics 252,Consulting,1-50,Canada,North America,organic,2024-09-23,Arun Brown,Y
+1196,Apex Corp 874,Manufacturing,51-200,United Kingdom,Europe,referral,2023-10-04,Thomas Martin,N
+1197,Helios Software 324,Retail,201-1000,Singapore,Asia-Pacific,paid,07/03/2024,Priya Tanaka,Y
+1198,Forge Technologies 546,Legal,201-1000,Singapore,Asia-Pacific,organic,04/19/2024,Arun Chen,N
+1199,Nexus Digital 41,Finance,1-50,canada,North America,referral,2024/02/20,Sophie Ahmed,N
+1200,Nimbus Systems 459,Hospitality,201-1000,US,North America,referral,2024-10-04,Priya Tanaka,N
+1201,Quantum Partners 308,Consulting,201-1000,IN,Asia-Pacific,organic,03-Nov-2022,James Mueller,no
+1202,Summit Solutions 637,Government,201-1000,Singapore,Asia-Pacific,referral,05-05-2024,Arun Brown,N
+1203,Summit Corp 928,Retail,1000+,CA,North America,referral,2022-04-17,Susan Johnson,N
+1204,Beacon Ventures 83,Technology,1-50,FR,Europe,partner,02/03/2025,Sarah Wilson,No
+1205,Elevate Industries 37,Media,201-1000,Australia,Asia-Pacific,referral,08-Feb-2024,Charles Rodriguez,N
+1206,Pulse Dynamics 289,Non-Profit,201-1000,australia,Asia-Pacific,organic,2022-06-20,Yuki Brown,Y
+1207,Nexus Labs 77,Non-Profit,51-200,Canada,North America,organic,2024-02-04,Arun Brown,No
+1208,Catalyst Consulting 931,Consulting,201-1000,Singapore,Asia-Pacific,organic,2022-05-25,Yuki Brown,N
+1209,Pulse Software 764,Technology,1000+,United Kingdom,Europe,paid,2023-01-16,David Davis,N
+1210,Elevate Corp 641,Legal,1000+,Japan,Asia-Pacific,partner,30-Jan-2023,Sophie Ahmed,Y
+1211,Apex Dynamics 190,Retail,51-200,Japan,Asia-Pacific,organic,2022-01-13,Omar Moore,no
+1212,Stellar Consulting 330,Energy,1000+,germany,Europe,referral,11/29/2022,Michael Chen,N
+1213,Orbit Consulting 354,Retail,51-200,Germany,Europe,organic,2024-12-22,Sarah Wilson,1
+1214,Vanguard Software 751,Healthcare,1000+,US,North America,organic,23-Jun-2025,Sophie Ahmed,N
+1215,Vanguard Innovations 698,Real Estate,201-1000,SG,Asia-Pacific,referral,2022/05/15,James Williams,N
+1216,Summit Corp 560,Legal,201-1000,DE,Europe,partner,2023/04/13,Michael Davis,Y
+1217,Elevate Dynamics 890,Media,1-50,Brazil,South America,referral,2024/07/15,Yuki Brown,N
+1218,Elevate Corp 15,Energy,51-200,India,Asia-Pacific,organic,2025-09-17,James Moore,Y
+1219,Summit Systems 278,Finance,201-1000,FR,Europe,paid,02/10/2023,Sarah Wilson,true
+1220,Helios Innovations 512,Real Estate,1-50,IN,Asia-Pacific,organic,2024-06-10,Michael Davis,Y
+1221,Summit Partners 297,Non-Profit,51-200,CA,North America,partner,2023-04-27,James Williams,N
+1222,Stellar Corp 646,Energy,51-200,australia,Asia-Pacific,referral,20-Jun-2025,Thomas Martin,Y
+1223,Quantum Corp 579,Media,51-200,Brazil,South America,referral,05/10/2022,Michael Davis,0
+1224,Summit Digital 288,Legal,51-200,Japan,Asia-Pacific,referral,11-29-2023,Robert Jackson,N
+1225,Nimbus Partners 243,Education,1-50,DE,Europe,paid,09-27-2024,Michael Davis,Y
+1226,Vertex Analytics 503,Healthcare,1000+,BR,South America,paid,19-May-2025,Yuki Brown,N
+1227,Vanguard Consulting 797,Education,201-1000,U.S.A.,North America,partner,08-28-2024,Yuki Brown,Y
+1228,Orbit Corp 497,Government,51-200,France,Europe,referral,2025-05-23,Omar Moore,Y
+1229,Stratos Digital 517,Legal,1-50,AU,Asia-Pacific,referral,05/24/2023,Yuki Brown,N
+1230,Flux Solutions 30,Real Estate,1000+,India,Asia-Pacific,partner,11-Jun-2022,Linda Jones,Y
+1231,Orbit Dynamics 283,Energy,51-200,DE,Europe,organic,2025-05-27,James Tanaka,Y
+1232,Catalyst Analytics 489,Logistics,1-50,FR,Europe,referral,2022/10/18,Priya Tanaka,N
+1233,Catalyst Partners 857,Hospitality,1-50,United States,North America,partner,2025-08-11,David Davis,Y
+1234,Quantum Systems 105,Healthcare,201-1000,JP,Asia-Pacific,referral,2022-12-01,Michael Chen,Y
+1235,Catalyst Digital 72,Consulting,1000+,Brazil,South America,organic,03/31/2024,Arun Chen,N
+1236,Stellar Technologies 782,Technology,51-200,AU,Asia-Pacific,organic,2023-04-11,Robert Jackson,Y
+1237,Zenith Systems 978,Non-Profit,1000+,Canada,North America,referral,2024/10/22,Arun Brown,N
+1238,Forge Analytics 70,Manufacturing,1000+,US,North America,referral,2023-02-14,Sophie Ahmed,Y
+1239,Vanguard Analytics 921,Hospitality,201-1000,CA,North America,referral,03-24-2024,James Moore,Y
+1240,Stellar Consulting 207,Hospitality,201-1000,SG,Asia-Pacific,organic,09-Jun-2023,Arun Chen,N
+1241,Nova Dynamics 618,Technology,1000+,Japan,Asia-Pacific,paid,04/10/2024,Sophie Ahmed,Y
+1242,Flux Consulting 707,Real Estate,1-50,germany,Europe,paid,04-29-2025,Susan Johnson,N
+1243,Pulse Analytics 25,Government,201-1000,Australia,Asia-Pacific,partner,2022/01/26,Michael Davis,Y
+1244,Beacon Industries 617,Non-Profit,51-200,Canada,North America,organic,2024-10-03,Arun Brown,N
+1245,Helios Solutions 878,Real Estate,1000+,U.S.A.,North America,paid,2023-07-16,James Tanaka,N
+1246,Vanguard Labs 662,Healthcare,201-1000,DE,Europe,organic,16-May-2024,James Tanaka,N
+1247,Nexus Group 146,Healthcare,1-50,AU,Asia-Pacific,paid,2024-07-24,Linda Jones,Y
+1248,Vertex Innovations 241,Retail,1-50,BR,South America,organic,04/02/2025,Omar Moore,N
+1249,Vertex Industries 695,Government,1000+,IN,Asia-Pacific,paid,2022-03-03,Sophie Ahmed,true
+1250,Apex Ventures 65,Non-Profit,201-1000,Australia,Asia-Pacific,referral,07/31/2023,Robert Jackson,Y
+1251,Beacon Digital 2,Logistics,1000+,United States,North America,organic,27-Feb-2025,Thomas Martin,N
+1252,Vertex Partners 377,Consulting,201-1000,Brazil,South America,referral,25-Aug-2024,Michael Chen,N
+1253,Stellar Partners 412,Finance,1000+,FR,Europe,referral,2024/08/15,David Davis,N
+1254,Helios Group 907,Real Estate,51-200,Canada,North America,referral,11-13-2023,Yuki Brown,N
+1255,Helios Corp 554,Government,1000+,Canada,North America,partner,2025-03-20,Linda Anderson,no
+1256,Ignite Solutions 533,Consulting,51-200,United Kingdom,Europe,referral,2025/03/24,Linda Jones,Yes
+1257,Catalyst Innovations 857,Manufacturing,201-1000,FR,Europe,organic,01/28/2025,Arun Chen,N
+1258,Quantum Consulting 711,Real Estate,51-200,Germany,Europe,referral,01/02/2022,James Moore,Y
+1259,Flux Consulting 215,Technology,1-50,Japan,Asia-Pacific,referral,2025-07-31,Omar Moore,no
+1260,Stellar Consulting 795,Media,201-1000,united kingdom,Europe,organic,05-18-2022,James Williams,Y
+1261,Catalyst Industries 384,Consulting,1-50,germany,Europe,partner,2023-09-15,Sarah Wilson,N
+1262,Catalyst Corp 32,Non-Profit,1-50,AU,Asia-Pacific,referral,2024/08/27,Arun Brown,N
+1263,Elevate Solutions 986,Healthcare,51-200,Brazil,South America,partner,2022/06/27,Michael Davis,Y
+1264,Zenith Partners 481,Manufacturing,1000+,US,North America,organic,10/24/2023,Sophie Ahmed,N
+1265,,Retail,1000+,Brazil,South America,referral,05-22-2022,Linda Jones,N
+1266,Stratos Dynamics 179,Retail,201-1000,BR,South America,organic,08/24/2023,David Davis,Y
+1267,Pulse Dynamics 498,Non-Profit,1000+,Germany,Europe,referral,01/12/2022,Robert Jackson,Y
+1268,Catalyst Consulting 700,Non-Profit,1-50,Singapore,Asia-Pacific,paid,10/07/2024,Yuki Brown,N
+1269,Helios Partners 25,Technology,201-1000,Brazil,South America,partner,2024/10/13,James Tanaka,N
+1270,Orbit Industries 571,Hospitality,201-1000,IN,Asia-Pacific,partner,05-18-2022,Robert Jackson,1
+1271,Quantum Technologies 25,Real Estate,201-1000,canada,North America,referral,2022/06/26,David Davis,Y
+1272,Stellar Partners 424,Finance,201-1000,United Kingdom,Europe,partner,2025-02-20,Thomas Martin,no
+1273,Apex Analytics 808,Energy,1-50,USA,North America,paid,19-Aug-2022,Robert Jackson,N
+1274,Summit Digital 219,Manufacturing,1-50,Germany,Europe,partner,09-21-2025,Charles Rodriguez,N
+1275,Vertex Systems 684,Real Estate,1-50,canada,North America,paid,11/10/2024,Michael Chen,N
+1276,Vanguard Labs 848,Technology,201-1000,AU,Asia-Pacific,organic,04/12/2024,Thomas Martin,true
+1277,Elevate Dynamics 621,Consulting,51-200,Germany,Europe,referral,2022/09/18,David Davis,N
+1278,Forge Partners 32,Non-Profit,1-50,IN,Asia-Pacific,referral,2022/05/16,Susan Johnson,Y
+1279,Beacon Ventures 827,Hospitality,201-1000,FR,Europe,partner,2023/09/14,Sophie Ahmed,N
+1280,Ignite Software 699,Real Estate,201-1000,Singapore,Asia-Pacific,partner,12-May-2025,Charles Rodriguez,Y
+1281,Stratos Partners 647,Government,201-1000,United Kingdom,Europe,referral,31-May-2023,Robert Jackson,N
+1282,Nimbus Labs 357,Retail,201-1000,australia,Asia-Pacific,partner,01/28/2023,James Mueller,N
+1283,Quantum Digital 789,Legal,201-1000,Australia,Asia-Pacific,partner,01-25-2023,Linda Anderson,N
+1284,,Finance,1000+,AU,Asia-Pacific,paid,2025/07/31,Sarah Wilson,N
+1285,Orbit Software 582,Energy,1-50,BR,South America,organic,2025/01/05,Charles Rodriguez,N
+1286,Elevate Solutions 69,Hospitality,201-1000,germany,Europe,partner,06/06/2023,Susan Johnson,N
+1287,Apex Industries 644,Media,201-1000,Brazil,South America,paid,05/04/2025,Linda Jones,true
+1288,Vanguard Digital 821,Healthcare,201-1000,United States,North America,organic,2022/03/26,Omar Moore,N
+1289,Apex Software 677,Energy,201-1000,SG,Asia-Pacific,partner,05/03/2022,Robert Jackson,0
+1290,Zenith Partners 619,Government,51-200,Singapore,Asia-Pacific,organic,07-01-2023,Sophie Ahmed,N
+1291,Catalyst Digital 226,Finance,1-50,canada,North America,referral,2024/02/24,Linda Jones,Y
+1292,Nexus Labs 866,Hospitality,51-200,India,Asia-Pacific,referral,2023-03-29,Arun Brown,Y
+1293,Zenith Ventures 316,Real Estate,51-200,India,Asia-Pacific,organic,2025-04-02,Michael Chen,N
+1294,Beacon Dynamics 154,Logistics,201-1000,India,Asia-Pacific,partner,2025/06/13,Linda Anderson,Y
+1295,Catalyst Corp 22,Energy,51-200,BR,South America,paid,2024-11-05,James Mueller,N
+1296,Elevate Systems 807,Media,201-1000,India,Asia-Pacific,referral,03/01/2023,James Moore,N
+1297,Helios Software 481,Real Estate,1-50,united states,North America,referral,27-Feb-2025,James Moore,Y
+1298,Nova Dynamics 447,Education,51-200,BR,South America,referral,18-May-2024,Sarah Wilson,1
+1299,Stellar Systems 225,Government,1-50,SG,Asia-Pacific,referral,2025-08-13,Robert Jackson,Y
+1300,Vertex Innovations 938,Retail,1-50,canada,North America,referral,2022/07/09,Yuki Brown,Y
+1301,Flux Systems 880,Manufacturing,1000+,IN,Asia-Pacific,paid,07-25-2023,David Davis,Y
+1302,Zenith Consulting 95,Retail,1000+,SG,Asia-Pacific,paid,04/17/2022,Arun Brown,Y
+1303,Pulse Partners 730,Government,51-200,UK,Europe,partner,05-18-2022,Thomas Martin,N
+1304,Stellar Systems 547,Government,51-200,CA,North America,organic,05-19-2023,Linda Anderson,N
+1305,Apex Industries 139,Manufacturing,201-1000,canada,North America,referral,2022/04/10,Robert Jackson,Y
+1306,Beacon Systems 728,Healthcare,1000+,United Kingdom,Europe,organic,24-May-2023,Arun Chen,Y
+1307,Stratos Digital 502,Hospitality,1000+,IN,Asia-Pacific,partner,01-Feb-2025,Linda Anderson,N
+1308,Forge Systems 516,Healthcare,201-1000,BR,South America,organic,09-16-2022,Michael Chen,Y
+1309,Elevate Industries 307,Non-Profit,1-50,France,Europe,partner,02/18/2022,Arun Chen,Y
+1310,Nimbus Digital 777,Manufacturing,51-200,Canada,North America,paid,2025/08/22,Susan Johnson,N
+1311,Summit Industries 478,Finance,1000+,Brazil,South America,paid,01/31/2024,Linda Jones,N
+1312,Flux Corp 55,Healthcare,201-1000,FR,Europe,partner,2024-08-10,Sarah Wilson,N
+1313,Vertex Corp 340,Technology,1-50,Germany,Europe,referral,2023-09-28,Arun Brown,Y
+1314,Stratos Labs 646,Education,1000+,JP,Asia-Pacific,referral,31-Jan-2024,Thomas Martin,true
+1315,Apex Digital 530,Media,1-50,Singapore,Asia-Pacific,paid,2022/09/10,Michael Davis,N
+1316,Beacon Innovations 740,Healthcare,1000+,AU,Asia-Pacific,partner,10/22/2022,James Tanaka,no
+1317,Apex Group 13,Media,51-200,CA,North America,referral,02/03/2023,Arun Brown,Y
+1318,Vertex Systems 880,Manufacturing,1000+,United States,North America,partner,2023-06-28,David Davis,Y
+1319,Beacon Digital 921,Government,1000+,FR,Europe,referral,17-Jun-2025,Linda Anderson,N
+1320,Quantum Ventures 699,Manufacturing,1-50,SG,Asia-Pacific,partner,01-Dec-2024,Michael Davis,Y
+1321,Stratos Group 511,Non-Profit,201-1000,India,Asia-Pacific,paid,04-16-2022,Robert Jackson,N
+1322,Zenith Software 980,Legal,201-1000,DE,Europe,partner,2024/08/08,Sophie Ahmed,Y
+1323,Catalyst Group 84,Non-Profit,201-1000,Germany,Europe,partner,2022/11/29,Michael Chen,Y
+1324,Quantum Industries 485,Retail,51-200,united states,North America,partner,2023/11/15,Sophie Ahmed,Y
+1325,Pulse Industries 441,Education,51-200,germany,Europe,referral,08-10-2023,James Moore,Y
+1326,Vertex Technologies 85,Real Estate,1-50,United Kingdom,Europe,organic,2022-01-18,Sarah Wilson,N
+1327,Stellar Solutions 137,Consulting,1-50,Australia,Asia-Pacific,paid,22-Jan-2024,Michael Davis,N
+1328,Nexus Solutions 597,Non-Profit,51-200,united kingdom,Europe,partner,2022-03-22,Susan Johnson,Y
+1329,Nimbus Group 631,Finance,1-50,JP,Asia-Pacific,referral,05/27/2022,Linda Anderson,N
+1330,Nexus Dynamics 622,Consulting,51-200,germany,Europe,partner,2023/08/05,Thomas Martin,0
+1331,Stratos Group 301,Non-Profit,201-1000,IN,Asia-Pacific,paid,05/06/2024,Arun Chen,Y
+1332,Quantum Innovations 159,Finance,1-50,united states,North America,paid,06/12/2022,David Davis,N
+1333,Flux Digital 341,Media,1000+,France,Europe,referral,04/01/2025,Sarah Wilson,N
+1334,Apex Corp 161,Technology,201-1000,IN,Asia-Pacific,paid,2023/01/28,Arun Chen,Y
+1335,Elevate Digital 727,Legal,1000+,FR,Europe,paid,2024-07-09,Priya Tanaka,0
+1336,Orbit Industries 96,Manufacturing,1000+,BR,South America,paid,11/17/2023,Michael Chen,yes
+1337,Apex Digital 10,Education,1-50,France,Europe,partner,12-04-2023,Omar Moore,N
+1338,Pulse Systems 341,Media,1-50,JP,Asia-Pacific,referral,07-15-2023,Arun Chen,Y
+1339,Apex Group 341,Real Estate,1000+,united states,North America,paid,14-Apr-2024,Sophie Ahmed,Y
+1340,Zenith Dynamics 272,Consulting,201-1000,AU,Asia-Pacific,referral,2025-08-28,Linda Anderson,Y
+1341,Zenith Solutions 228,Technology,1-50,BR,South America,partner,2023-05-05,Linda Anderson,N
+1342,Flux Digital 615,Logistics,201-1000,US,North America,paid,2024/10/14,Charles Rodriguez,Y
+1343,Catalyst Systems 559,Education,51-200,DE,Europe,organic,2022-01-30,Yuki Brown,Y
+1344,Orbit Systems 674,Manufacturing,51-200,AU,Asia-Pacific,organic,11-Jun-2023,James Williams,N
+1345,Ignite Innovations 562,Government,1-50,United Kingdom,Europe,organic,06-Jun-2022,Priya Tanaka,Y
+1346,Nexus Digital 463,Logistics,1-50,FR,Europe,referral,2022-09-06,Thomas Martin,N
+1347,Vertex Corp 181,Legal,1-50,India,Asia-Pacific,organic,01/23/2023,Yuki Brown,N
+1348,Catalyst Systems 535,Technology,201-1000,JP,Asia-Pacific,partner,2023-02-02,Linda Anderson,N
+1349,Elevate Labs 172,Legal,51-200,germany,Europe,partner,06-25-2025,Arun Chen,Y
+1350,Elevate Corp 658,Real Estate,51-200,France,Europe,referral,2023-02-12,Thomas Martin,Y
+1351,Catalyst Industries 768,Finance,1-50,U.S.A.,North America,organic,10-08-2023,Yuki Brown,Y
+1352,Summit Dynamics 567,Non-Profit,201-1000,Japan,Asia-Pacific,referral,11-29-2023,Michael Chen,Y
+1353,Flux Solutions 880,Legal,201-1000,united kingdom,Europe,paid,23-Apr-2022,Michael Davis,Y
+1354,Forge Technologies 999,Legal,201-1000,JP,Asia-Pacific,organic,2024-01-16,James Williams,1
+1355,Catalyst Systems 729,Education,1-50,UK,Europe,referral,09-Oct-2022,Michael Davis,Y
+1356,Nexus Systems 591,Technology,201-1000,DE,Europe,organic,04-07-2025,Sophie Ahmed,Y
+1357,Ignite Group 929,Non-Profit,1-50,JP,Asia-Pacific,partner,2025-09-09,Michael Davis,N
+1358,Orbit Innovations 54,Technology,1-50,CA,North America,organic,2022/05/21,Thomas Martin,No
+1359,Elevate Analytics 110,Healthcare,201-1000,Australia,Asia-Pacific,paid,11-22-2022,Linda Jones,Y
+1360,Nova Dynamics 224,Media,1-50,canada,North America,referral,12-13-2022,Omar Moore,Y
+1361,Summit Analytics 244,Manufacturing,201-1000,USA,North America,paid,2024/05/30,Sophie Ahmed,N
+1362,Forge Software 593,Legal,1000+,AU,Asia-Pacific,partner,2023-07-06,Linda Jones,Y
+1363,Elevate Partners 196,Consulting,51-200,Australia,Asia-Pacific,organic,09/20/2022,Robert Jackson,Y
+1364,Apex Innovations 74,Healthcare,1-50,India,Asia-Pacific,organic,2022-09-30,Michael Chen,N
+1365,Nexus Corp 212,Government,201-1000,BR,South America,partner,2022/10/23,Linda Anderson,N
+1366,Orbit Dynamics 680,Education,51-200,germany,Europe,paid,2025/07/24,Sarah Wilson,true
+1367,Orbit Industries 51,Technology,1-50,australia,Asia-Pacific,partner,01-07-2022,James Williams,Y
+1368,Pulse Industries 114,Media,1-50,AU,Asia-Pacific,organic,10-16-2022,Arun Chen,Y
+1369,Vanguard Group 660,Government,1000+,DE,Europe,referral,07/09/2024,Sarah Wilson,N
+1370,Zenith Dynamics 927,Media,51-200,canada,North America,paid,2022-02-05,Susan Johnson,N
+1371,Vanguard Analytics 261,Legal,1000+,UK,Europe,organic,07-11-2023,Linda Jones,N
+1372,Zenith Software 290,Consulting,1000+,australia,Asia-Pacific,organic,05/16/2023,Arun Brown,Y
+1373,Catalyst Digital 707,Real Estate,51-200,Japan,Asia-Pacific,organic,09-May-2024,Michael Chen,Y
+1374,Orbit Innovations 824,Consulting,201-1000,Australia,Asia-Pacific,partner,2025/04/15,James Mueller,N
+1375,Pulse Software 251,Real Estate,51-200,FR,Europe,partner,04/04/2022,Michael Chen,N
+1376,Ignite Solutions 707,Manufacturing,1000+,UK,Europe,paid,2022/07/31,Michael Chen,Y
+1377,Ignite Innovations 75,Manufacturing,51-200,United Kingdom,Europe,referral,2025-01-28,James Tanaka,Y
+1378,Orbit Solutions 941,Consulting,1000+,Singapore,Asia-Pacific,organic,17-Apr-2024,Robert Jackson,1
+1379,Helios Technologies 96,Technology,1000+,australia,Asia-Pacific,referral,05-10-2025,Priya Tanaka,Y
+1380,Nova Software 863,Healthcare,1-50,Brazil,South America,referral,2023-03-20,Michael Chen,N
+1381,Vanguard Software 366,Legal,1-50,Brazil,South America,referral,02/13/2025,Priya Tanaka,Y
+1382,Stellar Labs 756,Manufacturing,51-200,USA,North America,partner,2023-01-03,Arun Chen,Y
+1383,Zenith Partners 138,Education,201-1000,united states,North America,paid,2022-08-30,Priya Tanaka,Y
+1384,Summit Industries 8,Consulting,1000+,Canada,North America,organic,02/07/2024,Omar Moore,yes
+1385,Vertex Systems 426,Retail,201-1000,united kingdom,Europe,paid,06-09-2024,Charles Rodriguez,Y
+1386,Nimbus Labs 977,Retail,201-1000,BR,South America,paid,2024-05-20,Omar Moore,N
+1387,Elevate Group 385,Non-Profit,51-200,Japan,Asia-Pacific,paid,08-10-2024,Linda Jones,Y
+1388,Ignite Dynamics 405,Logistics,51-200,Singapore,Asia-Pacific,paid,2022-10-04,Linda Anderson,yes
+1389,Helios Analytics 906,Education,1-50,GB,Europe,referral,10-May-2023,Charles Rodriguez,Y
+1390,Quantum Consulting 183,Finance,51-200,US,North America,paid,05-25-2024,Arun Chen,Y
+1391,Vertex Industries 739,Real Estate,51-200,JP,Asia-Pacific,referral,2022-06-14,James Tanaka,N
+1392,Nova Digital 28,Non-Profit,1-50,US,North America,paid,2022/03/04,Linda Jones,yes
+1393,Beacon Digital 916,Legal,51-200,JP,Asia-Pacific,referral,2025/08/19,Linda Jones,Y
+1394,Stratos Ventures 297,Energy,1000+,AU,Asia-Pacific,partner,06-19-2023,David Davis,Y
+1395,Quantum Systems 845,Education,1000+,AU,Asia-Pacific,organic,10-23-2024,Michael Chen,Y
+1396,Beacon Solutions 46,Hospitality,51-200,SG,Asia-Pacific,referral,11-Apr-2022,David Davis,1
+1397,Vanguard Innovations 529,Energy,1-50,Australia,Asia-Pacific,partner,12/21/2024,Susan Johnson,true
+1398,Stratos Labs 330,Government,51-200,FR,Europe,organic,09-16-2025,James Tanaka,1
+1399,Summit Solutions 417,Energy,201-1000,Germany,Europe,paid,05/08/2023,David Davis,N
+1400,Apex Group 822,Government,1-50,U.S.A.,North America,organic,08-Sep-2022,Susan Johnson,N
+1401,Stellar Analytics 972,Logistics,51-200,BR,South America,paid,10-17-2024,David Davis,Y
+1402,Elevate Group 249,Energy,201-1000,canada,North America,paid,05-15-2022,Sophie Ahmed,true
+1403,Flux Industries 305,Non-Profit,51-200,CA,North America,partner,02/12/2022,Linda Jones,N
+1404,Flux Digital 258,Retail,1000+,United Kingdom,Europe,referral,04-Aug-2024,James Williams,N
+1405,Apex Systems 413,Retail,51-200,germany,Europe,organic,2024-01-26,Sarah Wilson,Y
+1406,Elevate Group 422,Non-Profit,51-200,australia,Asia-Pacific,organic,19-Aug-2023,Robert Jackson,Y
+1407,Ignite Innovations 513,Education,51-200,JP,Asia-Pacific,organic,01-Jan-2023,James Tanaka,N
+1408,Flux Ventures 655,Manufacturing,201-1000,United States,North America,referral,08-20-2023,Michael Davis,Y
+1409,Nexus Industries 746,Healthcare,1000+,germany,Europe,partner,2022-10-17,Charles Rodriguez,Y
+1410,Apex Partners 204,Real Estate,51-200,Germany,Europe,partner,30-Apr-2025,Robert Jackson,no
+1411,Apex Software 417,Non-Profit,201-1000,united states,North America,organic,2022/06/07,Linda Anderson,N
+1412,Forge Digital 566,Manufacturing,1-50,Japan,Asia-Pacific,organic,18-Jan-2022,Michael Chen,yes
+1413,Nexus Analytics 131,Legal,1000+,SG,Asia-Pacific,partner,2024/12/08,Susan Johnson,Y
+1414,Flux Consulting 611,Media,201-1000,GB,Europe,paid,2024-04-30,David Davis,Y
+1415,Flux Partners 73,Healthcare,201-1000,United Kingdom,Europe,paid,2024/12/13,Linda Anderson,N
+1416,Summit Corp 859,Manufacturing,51-200,United States,North America,paid,04-16-2025,James Mueller,true
+1417,Stratos Systems 76,Media,1-50,Germany,Europe,referral,2024-07-13,James Williams,N
+1418,Quantum Analytics 549,Non-Profit,201-1000,India,Asia-Pacific,partner,2022/03/29,Michael Chen,Y
+1419,Forge Digital 762,Legal,51-200,united states,North America,organic,2024-11-29,Omar Moore,Y
+1420,Apex Analytics 907,Government,1-50,DE,Europe,paid,2024/01/10,David Davis,Y
+1421,Catalyst Innovations 218,Hospitality,201-1000,GB,Europe,organic,2022/12/26,Linda Anderson,N
+1422,Ignite Systems 447,Media,51-200,Singapore,Asia-Pacific,referral,11-Aug-2022,James Tanaka,N
+1423,Nexus Labs 312,Non-Profit,51-200,JP,Asia-Pacific,referral,01/11/2022,Sarah Wilson,N
+1424,Ignite Innovations 916,Manufacturing,201-1000,Japan,Asia-Pacific,organic,2022-10-07,Thomas Martin,Y
+1425,Beacon Innovations 711,Energy,1-50,USA,North America,referral,05-25-2025,Priya Tanaka,N
+1426,Nova Innovations 464,Non-Profit,1000+,australia,Asia-Pacific,partner,08-Apr-2025,Charles Rodriguez,N
+1427,,Finance,201-1000,BR,South America,paid,07/03/2022,Michael Davis,N
+1428,Nimbus Technologies 302,Finance,51-200,US,North America,paid,10/21/2024,James Williams,Y
+1429,Quantum Digital 993,Media,1-50,IN,Asia-Pacific,paid,2024/04/07,Linda Jones,Y
+1430,Beacon Digital 428,Retail,51-200,U.S.A.,North America,paid,07-Aug-2025,James Mueller,Y
+1431,Vanguard Ventures 250,Government,201-1000,Japan,Asia-Pacific,referral,2022/10/11,Linda Jones,Y
+1432,Quantum Software 712,Logistics,51-200,SG,Asia-Pacific,referral,06-03-2025,Yuki Brown,Y
+1433,Forge Ventures 273,Education,1000+,UK,Europe,paid,2025-02-01,Charles Rodriguez,N
+1434,Summit Digital 437,Energy,201-1000,UK,Europe,referral,10/26/2022,Susan Johnson,N
+1435,Elevate Analytics 153,Government,201-1000,germany,Europe,organic,2025-04-18,Priya Tanaka,N
+1436,Summit Digital 230,Energy,1000+,united states,North America,organic,2022-01-14,Linda Jones,N
+1437,Elevate Analytics 207,Government,1-50,UK,Europe,organic,2022/06/16,Linda Anderson,N
+1438,Apex Partners 664,Government,201-1000,Australia,Asia-Pacific,partner,2022/06/14,Priya Tanaka,Y
+1439,Stratos Labs 893,Technology,201-1000,Singapore,Asia-Pacific,referral,26-Jun-2024,Arun Brown,Y
+1440,Summit Dynamics 454,Legal,1000+,Singapore,Asia-Pacific,partner,2023/07/31,Yuki Brown,Y
+1441,Helios Systems 353,Legal,1000+,united states,North America,organic,02/11/2025,Sophie Ahmed,N
+1442,Helios Technologies 788,Healthcare,51-200,Australia,Asia-Pacific,paid,2022/02/16,Robert Jackson,N
+1443,Vertex Software 136,Manufacturing,201-1000,FR,Europe,organic,2024/01/03,Charles Rodriguez,Y
+1444,Vertex Dynamics 11,Energy,51-200,Germany,Europe,partner,2022-12-03,Robert Jackson,Y
+1445,Forge Labs 845,Logistics,201-1000,JP,Asia-Pacific,organic,10/13/2023,Omar Moore,false
+1446,Beacon Technologies 913,Legal,51-200,JP,Asia-Pacific,organic,08/31/2023,James Moore,Y
+1447,Flux Analytics 45,Manufacturing,1000+,United Kingdom,Europe,referral,2024-06-02,James Moore,Y
+1448,Summit Analytics 111,Consulting,51-200,Canada,North America,organic,2024-08-06,Priya Tanaka,N
+1449,Vertex Software 504,Consulting,51-200,SG,Asia-Pacific,partner,01/03/2025,Sophie Ahmed,Y
+1450,Ignite Corp 753,Government,51-200,Brazil,South America,organic,05-27-2025,Priya Tanaka,N
+1451,Ignite Ventures 327,Legal,1-50,IN,Asia-Pacific,partner,2022/03/01,Linda Jones,N
+1452,Beacon Dynamics 717,Manufacturing,1000+,U.S.A.,North America,paid,2024-04-04,Thomas Martin,N
+1453,Nova Industries 554,Finance,51-200,canada,North America,referral,22-Jun-2022,Priya Tanaka,Y
+1454,Vertex Industries 696,Hospitality,1-50,FR,Europe,partner,01-31-2022,Yuki Brown,N
+1455,Vertex Analytics 667,Education,1000+,CA,North America,organic,05-29-2022,Sophie Ahmed,Y
+1456,Ignite Digital 699,Non-Profit,1-50,Australia,Asia-Pacific,paid,2023-04-27,Michael Davis,N
+1457,Apex Partners 709,Legal,201-1000,germany,Europe,referral,09/18/2025,James Williams,N
+1458,Helios Corp 867,Consulting,1-50,SG,Asia-Pacific,referral,2024/11/14,Charles Rodriguez,Y
+1459,Stratos Dynamics 986,Hospitality,51-200,United States,North America,partner,2025/09/03,James Moore,N
+1460,Summit Labs 553,Retail,1000+,Canada,North America,organic,2022/02/23,Sarah Wilson,N
+1461,Helios Analytics 505,Energy,1000+,IN,Asia-Pacific,paid,01/14/2025,Michael Davis,No
+1462,Stratos Partners 201,Consulting,1-50,BR,South America,paid,03/20/2022,Thomas Martin,N
+1463,Apex Innovations 276,Non-Profit,1000+,united states,North America,referral,2025/09/20,Sophie Ahmed,N
+1464,Apex Solutions 690,Non-Profit,201-1000,GB,Europe,referral,10-Dec-2022,Priya Tanaka,Y
+1465,Stratos Industries 472,Government,201-1000,Singapore,Asia-Pacific,paid,03/18/2024,Charles Rodriguez,N
+1466,Nimbus Consulting 276,Logistics,1-50,IN,Asia-Pacific,partner,04/01/2023,Susan Johnson,Y
+1467,Vertex Ventures 697,Legal,1000+,France,Europe,referral,2023/01/18,Priya Tanaka,N
+1468,Nimbus Systems 414,Education,201-1000,Singapore,Asia-Pacific,paid,03-30-2023,Linda Jones,Y
+1469,Ignite Innovations 401,Logistics,201-1000,FR,Europe,referral,2024-01-20,James Mueller,false
+1470,Catalyst Digital 500,Retail,1-50,australia,Asia-Pacific,organic,2023-06-20,Sarah Wilson,Y
+1471,Helios Dynamics 169,Energy,51-200,USA,North America,organic,2023-02-12,Thomas Martin,N
+1472,Pulse Industries 315,Education,201-1000,United Kingdom,Europe,organic,10/29/2023,Priya Tanaka,Y
+1473,Vanguard Partners 908,Manufacturing,1000+,DE,Europe,referral,2024-05-09,Arun Brown,Y
+1474,Helios Group 976,Non-Profit,1-50,Canada,North America,referral,08/10/2025,Arun Chen,N
+1475,Elevate Partners 542,Energy,51-200,united kingdom,Europe,organic,26-Apr-2025,Thomas Martin,Y
+1476,Quantum Labs 865,Media,51-200,Japan,Asia-Pacific,referral,12-14-2024,Michael Chen,N
+1477,Forge Solutions 979,Logistics,1000+,FR,Europe,referral,04/10/2025,Yuki Brown,N
+1478,Summit Innovations 346,Logistics,201-1000,JP,Asia-Pacific,referral,22-Nov-2023,James Mueller,N
+1479,Flux Systems 515,Healthcare,1000+,CA,North America,organic,09/16/2023,Arun Brown,Y
+1480,Apex Solutions 160,Healthcare,51-200,Australia,Asia-Pacific,organic,02-Feb-2024,Michael Davis,Y
+1481,Vertex Labs 6,Consulting,1000+,France,Europe,organic,28-Nov-2023,James Williams,Y
+1482,Flux Consulting 533,Finance,1000+,Japan,Asia-Pacific,partner,2025/06/17,Arun Chen,N
+1483,Flux Ventures 424,Legal,51-200,CA,North America,referral,01/14/2022,David Davis,Yes
+1484,,Legal,51-200,Canada,North America,organic,01/17/2025,Omar Moore,Y
+1485,Helios Systems 900,Technology,1000+,US,North America,organic,07-07-2025,Robert Jackson,Y
+1486,Forge Group 502,Education,1-50,canada,North America,paid,2023/02/22,James Moore,N
+1487,Stratos Innovations 90,Real Estate,1000+,BR,South America,referral,29-Dec-2022,Charles Rodriguez,N
+1488,Orbit Dynamics 139,Education,51-200,India,Asia-Pacific,partner,2022/11/13,Charles Rodriguez,Y
+1489,Zenith Innovations 105,Legal,1000+,India,Asia-Pacific,partner,04/19/2022,David Davis,Y
+1490,Beacon Ventures 221,Hospitality,51-200,Germany,Europe,referral,06/26/2024,Priya Tanaka,Y
+1491,Quantum Partners 979,Hospitality,51-200,Singapore,Asia-Pacific,partner,13-Jun-2025,Sophie Ahmed,N
+1492,Vertex Ventures 311,Hospitality,51-200,DE,Europe,referral,02/06/2025,Sophie Ahmed,Y
+1493,Ignite Labs 328,Real Estate,1000+,JP,Asia-Pacific,paid,09/23/2023,James Moore,Y
+1494,Flux Labs 965,Energy,1000+,U.S.A.,North America,organic,03/15/2025,Arun Chen,N
+1495,Helios Consulting 869,Finance,1000+,Singapore,Asia-Pacific,paid,2024-06-17,Michael Davis,No
+1496,Zenith Ventures 923,Legal,1-50,Singapore,Asia-Pacific,partner,17-Aug-2024,Yuki Brown,N
+1497,Nimbus Analytics 969,Non-Profit,1-50,Japan,Asia-Pacific,referral,2023/05/13,James Tanaka,Y
+1498,Ignite Labs 178,Energy,1000+,U.S.A.,North America,partner,02-Apr-2022,Omar Moore,N
+1499,Vanguard Ventures 527,Hospitality,1-50,France,Europe,paid,2023-01-14,Susan Johnson,N
+1500,Flux Labs 945,Government,201-1000,India,Asia-Pacific,partner,2025-08-14,Thomas Martin,No
+1501,Stellar Labs 893,Consulting,51-200,SG,Asia-Pacific,organic,2022-07-11,James Williams,yes
+1502,Pulse Dynamics 284,Hospitality,1-50,JP,Asia-Pacific,partner,2023-01-30,Omar Moore,no
+1503,Nimbus Dynamics 96,Consulting,51-200,Singapore,Asia-Pacific,organic,08/24/2022,Priya Tanaka,Y
+1504,Nexus Consulting 704,Technology,1-50,Brazil,South America,organic,2024-04-19,James Moore,Y
+1505,Elevate Technologies 133,Real Estate,51-200,canada,North America,referral,03-27-2022,Arun Chen,Y
+1506,Zenith Labs 948,Manufacturing,1000+,SG,Asia-Pacific,referral,03/15/2023,Charles Rodriguez,No
+1507,Nova Ventures 184,Non-Profit,1-50,Brazil,South America,referral,08/25/2025,Linda Jones,N
+1508,Vertex Group 24,Hospitality,201-1000,Japan,Asia-Pacific,referral,03/19/2024,Yuki Brown,Y
+1509,Helios Group 385,Legal,201-1000,CA,North America,partner,2022-02-05,Arun Brown,Y
+1510,Pulse Innovations 683,Government,1-50,Singapore,Asia-Pacific,paid,2025/05/06,Linda Jones,N
+1511,Quantum Group 196,Media,201-1000,India,Asia-Pacific,paid,2024-01-06,Susan Johnson,N
+1512,Vertex Software 761,Hospitality,1-50,CA,North America,organic,22-Feb-2022,James Mueller,false
+1513,Stellar Dynamics 237,Energy,1-50,JP,Asia-Pacific,organic,2024/10/10,Michael Chen,Y
+1514,,Logistics,1-50,DE,Europe,referral,24-Sep-2022,Priya Tanaka,1
+1515,Nova Labs 719,Technology,201-1000,AU,Asia-Pacific,partner,03-08-2022,Arun Chen,Y
+1516,,Energy,201-1000,AU,Asia-Pacific,referral,2025/06/29,Priya Tanaka,false
+1517,Zenith Group 492,Real Estate,1000+,UK,Europe,organic,2022-10-08,Charles Rodriguez,N
+1518,Apex Digital 122,Non-Profit,1000+,Japan,Asia-Pacific,organic,2022/09/09,James Moore,Y
+1519,Orbit Digital 966,Logistics,1-50,UK,Europe,referral,2024/09/28,Linda Jones,Y
+1520,Quantum Partners 32,Healthcare,51-200,UK,Europe,partner,2023/12/03,Linda Jones,N
+1521,Zenith Solutions 474,Government,201-1000,DE,Europe,referral,2023/11/12,James Williams,Y
+1522,Pulse Digital 411,Technology,1000+,Canada,North America,referral,08-22-2022,Linda Anderson,Y
+1523,Vanguard Dynamics 437,Manufacturing,1-50,India,Asia-Pacific,referral,05/05/2025,Omar Moore,Y
+1524,Helios Industries 161,Media,51-200,Brazil,South America,referral,06-05-2023,David Davis,N
+1525,Stratos Labs 851,Retail,1000+,CA,North America,partner,2024-08-30,James Williams,Y
+1526,Catalyst Ventures 604,Real Estate,1000+,united states,North America,organic,19-May-2022,James Tanaka,Y
+1527,Nova Innovations 671,Government,201-1000,australia,Asia-Pacific,organic,14-Apr-2025,Robert Jackson,Y
+1528,Vertex Corp 804,Non-Profit,201-1000,canada,North America,partner,2022/03/28,James Mueller,Y
+1529,Stratos Dynamics 655,Energy,1000+,germany,Europe,organic,2025/08/20,James Moore,false
+1530,Helios Analytics 768,Healthcare,51-200,Australia,Asia-Pacific,partner,29-Jul-2022,James Tanaka,N
+1531,Summit Dynamics 585,Non-Profit,201-1000,AU,Asia-Pacific,paid,05/24/2023,Linda Anderson,Y
+1532,Nimbus Partners 297,Non-Profit,1-50,Singapore,Asia-Pacific,referral,03/10/2025,Michael Chen,N
+1533,Quantum Solutions 220,Healthcare,1-50,BR,South America,organic,04/15/2022,Arun Brown,Y
+1534,Orbit Technologies 871,Hospitality,51-200,Japan,Asia-Pacific,organic,2022/06/21,Arun Brown,N
+1535,Ignite Analytics 641,Government,1-50,SG,Asia-Pacific,referral,17-Aug-2023,Charles Rodriguez,Y
+1536,Quantum Systems 777,Logistics,51-200,united kingdom,Europe,referral,2024/07/13,Arun Brown,N
+1537,Ignite Systems 64,Real Estate,201-1000,united states,North America,organic,06/16/2023,Omar Moore,N
+1538,Elevate Partners 88,Hospitality,51-200,australia,Asia-Pacific,partner,05-04-2025,Susan Johnson,Y
+1539,Stellar Partners 687,Real Estate,1000+,IN,Asia-Pacific,organic,20-Feb-2025,James Tanaka,Y
+1540,Nimbus Corp 235,Non-Profit,1000+,UK,Europe,referral,2023/06/14,James Tanaka,Y
+1541,Summit Software 566,Education,1000+,DE,Europe,organic,2022/12/29,Sophie Ahmed,Y
+1542,Elevate Systems 300,Government,1000+,united states,North America,paid,23-May-2025,James Mueller,N
+1543,Forge Solutions 273,Real Estate,1-50,Brazil,South America,referral,2024-11-13,James Moore,Y
+1544,Quantum Systems 956,Retail,51-200,France,Europe,paid,02-Apr-2025,Charles Rodriguez,N
+1545,Elevate Analytics 714,Finance,201-1000,JP,Asia-Pacific,partner,04/12/2023,Linda Anderson,N
+1546,Vertex Industries 23,Manufacturing,1-50,Singapore,Asia-Pacific,referral,05-10-2022,Priya Tanaka,N
+1547,Pulse Innovations 418,Hospitality,1-50,GB,Europe,paid,04/22/2023,James Tanaka,N
+1548,Orbit Corp 570,Hospitality,51-200,JP,Asia-Pacific,referral,13-Jul-2022,Sarah Wilson,Y
+1549,Quantum Group 128,Government,51-200,SG,Asia-Pacific,referral,2022-07-19,Sophie Ahmed,Y
+1550,Forge Industries 866,Hospitality,1-50,United Kingdom,Europe,referral,08-20-2024,Charles Rodriguez,N
+1551,Nimbus Digital 560,Government,1000+,united states,North America,paid,2025-01-24,Susan Johnson,Y
+1552,Vertex Dynamics 278,Non-Profit,51-200,IN,Asia-Pacific,paid,2024/11/24,James Moore,Y
+1553,Orbit Analytics 433,Legal,1000+,SG,Asia-Pacific,referral,09-20-2025,James Moore,Y
+1554,Nimbus Group 706,Education,1-50,UK,Europe,organic,11-02-2023,Yuki Brown,N
+1555,Helios Ventures 185,Legal,1000+,US,North America,referral,2024-09-05,David Davis,Y
+1556,Summit Technologies 433,Manufacturing,1000+,USA,North America,paid,2023/04/11,Yuki Brown,N
+1557,Nexus Analytics 594,Media,1000+,Australia,Asia-Pacific,organic,2023-11-03,James Mueller,Y
+1558,Nimbus Group 827,Finance,1-50,CA,North America,partner,2023/09/04,Susan Johnson,N
+1559,Ignite Partners 446,Non-Profit,1000+,IN,Asia-Pacific,paid,2024-10-15,James Williams,N
+1560,Catalyst Industries 886,Logistics,1-50,FR,Europe,referral,30-Sep-2024,Robert Jackson,N
+1561,Pulse Digital 519,Government,201-1000,SG,Asia-Pacific,partner,2022/03/01,Yuki Brown,Y
+1562,Stellar Digital 429,Consulting,201-1000,FR,Europe,paid,2023-08-16,Arun Brown,true
+1563,Forge Systems 877,Finance,1000+,CA,North America,partner,2022/08/31,James Williams,N
+1564,Elevate Systems 783,Healthcare,1-50,France,Europe,referral,2025-06-09,David Davis,Y
+1565,Vanguard Software 996,Technology,1-50,Japan,Asia-Pacific,organic,2023/05/30,Sophie Ahmed,N
+1566,Stratos Industries 493,Finance,201-1000,BR,South America,organic,18-Feb-2025,Arun Chen,N
+1567,Quantum Innovations 419,Healthcare,51-200,australia,Asia-Pacific,organic,12/03/2022,James Tanaka,N
+1568,Pulse Analytics 258,Education,1000+,germany,Europe,organic,2024/09/07,Charles Rodriguez,N
+1569,Vanguard Consulting 651,Retail,51-200,Canada,North America,paid,01-25-2024,Michael Davis,Y
+1570,Orbit Corp 817,Retail,201-1000,australia,Asia-Pacific,referral,07-Apr-2022,Arun Chen,true
+1571,Catalyst Innovations 150,Finance,1000+,DE,Europe,partner,06-07-2022,David Davis,no
+1572,Beacon Dynamics 923,Consulting,51-200,IN,Asia-Pacific,paid,2023-02-27,Omar Moore,N
+1573,Ignite Analytics 389,Legal,1-50,canada,North America,organic,2022-05-30,James Mueller,N
+1574,Elevate Labs 847,Technology,1000+,U.S.A.,North America,paid,07-Jun-2023,Charles Rodriguez,Y
+1575,Stratos Consulting 149,Government,51-200,AU,Asia-Pacific,organic,2025-07-02,Linda Jones,N
+1576,Stratos Technologies 733,Logistics,1-50,IN,Asia-Pacific,referral,06/21/2024,Susan Johnson,N
+1577,Orbit Group 939,Government,51-200,FR,Europe,organic,2023/06/20,James Mueller,Y
+1578,Helios Labs 462,Manufacturing,1-50,Japan,Asia-Pacific,partner,08-08-2022,Linda Anderson,0
+1579,Orbit Consulting 552,Energy,51-200,India,Asia-Pacific,referral,28-Jun-2025,Sarah Wilson,N
+1580,Nimbus Innovations 137,Consulting,51-200,BR,South America,partner,08/03/2022,James Tanaka,N
+1581,Vertex Consulting 747,Legal,201-1000,Singapore,Asia-Pacific,referral,01/11/2025,Omar Moore,N
+1582,Ignite Ventures 232,Manufacturing,1-50,Singapore,Asia-Pacific,organic,07-09-2024,Sarah Wilson,Y
+1583,Nova Industries 943,Logistics,1-50,canada,North America,paid,03/06/2025,Yuki Brown,Y
+1584,Nexus Solutions 836,Hospitality,1-50,UK,Europe,organic,01-31-2022,James Moore,Y
+1585,Beacon Industries 389,Legal,1000+,UK,Europe,organic,04-03-2022,David Davis,N
+1586,Flux Labs 382,Hospitality,201-1000,IN,Asia-Pacific,paid,2022-07-10,Sophie Ahmed,Y
+1587,Stratos Digital 49,Manufacturing,201-1000,BR,South America,partner,07-20-2023,Michael Davis,Y
+1588,Nexus Solutions 4,Hospitality,51-200,Germany,Europe,referral,04-Feb-2022,Michael Davis,N
+1589,Nimbus Industries 449,Media,1000+,united kingdom,Europe,partner,10-Nov-2023,David Davis,Y
+1590,Vertex Solutions 927,Legal,1-50,India,Asia-Pacific,referral,2024-01-30,Arun Chen,Y
+1591,Ignite Corp 103,Non-Profit,1000+,India,Asia-Pacific,organic,11-Jun-2025,Charles Rodriguez,N
+1592,Pulse Industries 430,Media,1000+,Japan,Asia-Pacific,partner,02-19-2023,Arun Chen,Y
+1593,Nova Analytics 240,Real Estate,1000+,Japan,Asia-Pacific,referral,2024-06-06,Thomas Martin,Y
+1594,Nimbus Industries 185,Hospitality,1000+,France,Europe,paid,07/17/2024,Arun Brown,N
+1595,Vertex Systems 442,Media,1-50,FR,Europe,organic,07-19-2024,Arun Brown,Y
+1596,Nimbus Corp 957,Education,201-1000,Canada,North America,partner,2022/05/30,Arun Chen,N
+1597,Flux Innovations 93,Non-Profit,1-50,Canada,North America,paid,26-Sep-2024,David Davis,Y
+1598,Helios Innovations 607,Finance,51-200,IN,Asia-Pacific,referral,10-10-2022,Sophie Ahmed,Y
+1599,Vertex Dynamics 55,Healthcare,201-1000,australia,Asia-Pacific,referral,21-Jan-2024,Sarah Wilson,Y
+1600,Apex Corp 446,Finance,51-200,JP,Asia-Pacific,partner,2022-09-16,Sophie Ahmed,No
+1601,Nova Innovations 51,Media,201-1000,UK,Europe,partner,07/18/2025,Omar Moore,N
+1602,Quantum Group 868,Hospitality,201-1000,Brazil,South America,organic,2022-12-30,Sarah Wilson,N
+1603,Stratos Ventures 969,Legal,1000+,Japan,Asia-Pacific,organic,01/10/2023,Michael Chen,N
+1604,Vertex Industries 965,Technology,201-1000,Japan,Asia-Pacific,organic,2024-02-04,Sophie Ahmed,N
+1605,Vanguard Solutions 626,Government,1-50,CA,North America,paid,2024/08/07,David Davis,Y
+1606,Apex Innovations 372,Finance,51-200,Germany,Europe,organic,2024/06/21,David Davis,No
+1607,Forge Partners 322,Hospitality,1-50,U.S.A.,North America,referral,01-10-2022,Michael Davis,N
+1608,Flux Labs 831,Energy,51-200,CA,North America,referral,03/08/2025,James Mueller,N
+1609,Orbit Group 980,Energy,51-200,BR,South America,paid,25-Aug-2022,Charles Rodriguez,Y
+1610,Vertex Labs 924,Finance,201-1000,united kingdom,Europe,paid,03/14/2022,David Davis,Y
+1611,Beacon Software 304,Education,51-200,DE,Europe,organic,2024/01/08,Susan Johnson,Y
+1612,Ignite Industries 40,Legal,201-1000,IN,Asia-Pacific,paid,07-06-2024,James Williams,Y
+1613,Stellar Corp 820,Media,51-200,germany,Europe,organic,23-Feb-2024,Michael Davis,N
+1614,Apex Dynamics 836,Education,1000+,BR,South America,referral,2023-07-21,Thomas Martin,N
+1615,Elevate Systems 211,Energy,1-50,SG,Asia-Pacific,referral,2023-01-10,James Tanaka,Y
+1616,Summit Ventures 717,Hospitality,51-200,Australia,Asia-Pacific,organic,2022-02-26,Arun Chen,Y
+1617,Stratos Industries 98,Legal,1000+,SG,Asia-Pacific,organic,02/09/2022,Priya Tanaka,1
+1618,Nova Industries 735,Government,201-1000,Singapore,Asia-Pacific,paid,2024-01-30,David Davis,N
+1619,Quantum Systems 449,Technology,51-200,FR,Europe,organic,2025-03-04,Michael Davis,Y
+1620,Nexus Corp 220,Real Estate,201-1000,Canada,North America,partner,12-Dec-2023,James Tanaka,N
+1621,Summit Technologies 784,Energy,1-50,BR,South America,referral,2023-01-27,Robert Jackson,N
+1622,Vertex Solutions 10,Retail,1-50,India,Asia-Pacific,organic,2023-08-13,Susan Johnson,Y
+1623,Vanguard Systems 961,Healthcare,1-50,U.S.A.,North America,referral,03-16-2023,Linda Jones,N
+1624,Zenith Ventures 345,Education,51-200,SG,Asia-Pacific,referral,06/16/2025,James Tanaka,N
+1625,Vanguard Industries 73,Energy,1-50,US,North America,partner,05-02-2022,Michael Chen,N
+1626,Ignite Solutions 76,Retail,1-50,Japan,Asia-Pacific,partner,03-03-2024,Susan Johnson,N
+1627,Quantum Innovations 912,Retail,201-1000,Germany,Europe,organic,2025-09-18,James Moore,N
+1628,Summit Dynamics 387,Finance,201-1000,Canada,North America,organic,2023/11/16,Omar Moore,Y
+1629,Elevate Corp 262,Real Estate,201-1000,Canada,North America,organic,03/12/2024,Sophie Ahmed,Y
+1630,Quantum Labs 809,Healthcare,1-50,germany,Europe,organic,09-23-2023,James Tanaka,Y
+1631,Forge Consulting 694,Logistics,201-1000,United States,North America,organic,12/31/2023,Linda Jones,N
+1632,Vertex Industries 403,Retail,201-1000,BR,South America,referral,03-27-2023,Charles Rodriguez,Y
+1633,Ignite Dynamics 332,Legal,1000+,SG,Asia-Pacific,paid,2023/01/17,James Tanaka,No
+1634,Zenith Consulting 247,Real Estate,201-1000,IN,Asia-Pacific,paid,2023-01-02,Susan Johnson,Y
+1635,Beacon Dynamics 912,Healthcare,1-50,USA,North America,paid,05/05/2025,Charles Rodriguez,false
+1636,Nova Systems 194,Legal,51-200,India,Asia-Pacific,referral,12-11-2022,Linda Jones,No
+1637,Stratos Partners 932,Media,1-50,Brazil,South America,partner,01/09/2022,Charles Rodriguez,Y
+1638,Vanguard Corp 564,Energy,1000+,JP,Asia-Pacific,paid,2022-06-17,James Moore,N
+1639,Ignite Analytics 46,Logistics,51-200,US,North America,partner,11-27-2023,Yuki Brown,N
+1640,Stratos Software 596,Education,201-1000,Brazil,South America,organic,12-20-2022,Yuki Brown,N
+1641,Stellar Innovations 773,Logistics,51-200,BR,South America,paid,11/29/2022,Yuki Brown,yes
+1642,Quantum Solutions 259,Consulting,51-200,United Kingdom,Europe,organic,2023-07-23,Michael Chen,N
+1643,Vanguard Partners 617,Finance,1-50,germany,Europe,paid,2022-01-21,Susan Johnson,Y
+1644,Quantum Labs 873,Education,51-200,canada,North America,organic,09/25/2022,Thomas Martin,N
+1645,Pulse Solutions 921,Hospitality,1-50,CA,North America,referral,2024/10/27,Omar Moore,0
+1646,Nova Ventures 845,Hospitality,1000+,united states,North America,partner,07-Dec-2023,James Moore,Y
+1647,Nimbus Technologies 626,Consulting,1-50,Japan,Asia-Pacific,organic,2023/04/05,David Davis,N
+1648,Summit Group 388,Energy,51-200,Singapore,Asia-Pacific,organic,25-Mar-2022,Robert Jackson,Y
+1649,Ignite Consulting 283,Finance,1-50,United Kingdom,Europe,organic,2025/06/23,Sarah Wilson,Y
+1650,Nova Analytics 58,Government,1000+,FR,Europe,partner,2024-04-11,James Moore,N
+1651,Zenith Innovations 404,Education,201-1000,Canada,North America,referral,06-22-2022,James Williams,N
+1652,Orbit Group 672,Manufacturing,201-1000,U.S.A.,North America,paid,06/22/2024,Sophie Ahmed,N
+1653,Forge Corp 9,Real Estate,51-200,Australia,Asia-Pacific,paid,2025/08/18,Yuki Brown,Y
+1654,Forge Software 855,Retail,51-200,united kingdom,Europe,paid,01-Jul-2022,Charles Rodriguez,Y
+1655,Catalyst Group 690,Logistics,1000+,canada,North America,organic,07-27-2022,Michael Chen,Y
+1656,Quantum Ventures 246,Retail,51-200,Australia,Asia-Pacific,referral,06/23/2022,Yuki Brown,N
+1657,Flux Dynamics 998,Logistics,51-200,Canada,North America,paid,19-Jan-2024,Omar Moore,N
+1658,Apex Digital 707,Government,1000+,DE,Europe,organic,08-Jun-2022,Susan Johnson,0
+1659,Vanguard Consulting 479,Education,1000+,IN,Asia-Pacific,referral,28-Feb-2025,Omar Moore,N
+1660,Vanguard Labs 448,Media,1000+,FR,Europe,organic,2025/03/01,Omar Moore,N
+1661,Orbit Systems 81,Logistics,1-50,canada,North America,referral,12-04-2023,James Williams,Y
+1662,Stratos Technologies 835,Education,201-1000,FR,Europe,partner,15-Jan-2023,Arun Chen,Y
+1663,Stellar Technologies 874,Finance,51-200,DE,Europe,organic,28-Jan-2022,Priya Tanaka,N
+1664,Elevate Technologies 956,Consulting,51-200,Australia,Asia-Pacific,paid,2022/04/18,Linda Jones,N
+1665,Flux Digital 325,Real Estate,1000+,Australia,Asia-Pacific,partner,03/14/2023,Linda Jones,Y
+1666,Nova Solutions 547,Hospitality,51-200,United Kingdom,Europe,organic,2024-10-12,Thomas Martin,N
+1667,Ignite Dynamics 95,Education,201-1000,Japan,Asia-Pacific,partner,07-30-2023,Arun Chen,Y
+1668,Orbit Group 865,Consulting,51-200,Brazil,South America,partner,10-Apr-2022,Yuki Brown,no
+1669,Zenith Software 456,Media,201-1000,BR,South America,paid,07/16/2024,Arun Chen,true
+1670,Nova Technologies 286,Government,51-200,united states,North America,organic,2025-08-15,Thomas Martin,N
+1671,Catalyst Ventures 532,Real Estate,51-200,United States,North America,organic,16-Mar-2022,Priya Tanaka,yes
+1672,Catalyst Dynamics 679,Manufacturing,1-50,Germany,Europe,partner,09-03-2022,David Davis,N
+1673,Summit Systems 931,Energy,201-1000,USA,North America,paid,02-11-2023,James Moore,true
+1674,Stellar Software 739,Non-Profit,51-200,USA,North America,paid,15-May-2025,James Mueller,N
+1675,Vanguard Consulting 915,Consulting,1000+,Germany,Europe,paid,04-26-2023,James Mueller,yes
+1676,Helios Systems 2,Non-Profit,201-1000,Australia,Asia-Pacific,paid,01/15/2024,Michael Chen,Y
+1677,Forge Technologies 520,Hospitality,1-50,FR,Europe,organic,03-13-2022,Priya Tanaka,Y
+1678,Elevate Partners 510,Media,1-50,UK,Europe,organic,2024/11/01,Linda Jones,Y
+1679,Quantum Industries 103,Hospitality,51-200,France,Europe,partner,2025/08/13,Susan Johnson,Y
+1680,Ignite Consulting 265,Non-Profit,201-1000,India,Asia-Pacific,paid,09/06/2024,Omar Moore,N
+1681,Quantum Systems 976,Non-Profit,201-1000,CA,North America,paid,07-Nov-2024,Charles Rodriguez,N
+1682,Nimbus Systems 735,Media,1-50,CA,North America,paid,01-01-2023,Michael Davis,N
+1683,Pulse Corp 672,Government,51-200,US,North America,organic,03-08-2024,James Tanaka,N
+1684,Orbit Industries 701,Technology,1000+,BR,South America,paid,07-19-2023,James Williams,no
+1685,Nexus Ventures 576,Manufacturing,1000+,France,Europe,partner,2022-11-01,Linda Anderson,N
+1686,Flux Ventures 409,Consulting,201-1000,DE,Europe,organic,15-Mar-2025,Susan Johnson,N
+1687,Summit Solutions 371,Hospitality,1-50,FR,Europe,organic,2023/05/30,Susan Johnson,Y
+1688,Vertex Technologies 580,Energy,1-50,FR,Europe,paid,11-07-2023,Michael Davis,Y
+1689,Beacon Analytics 509,Non-Profit,51-200,France,Europe,referral,01/14/2023,Michael Chen,Y
+1690,Stellar Ventures 16,Healthcare,51-200,UK,Europe,paid,29-Jun-2025,David Davis,N
+1691,Pulse Partners 250,Media,1-50,IN,Asia-Pacific,paid,2025-06-24,Priya Tanaka,N
+1692,Forge Dynamics 915,Non-Profit,51-200,Brazil,South America,partner,2023/04/19,Arun Brown,No
+1693,Beacon Corp 713,Consulting,1000+,SG,Asia-Pacific,paid,12/22/2024,Sophie Ahmed,N
+1694,Flux Labs 119,Education,201-1000,Singapore,Asia-Pacific,organic,07-07-2022,Sophie Ahmed,N
+1695,Catalyst Systems 239,Energy,1-50,GB,Europe,organic,24-Oct-2022,Sarah Wilson,N
+1696,Elevate Group 290,Real Estate,1-50,Singapore,Asia-Pacific,organic,08/03/2025,Michael Chen,N
+1697,Ignite Dynamics 406,Real Estate,1000+,AU,Asia-Pacific,partner,09-26-2023,Arun Chen,N
+1698,Flux Software 964,Hospitality,201-1000,united kingdom,Europe,organic,09-May-2024,Michael Davis,N
+1699,Apex Solutions 417,Real Estate,51-200,Germany,Europe,partner,24-Dec-2023,Sophie Ahmed,Y
+1700,Forge Partners 191,Consulting,201-1000,Brazil,South America,partner,06/22/2024,Michael Davis,No
+1701,Pulse Solutions 712,Finance,201-1000,FR,Europe,organic,04/30/2025,Linda Anderson,Y
+1702,Stellar Dynamics 424,Government,201-1000,germany,Europe,referral,05-23-2024,James Mueller,Y
+1703,Ignite Consulting 584,Media,1000+,France,Europe,referral,06-Jun-2025,Susan Johnson,N
+1704,Flux Innovations 227,Energy,1-50,AU,Asia-Pacific,paid,06-12-2023,Robert Jackson,N
+1705,Orbit Group 593,Hospitality,1000+,BR,South America,organic,08-07-2023,Charles Rodriguez,N
+1706,Stellar Systems 230,Finance,1000+,United States,North America,referral,2025-04-30,Robert Jackson,N
+1707,Stellar Technologies 991,Legal,51-200,US,North America,partner,2025-03-15,Sarah Wilson,Y
+1708,Catalyst Group 921,Education,201-1000,JP,Asia-Pacific,paid,12/14/2023,James Tanaka,N
+1709,Zenith Solutions 44,Media,1-50,Australia,Asia-Pacific,paid,07-24-2023,James Tanaka,N
+1710,Nova Systems 919,Manufacturing,1000+,FR,Europe,partner,07-Aug-2022,Linda Anderson,N
+1711,Helios Industries 195,Technology,1000+,France,Europe,paid,2025-04-07,Susan Johnson,N
+1712,Vanguard Analytics 306,Media,51-200,Germany,Europe,organic,06/16/2023,Charles Rodriguez,N
+1713,Ignite Corp 50,Government,1000+,Germany,Europe,paid,2023-08-31,Robert Jackson,Y
+1714,Pulse Group 469,Consulting,1-50,Australia,Asia-Pacific,referral,01/11/2023,Arun Chen,Y
+1715,Nimbus Industries 517,Logistics,201-1000,India,Asia-Pacific,referral,2025/01/11,Sophie Ahmed,Y
+1716,Apex Systems 908,Real Estate,201-1000,UK,Europe,partner,17-Aug-2025,Omar Moore,N
+1717,Apex Group 213,Technology,51-200,France,Europe,referral,2022/04/30,James Moore,N
+1718,Catalyst Systems 460,Logistics,51-200,France,Europe,organic,11/23/2022,Arun Brown,Y
+1719,Quantum Corp 411,Manufacturing,1-50,Singapore,Asia-Pacific,paid,09-Aug-2022,Michael Chen,Y
+1720,Beacon Dynamics 70,Hospitality,1-50,united kingdom,Europe,partner,05/26/2024,Sarah Wilson,N
+1721,Helios Partners 356,Finance,201-1000,FR,Europe,paid,2023-05-26,David Davis,Y
+1722,Stellar Software 237,Finance,51-200,Singapore,Asia-Pacific,paid,12-Feb-2025,Yuki Brown,N
+1723,Apex Systems 554,Non-Profit,1-50,Australia,Asia-Pacific,partner,07/27/2024,Priya Tanaka,No
+1724,Quantum Group 54,Hospitality,201-1000,FR,Europe,organic,2022/04/30,Sarah Wilson,N
+1725,Catalyst Consulting 267,Hospitality,201-1000,India,Asia-Pacific,partner,05-Aug-2022,Charles Rodriguez,Y
+1726,Zenith Analytics 894,Consulting,51-200,BR,South America,organic,11/12/2022,Yuki Brown,N
+1727,Catalyst Partners 42,Legal,201-1000,Singapore,Asia-Pacific,paid,2023/12/04,Robert Jackson,N
+1728,Pulse Dynamics 588,Healthcare,1-50,UK,Europe,partner,01-17-2023,James Tanaka,N
+1729,Zenith Innovations 355,Consulting,1-50,JP,Asia-Pacific,organic,2024/05/01,James Williams,Y
+1730,Apex Digital 645,Energy,201-1000,germany,Europe,referral,05/10/2025,James Mueller,Y
+1731,Catalyst Innovations 908,Finance,1000+,united kingdom,Europe,referral,10/08/2024,Robert Jackson,yes
+1732,Ignite Dynamics 187,Finance,51-200,Canada,North America,partner,02/13/2022,James Moore,N
+1733,Catalyst Ventures 831,Government,51-200,Australia,Asia-Pacific,organic,04-25-2025,Omar Moore,N
+1734,Pulse Group 302,Retail,1000+,australia,Asia-Pacific,referral,2024-06-25,Susan Johnson,Y
+1735,Beacon Solutions 824,Non-Profit,201-1000,Canada,North America,referral,01/22/2022,Arun Chen,N
+1736,Summit Group 639,Finance,201-1000,CA,North America,paid,24-Mar-2024,Priya Tanaka,Y
+1737,Beacon Software 510,Hospitality,201-1000,Brazil,South America,organic,2023/10/16,David Davis,Y
+1738,Elevate Corp 556,Technology,201-1000,United Kingdom,Europe,paid,10-18-2022,James Williams,Y
+1739,Nexus Technologies 331,Education,201-1000,IN,Asia-Pacific,paid,2023/03/24,Robert Jackson,No
+1740,Beacon Ventures 738,Consulting,51-200,Canada,North America,partner,2025/08/15,David Davis,N
+1741,Catalyst Ventures 266,Education,1-50,Singapore,Asia-Pacific,paid,2024-11-19,Robert Jackson,Yes
+1742,Ignite Digital 872,Legal,51-200,US,North America,organic,03/31/2022,Yuki Brown,Y
+1743,Nexus Consulting 178,Legal,201-1000,United Kingdom,Europe,partner,02-02-2024,Michael Chen,Y
+1744,,Healthcare,201-1000,AU,Asia-Pacific,organic,2022/01/18,James Williams,No
+1745,Flux Digital 137,Energy,1000+,united states,North America,partner,03/29/2022,Michael Davis,Y
+1746,Stratos Corp 795,Legal,201-1000,India,Asia-Pacific,partner,07/30/2025,Omar Moore,N
+1747,,Non-Profit,51-200,United Kingdom,Europe,organic,06/04/2025,Priya Tanaka,true
+1748,Nova Group 707,Logistics,51-200,UK,Europe,referral,2022/04/04,Linda Anderson,N
+1749,Nimbus Digital 883,Finance,1000+,GB,Europe,organic,07/04/2022,Linda Anderson,N
+1750,Pulse Technologies 754,Media,1000+,Japan,Asia-Pacific,paid,2022-02-10,James Tanaka,true
+1751,Nova Corp 959,Logistics,1000+,Germany,Europe,organic,2022-11-27,Michael Davis,Y
+1752,Apex Corp 830,Logistics,1-50,CA,North America,paid,2023/07/08,James Mueller,Y
+1753,,Media,1000+,Singapore,Asia-Pacific,partner,2025/06/06,Robert Jackson,false
+1754,Zenith Systems 865,Consulting,51-200,Japan,Asia-Pacific,partner,2023/02/28,David Davis,N
+1755,Stratos Corp 651,Finance,1000+,united kingdom,Europe,organic,07/16/2025,Michael Chen,N
+1756,Ignite Group 989,Finance,51-200,United Kingdom,Europe,paid,01-02-2022,Yuki Brown,Y
+1757,Nexus Ventures 554,Real Estate,1-50,JP,Asia-Pacific,referral,2023-04-04,James Moore,Y
+1758,Summit Dynamics 395,Government,51-200,UK,Europe,organic,25-Aug-2025,Robert Jackson,0
+1759,Vertex Partners 131,Healthcare,1000+,Brazil,South America,referral,05-27-2025,Michael Chen,N
+1760,Nimbus Consulting 547,Consulting,1000+,Germany,Europe,organic,01/13/2025,James Moore,N
+1761,Elevate Corp 713,Energy,201-1000,India,Asia-Pacific,paid,29-Dec-2024,Arun Chen,Y
+1762,Pulse Group 632,Education,201-1000,Japan,Asia-Pacific,referral,2025/04/29,Arun Brown,Y
+1763,Beacon Innovations 306,Real Estate,201-1000,canada,North America,partner,04/01/2025,James Mueller,Y
+1764,Forge Industries 605,Real Estate,1-50,australia,Asia-Pacific,organic,05-09-2022,James Mueller,N
+1765,Beacon Group 703,Media,201-1000,Brazil,South America,paid,06-07-2023,Linda Anderson,N
+1766,Flux Technologies 421,Logistics,201-1000,Brazil,South America,partner,05-12-2023,Charles Rodriguez,N
+1767,Ignite Technologies 390,Retail,201-1000,Australia,Asia-Pacific,paid,04-11-2025,James Moore,N
+1768,Nova Corp 989,Finance,1000+,Canada,North America,partner,2022-08-31,James Moore,Y
+1769,Elevate Group 567,Finance,201-1000,SG,Asia-Pacific,referral,05-06-2022,Linda Jones,Yes
+1770,Zenith Solutions 570,Education,1000+,JP,Asia-Pacific,paid,03-19-2025,James Mueller,Y
+1771,Summit Group 854,Technology,51-200,united kingdom,Europe,referral,2025-02-07,James Tanaka,Y
+1772,Nova Labs 48,Healthcare,201-1000,France,Europe,organic,10-Mar-2024,James Moore,N
+1773,Flux Technologies 572,Logistics,201-1000,AU,Asia-Pacific,partner,03-03-2025,James Tanaka,N
+1774,Stratos Digital 492,Finance,1000+,US,North America,organic,2025-08-31,Omar Moore,false
+1775,Forge Corp 910,Retail,201-1000,United Kingdom,Europe,organic,2022/04/08,Sarah Wilson,N
+1776,Orbit Ventures 352,Government,201-1000,India,Asia-Pacific,referral,2025-02-18,James Moore,N
+1777,Quantum Digital 797,Energy,1000+,CA,North America,paid,28-Aug-2022,Michael Chen,N
+1778,Stellar Systems 962,Manufacturing,51-200,canada,North America,referral,2022/09/13,Arun Brown,N
+1779,Orbit Dynamics 315,Consulting,201-1000,BR,South America,paid,03-07-2024,Michael Chen,N
+1780,Catalyst Systems 99,Real Estate,1-50,Germany,Europe,referral,30-Dec-2024,Thomas Martin,Y
+1781,Pulse Technologies 171,Media,51-200,Singapore,Asia-Pacific,organic,2022-04-26,Sarah Wilson,no
+1782,Zenith Software 798,Finance,1000+,CA,North America,paid,07-21-2025,Thomas Martin,N
+1783,Ignite Corp 730,Energy,201-1000,France,Europe,referral,02/08/2025,Michael Davis,Y
+1784,Nexus Industries 119,Real Estate,1-50,Japan,Asia-Pacific,referral,2023-11-03,Linda Anderson,Y
+1785,Apex Corp 316,Retail,201-1000,SG,Asia-Pacific,paid,09-Jul-2022,Omar Moore,N
+1786,Vanguard Digital 145,Healthcare,1000+,Australia,Asia-Pacific,referral,06-16-2024,James Williams,N
+1787,Nimbus Dynamics 205,Technology,201-1000,Australia,Asia-Pacific,partner,08-16-2023,Charles Rodriguez,Y
+1788,Nova Labs 200,Government,1-50,United Kingdom,Europe,paid,12-21-2024,James Mueller,Y
+1789,Stellar Industries 959,Non-Profit,1-50,USA,North America,paid,2024/11/16,Charles Rodriguez,Y
+1790,Summit Labs 10,Consulting,1-50,AU,Asia-Pacific,paid,2025-02-10,Arun Chen,N
+1791,Flux Industries 335,Non-Profit,1-50,Germany,Europe,organic,02-Nov-2023,Michael Chen,N
+1792,Summit Labs 300,Real Estate,1000+,Australia,Asia-Pacific,partner,02-21-2024,David Davis,N
+1793,Flux Labs 215,Hospitality,1000+,IN,Asia-Pacific,referral,07-Oct-2022,James Tanaka,N
+1794,Helios Partners 589,Technology,201-1000,SG,Asia-Pacific,paid,03-01-2022,Arun Brown,Y
+1795,Ignite Software 240,Logistics,1000+,FR,Europe,referral,12/02/2022,James Williams,N
+1796,Elevate Group 754,Energy,201-1000,JP,Asia-Pacific,paid,11-24-2024,Thomas Martin,N
+1797,Summit Corp 651,Logistics,1-50,Singapore,Asia-Pacific,paid,12/15/2023,David Davis,Y
+1798,Beacon Innovations 598,Government,51-200,BR,South America,paid,01-08-2025,Arun Chen,Y
+1799,Vertex Dynamics 15,Hospitality,201-1000,France,Europe,referral,04/04/2025,Michael Chen,N
+1800,,Healthcare,51-200,canada,North America,paid,2024-12-07,Omar Moore,Y
+1801,Stratos Analytics 350,Energy,51-200,IN,Asia-Pacific,organic,03-Jan-2025,Michael Davis,N
+1802,Nimbus Solutions 909,Government,1-50,united states,North America,partner,06-18-2025,James Tanaka,Y
+1803,Vanguard Corp 152,Manufacturing,201-1000,Japan,Asia-Pacific,referral,05-20-2024,Charles Rodriguez,Y
+1804,Nova Digital 740,Manufacturing,51-200,BR,South America,organic,2022-01-25,Linda Jones,N
+1805,Nimbus Labs 807,Finance,1000+,SG,Asia-Pacific,paid,13-Jun-2022,Thomas Martin,Yes
+1806,Nexus Labs 741,Government,1-50,India,Asia-Pacific,organic,28-Mar-2022,Michael Davis,N
+1807,Apex Software 139,Media,1-50,AU,Asia-Pacific,partner,03/11/2023,James Moore,Y
+1808,Elevate Systems 937,Logistics,1000+,Brazil,South America,paid,11-Jun-2022,Robert Jackson,N
+1809,Helios Solutions 722,Government,1000+,US,North America,referral,07-Jul-2025,Arun Chen,N
+1810,Zenith Technologies 667,Energy,1000+,France,Europe,referral,01-Mar-2024,Linda Jones,Y
+1811,Nexus Industries 298,Consulting,51-200,germany,Europe,paid,2024/03/15,Sarah Wilson,Y
+1812,Stellar Dynamics 29,Media,1-50,CA,North America,paid,20-Jan-2025,Priya Tanaka,N
+1813,Stratos Technologies 387,Healthcare,1-50,Australia,Asia-Pacific,partner,10-Jun-2023,Omar Moore,true
+1814,Catalyst Analytics 894,Education,1-50,Australia,Asia-Pacific,paid,04-18-2024,Charles Rodriguez,Y
+1815,Nova Systems 503,Media,51-200,DE,Europe,paid,01-17-2022,Linda Jones,N
+1816,Orbit Ventures 266,Manufacturing,201-1000,Australia,Asia-Pacific,organic,07-17-2024,Michael Chen,No
+1817,Nimbus Digital 46,Energy,51-200,India,Asia-Pacific,referral,10-11-2024,Linda Anderson,Y
+1818,Beacon Digital 277,Government,201-1000,FR,Europe,paid,2023/12/20,Linda Jones,no
+1819,Beacon Group 910,Non-Profit,1-50,Germany,Europe,partner,13-Feb-2022,James Tanaka,N
+1820,Pulse Group 970,Logistics,1000+,Germany,Europe,partner,2025/04/24,Thomas Martin,Y
+1821,Stratos Labs 750,Real Estate,1-50,DE,Europe,organic,03/16/2023,Arun Brown,N
+1822,Helios Solutions 638,Technology,51-200,United Kingdom,Europe,partner,12/16/2023,Thomas Martin,N
+1823,Orbit Digital 171,Government,51-200,US,North America,organic,21-Jun-2023,Arun Chen,yes
+1824,Beacon Systems 8,Legal,1000+,australia,Asia-Pacific,referral,2023-07-27,Sophie Ahmed,Y
+1825,Pulse Systems 278,Technology,1000+,FR,Europe,organic,05/07/2023,Yuki Brown,Y
+1826,Orbit Analytics 975,Finance,1000+,BR,South America,partner,02/27/2022,Priya Tanaka,N
+1827,Stellar Corp 81,Retail,1-50,BR,South America,paid,09/04/2023,Michael Chen,Y
+1828,Nexus Technologies 547,Media,1000+,Singapore,Asia-Pacific,partner,04/16/2022,James Tanaka,1
+1829,Summit Solutions 153,Technology,51-200,Japan,Asia-Pacific,organic,03-28-2024,Michael Davis,Y
+1830,Zenith Industries 915,Manufacturing,1000+,India,Asia-Pacific,organic,05-Oct-2022,Arun Chen,0
+1831,Summit Partners 321,Finance,201-1000,U.S.A.,North America,organic,2022-05-03,Arun Chen,no
+1832,Pulse Partners 473,Consulting,1000+,United Kingdom,Europe,paid,2023-01-24,Linda Jones,Y
+1833,Pulse Analytics 833,Real Estate,1-50,IN,Asia-Pacific,partner,03/05/2025,Priya Tanaka,Yes
+1834,Nexus Solutions 824,Legal,1000+,Australia,Asia-Pacific,partner,2023-10-10,Sophie Ahmed,N
+1835,Stellar Analytics 828,Retail,201-1000,United Kingdom,Europe,partner,2024-08-28,Yuki Brown,N
+1836,Zenith Digital 309,Healthcare,1000+,Australia,Asia-Pacific,paid,27-Sep-2022,Priya Tanaka,Y
+1837,Pulse Software 602,Energy,201-1000,AU,Asia-Pacific,partner,2022/06/18,Priya Tanaka,Y
+1838,Elevate Partners 24,Education,1-50,Germany,Europe,paid,2023/01/10,Michael Chen,N
+1839,Vertex Ventures 477,Consulting,51-200,SG,Asia-Pacific,referral,07-Sep-2023,Sophie Ahmed,Y
+1840,Ignite Corp 115,Energy,1-50,IN,Asia-Pacific,organic,03/17/2022,Michael Chen,N
+1841,Ignite Software 415,Retail,1000+,australia,Asia-Pacific,partner,05-27-2025,Michael Chen,N
+1842,Quantum Labs 475,Retail,1000+,IN,Asia-Pacific,organic,05-01-2022,Robert Jackson,N
+1843,Beacon Consulting 674,Energy,1-50,JP,Asia-Pacific,referral,07-01-2022,Sophie Ahmed,Y
+1844,Quantum Technologies 448,Legal,51-200,AU,Asia-Pacific,paid,03/31/2022,Michael Davis,No
+1845,Zenith Group 554,Technology,51-200,Australia,Asia-Pacific,paid,11-10-2024,Linda Anderson,N
+1846,Forge Corp 281,Finance,1-50,India,Asia-Pacific,paid,2023/01/19,Yuki Brown,Y
+1847,Nova Corp 925,Technology,1-50,France,Europe,organic,01-04-2022,Linda Anderson,Y
+1848,Elevate Labs 813,Energy,1-50,Australia,Asia-Pacific,organic,2024-04-05,Susan Johnson,Y
+1849,Nexus Industries 818,Media,51-200,United States,North America,paid,2022/02/17,Omar Moore,Y
+1850,Beacon Innovations 852,Legal,1-50,SG,Asia-Pacific,organic,12-25-2024,Michael Davis,N
+1851,Flux Analytics 863,Media,51-200,UK,Europe,organic,2025-01-26,James Mueller,N
+1852,Nimbus Analytics 284,Legal,51-200,DE,Europe,organic,2023-05-26,Linda Anderson,Y
+1853,Vertex Corp 95,Education,51-200,SG,Asia-Pacific,paid,2025-02-11,Omar Moore,N
+1854,Orbit Digital 869,Non-Profit,51-200,USA,North America,partner,2022/05/21,Arun Brown,N
+1855,Beacon Corp 385,Energy,201-1000,SG,Asia-Pacific,partner,2025/05/28,Yuki Brown,N
+1856,Apex Technologies 60,Non-Profit,51-200,Japan,Asia-Pacific,paid,10/10/2022,Robert Jackson,Y
+1857,Stratos Dynamics 611,Finance,1-50,australia,Asia-Pacific,referral,01-03-2022,David Davis,true
+1858,Summit Group 706,Consulting,51-200,FR,Europe,referral,10/06/2022,Robert Jackson,N
+1859,Vanguard Dynamics 18,Healthcare,51-200,U.S.A.,North America,referral,2023-08-27,Charles Rodriguez,No
+1860,Nexus Ventures 429,Education,1-50,GB,Europe,partner,2025-07-10,James Tanaka,N
+1861,Apex Dynamics 617,Media,1-50,Canada,North America,organic,03/25/2023,Charles Rodriguez,true
+1862,Zenith Analytics 147,Manufacturing,51-200,BR,South America,organic,27-Jun-2022,David Davis,yes
+1863,Quantum Solutions 671,Real Estate,1000+,AU,Asia-Pacific,referral,12/26/2024,Susan Johnson,Y
+1864,Flux Industries 743,Real Estate,1000+,United States,North America,referral,2023/09/18,Arun Brown,Y
+1865,Nexus Partners 91,Legal,51-200,FR,Europe,partner,04/30/2023,Susan Johnson,false
+1866,Forge Technologies 503,Non-Profit,1-50,India,Asia-Pacific,partner,12/31/2024,James Moore,N
+1867,Beacon Solutions 522,Hospitality,201-1000,IN,Asia-Pacific,paid,05/06/2024,Susan Johnson,N
+1868,Vertex Software 637,Logistics,201-1000,BR,South America,partner,2024/04/17,David Davis,N
+1869,Stellar Partners 62,Hospitality,1-50,germany,Europe,referral,01-11-2024,Sophie Ahmed,true
+1870,Summit Group 997,Non-Profit,51-200,CA,North America,organic,15-Sep-2022,Michael Chen,N
+1871,Elevate Analytics 157,Government,201-1000,GB,Europe,paid,05-Nov-2022,Susan Johnson,true
+1872,Nimbus Digital 177,Non-Profit,201-1000,US,North America,organic,2024-03-29,James Mueller,N
+1873,Summit Digital 201,Real Estate,51-200,Japan,Asia-Pacific,partner,02/01/2025,James Williams,yes
+1874,Zenith Corp 694,Legal,1-50,SG,Asia-Pacific,partner,08-12-2023,Arun Brown,Y
+1875,Elevate Industries 266,Technology,51-200,US,North America,paid,13-Dec-2023,James Williams,Y
+1876,Pulse Ventures 768,Manufacturing,1-50,Australia,Asia-Pacific,partner,2022-06-18,James Williams,Y
+1877,Helios Innovations 974,Real Estate,51-200,Japan,Asia-Pacific,partner,2024-05-18,James Tanaka,no
+1878,Pulse Systems 64,Healthcare,1-50,DE,Europe,organic,2022-08-04,Omar Moore,Y
+1879,Flux Software 960,Legal,1-50,BR,South America,partner,2022-08-28,Linda Jones,N
+1880,Elevate Software 950,Legal,201-1000,Canada,North America,referral,2023/12/28,Linda Anderson,Y
+1881,Catalyst Consulting 374,Real Estate,201-1000,United States,North America,referral,07-11-2025,Priya Tanaka,no
+1882,Nexus Solutions 484,Logistics,1-50,CA,North America,paid,2025/02/17,James Mueller,N
+1883,Apex Innovations 233,Media,1-50,Brazil,South America,partner,08/18/2022,Yuki Brown,Y
+1884,Pulse Ventures 611,Real Estate,1000+,Singapore,Asia-Pacific,paid,2025/07/21,Michael Davis,N
+1885,Zenith Solutions 459,Finance,201-1000,India,Asia-Pacific,referral,20-Feb-2025,Arun Chen,Y
+1886,Stratos Solutions 16,Manufacturing,51-200,Canada,North America,partner,08/26/2025,Priya Tanaka,N
+1887,,Logistics,201-1000,united states,North America,referral,2024/02/27,Sarah Wilson,N
+1888,Nova Industries 821,Legal,1-50,Brazil,South America,referral,01/01/2024,David Davis,No
+1889,Catalyst Solutions 754,Media,1-50,UK,Europe,partner,2024-04-12,Omar Moore,Y
+1890,Pulse Corp 48,Retail,51-200,Japan,Asia-Pacific,paid,06-13-2023,Yuki Brown,Y
+1891,Flux Analytics 876,Technology,201-1000,Australia,Asia-Pacific,partner,10-27-2024,David Davis,Y
+1892,Nova Corp 879,Hospitality,1-50,DE,Europe,partner,06-Apr-2022,Charles Rodriguez,0
+1893,Elevate Innovations 298,Manufacturing,201-1000,India,Asia-Pacific,organic,2023-05-17,Michael Davis,N
+1894,Nova Consulting 122,Real Estate,1000+,Australia,Asia-Pacific,referral,2024/10/18,Robert Jackson,Y
+1895,Ignite Corp 329,Hospitality,1000+,united kingdom,Europe,referral,2022-10-08,Yuki Brown,Y
+1896,Zenith Partners 382,Education,201-1000,Singapore,Asia-Pacific,partner,2024-10-16,James Mueller,N
+1897,Beacon Systems 233,Media,201-1000,IN,Asia-Pacific,partner,2022/02/08,Arun Chen,N
+1898,Quantum Solutions 367,Manufacturing,1-50,united kingdom,Europe,organic,23-Jun-2024,James Moore,false
+1899,Orbit Digital 668,Real Estate,1-50,Brazil,South America,organic,2024/12/24,Michael Davis,Y
+1900,Flux Labs 543,Government,1-50,USA,North America,referral,2023/01/16,Priya Tanaka,N
+1901,Elevate Solutions 166,Consulting,1000+,Singapore,Asia-Pacific,partner,12/20/2022,Charles Rodriguez,N
+1902,,Finance,1-50,united states,North America,partner,07/07/2024,Yuki Brown,N
+1903,Summit Technologies 881,Real Estate,1000+,germany,Europe,paid,24-Nov-2023,James Mueller,N
+1904,Quantum Labs 915,Energy,1-50,JP,Asia-Pacific,organic,02-Jun-2024,Linda Anderson,N
+1905,Stratos Industries 606,Non-Profit,201-1000,Germany,Europe,referral,2022-12-28,Thomas Martin,0
+1906,Nova Ventures 538,Legal,1-50,SG,Asia-Pacific,partner,2022/10/24,Susan Johnson,N
+1907,Nova Corp 197,Logistics,1000+,FR,Europe,referral,22-Apr-2024,Susan Johnson,N
+1908,Stellar Industries 871,Manufacturing,201-1000,United Kingdom,Europe,paid,2025/04/16,Omar Moore,Y
+1909,Elevate Innovations 858,Technology,51-200,Canada,North America,paid,2024/07/21,Linda Jones,Y
+1910,Nexus Digital 77,Media,1-50,BR,South America,organic,2024/01/30,Priya Tanaka,N
+1911,Apex Digital 302,Healthcare,201-1000,CA,North America,partner,06-17-2025,Charles Rodriguez,N
+1912,Zenith Solutions 384,Manufacturing,51-200,Canada,North America,organic,08/01/2022,Michael Chen,Y
+1913,Nimbus Digital 563,Finance,1000+,USA,North America,partner,2022-07-15,James Tanaka,N
+1914,Forge Analytics 26,Hospitality,51-200,UK,Europe,partner,07/11/2024,Arun Chen,Y
+1915,Apex Software 351,Manufacturing,51-200,united states,North America,partner,03/09/2022,Susan Johnson,Y
+1916,Orbit Industries 592,Finance,201-1000,DE,Europe,partner,08/20/2022,Charles Rodriguez,N
+1917,Nova Analytics 228,Retail,1-50,Singapore,Asia-Pacific,referral,03-08-2022,James Mueller,N
+1918,Ignite Corp 112,Finance,1000+,Singapore,Asia-Pacific,partner,03/25/2023,Charles Rodriguez,Y
+1919,Vertex Systems 917,Education,1-50,SG,Asia-Pacific,partner,2022-08-30,Yuki Brown,Y
+1920,Forge Innovations 430,Real Estate,51-200,BR,South America,referral,03/20/2024,Sophie Ahmed,Y
+1921,Nimbus Corp 24,Retail,1-50,BR,South America,partner,02-Jan-2022,Michael Chen,N
+1922,,Energy,51-200,Japan,Asia-Pacific,paid,01/21/2022,David Davis,Y
+1923,Vanguard Digital 846,Retail,1-50,australia,Asia-Pacific,paid,05/03/2023,Priya Tanaka,N
+1924,Vanguard Labs 254,Manufacturing,201-1000,Germany,Europe,organic,12/21/2022,Thomas Martin,yes
+1925,Catalyst Corp 874,Education,201-1000,USA,North America,organic,08/21/2022,James Moore,Y
+1926,Nimbus Analytics 833,Energy,51-200,Japan,Asia-Pacific,paid,02/21/2025,James Williams,Y
+1927,Zenith Industries 942,Non-Profit,1-50,CA,North America,paid,2025-04-27,Yuki Brown,Y
+1928,Orbit Digital 277,Real Estate,201-1000,united kingdom,Europe,referral,11-28-2022,James Mueller,Y
+1929,Helios Systems 975,Media,51-200,US,North America,partner,2022/08/30,James Williams,false
+1930,Nimbus Corp 285,Finance,201-1000,canada,North America,organic,05-15-2022,Omar Moore,N
+1931,Beacon Corp 638,Real Estate,1-50,United Kingdom,Europe,organic,2025/04/15,Thomas Martin,true
+1932,Zenith Innovations 411,Real Estate,201-1000,Canada,North America,partner,17-May-2024,James Moore,N
+1933,Nexus Software 928,Healthcare,1000+,Canada,North America,organic,2022-02-22,Sophie Ahmed,N
+1934,Nimbus Systems 676,Retail,1-50,Japan,Asia-Pacific,paid,2023-07-05,David Davis,Y
+1935,Vanguard Innovations 236,Retail,51-200,France,Europe,organic,12-28-2023,Linda Jones,N
+1936,Flux Labs 683,Hospitality,1000+,United States,North America,referral,2024/11/25,James Mueller,N
+1937,Quantum Corp 710,Logistics,51-200,australia,Asia-Pacific,referral,26-Sep-2022,Charles Rodriguez,Y
+1938,Nexus Partners 185,Real Estate,1-50,united states,North America,partner,2023/09/12,Sophie Ahmed,N
+1939,Pulse Labs 902,Education,1-50,DE,Europe,organic,12/15/2022,Michael Davis,N
+1940,Beacon Innovations 556,Consulting,201-1000,australia,Asia-Pacific,paid,06-06-2024,Priya Tanaka,N
+1941,Catalyst Innovations 448,Technology,201-1000,BR,South America,partner,10/04/2022,Sophie Ahmed,Y
+1942,Stellar Corp 313,Healthcare,1000+,Germany,Europe,paid,07/29/2025,Priya Tanaka,N
+1943,Vanguard Solutions 774,Finance,201-1000,united kingdom,Europe,paid,12-28-2024,Michael Chen,N
+1944,Pulse Partners 779,Government,51-200,Australia,Asia-Pacific,paid,05-Jan-2023,David Davis,Y
+1945,Flux Partners 588,Energy,1000+,CA,North America,paid,2025/05/01,James Tanaka,Y
+1946,Quantum Industries 409,Government,1-50,U.S.A.,North America,referral,2023/06/22,Omar Moore,N
+1947,Stellar Technologies 489,Energy,1-50,Australia,Asia-Pacific,organic,08-18-2025,Robert Jackson,no
+1948,Zenith Corp 782,Finance,201-1000,DE,Europe,organic,2025-01-08,Sophie Ahmed,Y
+1949,Zenith Industries 873,Hospitality,51-200,united states,North America,partner,2022-04-06,Michael Davis,Y
+1950,Elevate Group 410,Real Estate,1000+,United Kingdom,Europe,partner,06-May-2024,Omar Moore,Y
+1951,Stratos Innovations 962,Manufacturing,1000+,France,Europe,paid,22-Jan-2022,Michael Chen,0
+1952,Vertex Dynamics 846,Consulting,1-50,India,Asia-Pacific,paid,2025/09/11,Linda Jones,no
+1953,Nova Ventures 960,Media,201-1000,Singapore,Asia-Pacific,paid,2023-06-15,James Moore,Y
+1954,Vanguard Group 922,Real Estate,51-200,AU,Asia-Pacific,partner,2022/08/27,Linda Anderson,Y
+1955,Vanguard Dynamics 974,Non-Profit,201-1000,IN,Asia-Pacific,paid,03-06-2022,James Tanaka,Y
+1956,Orbit Software 439,Healthcare,1000+,UK,Europe,organic,2024/08/27,James Mueller,N
+1957,Helios Partners 194,Hospitality,51-200,CA,North America,paid,2023/09/06,James Williams,Y
+1958,Orbit Digital 274,Education,1000+,GB,Europe,paid,10-13-2024,James Moore,N
+1959,Nimbus Group 460,Non-Profit,201-1000,Singapore,Asia-Pacific,partner,01/23/2022,Michael Chen,N
+1960,Ignite Partners 43,Legal,201-1000,Australia,Asia-Pacific,organic,2024-08-15,James Mueller,N
+1961,Catalyst Labs 513,Legal,201-1000,France,Europe,organic,2025/07/05,Susan Johnson,N
+1962,Zenith Corp 799,Energy,51-200,SG,Asia-Pacific,organic,20-May-2025,Michael Chen,Y
+1963,Apex Group 501,Logistics,201-1000,IN,Asia-Pacific,paid,2022/07/12,James Tanaka,N
+1964,Elevate Innovations 385,Hospitality,1000+,GB,Europe,partner,2025/01/15,Yuki Brown,N
+1965,Elevate Digital 240,Education,201-1000,India,Asia-Pacific,referral,02-07-2025,James Mueller,Y
+1966,Nimbus Solutions 961,Energy,1-50,US,North America,referral,02-Nov-2022,James Tanaka,Y
+1967,Beacon Ventures 862,Education,1000+,JP,Asia-Pacific,organic,28-Feb-2024,James Tanaka,no
+1968,Zenith Innovations 254,Manufacturing,1-50,BR,South America,partner,2023/07/01,Omar Moore,Y
+1969,Nova Consulting 415,Finance,51-200,BR,South America,partner,2022/09/04,Sophie Ahmed,Y
+1970,Orbit Digital 84,Logistics,1000+,SG,Asia-Pacific,paid,02-03-2022,Michael Davis,N
+1971,Helios Digital 847,Energy,1000+,United States,North America,referral,03/04/2024,Linda Anderson,Y
+1972,Stratos Digital 494,Non-Profit,201-1000,India,Asia-Pacific,referral,02-19-2022,Yuki Brown,N
+1973,Quantum Consulting 121,Non-Profit,1-50,BR,South America,partner,2022-05-01,Michael Chen,N
+1974,Elevate Labs 192,Energy,1-50,united states,North America,paid,05-23-2022,Sophie Ahmed,Y
+1975,Stellar Digital 858,Government,51-200,JP,Asia-Pacific,organic,06-14-2025,Yuki Brown,No
+1976,Forge Innovations 331,Legal,1-50,germany,Europe,partner,23-Apr-2023,James Mueller,N
+1977,Orbit Systems 415,Legal,51-200,Singapore,Asia-Pacific,paid,21-Aug-2023,James Williams,Y
+1978,Helios Innovations 20,Real Estate,1-50,united kingdom,Europe,paid,2023-08-02,James Mueller,N
+1979,Catalyst Consulting 552,Energy,51-200,BR,South America,paid,01-24-2023,Linda Anderson,1
+1980,Orbit Ventures 806,Real Estate,1-50,DE,Europe,partner,04-22-2022,Arun Brown,Y
+1981,Elevate Ventures 386,Education,1-50,Australia,Asia-Pacific,partner,20-Sep-2025,Sophie Ahmed,Y
+1982,Quantum Software 871,Real Estate,1-50,Japan,Asia-Pacific,partner,2022-07-10,James Mueller,Y
+1983,Quantum Industries 646,Manufacturing,1-50,australia,Asia-Pacific,organic,03-29-2022,David Davis,Y
+1984,Beacon Systems 412,Logistics,51-200,canada,North America,referral,18-Dec-2024,Linda Anderson,N
+1985,Catalyst Digital 970,Finance,201-1000,U.S.A.,North America,paid,2025/09/14,Susan Johnson,N
+1986,Vertex Technologies 430,Legal,1000+,Japan,Asia-Pacific,paid,2022/01/05,James Moore,Y
+1987,Elevate Systems 16,Manufacturing,1-50,JP,Asia-Pacific,organic,03/09/2022,Michael Chen,Y
+1988,Pulse Ventures 923,Non-Profit,1000+,australia,Asia-Pacific,paid,29-Jul-2023,Michael Davis,N
+1989,Stratos Ventures 842,Legal,201-1000,Brazil,South America,referral,01/13/2022,Thomas Martin,Y
+1990,Pulse Industries 611,Manufacturing,1000+,USA,North America,paid,2025-04-14,Priya Tanaka,yes
+1991,Ignite Software 273,Manufacturing,1000+,SG,Asia-Pacific,organic,07/13/2024,James Williams,Y
+1992,Zenith Industries 326,Manufacturing,1000+,CA,North America,organic,09-24-2023,Arun Chen,0
+1993,Vanguard Digital 965,Government,201-1000,australia,Asia-Pacific,paid,2022-02-03,Thomas Martin,N
+1994,Nimbus Dynamics 511,Media,51-200,Germany,Europe,paid,11/26/2024,Michael Chen,N
+1995,Apex Industries 413,Retail,1-50,Brazil,South America,referral,05-22-2025,James Williams,N
+1996,Nimbus Consulting 497,Finance,1000+,Canada,North America,paid,2022/10/04,Sophie Ahmed,N
+1997,Helios Systems 12,Hospitality,1000+,India,Asia-Pacific,paid,03-May-2024,James Moore,N
+1998,Helios Partners 931,Manufacturing,201-1000,SG,Asia-Pacific,partner,09-08-2025,Linda Anderson,Y
+1999,Beacon Innovations 508,Technology,201-1000,Brazil,South America,paid,05-Jun-2025,Linda Anderson,N
+2000,Stellar Solutions 536,Education,51-200,australia,Asia-Pacific,paid,05-30-2025,David Davis,Y
