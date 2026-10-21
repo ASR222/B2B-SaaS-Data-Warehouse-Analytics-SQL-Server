@@ -17,7 +17,9 @@ A production-quality SQL Server data warehouse implementing **medallion architec
 
 ---
 
-## Architecture
+![Sources, then bronze (raw landing), silver (cleaned) and gold (star schema)](docs/layers.jpg)
+
+
 
 ```
   ┌──────────────┐     ┌──────────────┐
